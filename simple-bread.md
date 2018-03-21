@@ -36,7 +36,7 @@ To get some background on this I suggest this video: [https://youtu.be/zDEcvSc2U
 
 ## Wait 8 hours
 
-After 8 hours wet your hands again. Stretch and fold one more time. The dough will collapse a lot. Don't worry. I usually do this ib the morning after getting up.
+After 8 hours wet your hands again. Stretch and fold one more time. The dough will collapse a lot. Don't worry. I usually do this in the morning after getting up.
 
 ## Wait Another 10 hours at least
 
