@@ -63,24 +63,4 @@ This is how my bread 75% hydration bread typically looks like before letting it 
 
 ![Shaped bread](https://i.imgur.com/zcjJf3e.jpg)
 
-## Preheat the oven to max temperature
-
-After 30 minutes of shaping the dough, preheat the oven to max temperature. In my case that's around 270 degrees. Place a tray in the oven. At the bottom of the oven play another tray of water. We are using the water because it creates steam. The steam supports the dough and allows it to rise it more in the oven.
-
-## Finally bake the bread
-
-After another 30 minutes of the oven pre-heating, remove the top tray and place your bread directly on the tray. Careful, this is super hot. Cut the bread with 2 cm deep cuts at an angle. Imagine this like tectonic plates. It creates a weakness in the surface and allows the bread to raise at the point of weakness. If the cut is vertical the bread will block it self.
-
-This is another bread I made, but the principle remains the same. Cut it with a sharp knife. Feel free and be creative.
-
-Put the bread into the oven. Wait for 25 minutes.
-
-## Remove the tray with water
-
-![The bread should have grown nicely by now](https://i.imgur.com/tfMzyaH.jpg)
-
-After the 25 minutes remove the tray of water. The reason being we want the bread crust to become super crisp now. The bread no longer rises at this point. The yeast has been killed, the water evaporated. We use this time to really get it crispy.
-
-After another 20 minutes in the oven your bread is ready to be enjoyed.
-
-![Final bread](https://i.imgur.com/7OgGVRw.jpg)
+[Proceed with the baking instructions from the basic dough recipe](/basics/basic-dough.md)
