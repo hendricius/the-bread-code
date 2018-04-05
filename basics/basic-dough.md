@@ -65,7 +65,7 @@ Gently stretch the edges of the dough a little bit downwards. I use my hands to 
 
 ### Place the dough in a clean bowl
 
-If you have a [baneton](https://github.com/hendricius/the-bread-code/blob/master/basics/tools.md#baneton-optional) use a baneton. If not use a clean bowl. Place the shaped dough upside down in the container. The round surface that you created should be now at the bottom of your baneton or bowl. When baking the dough we will rotate the bowl and the round surface will again be on top in the oven. Cover the bowl with linen or some foil.
+If you have a [baneton](tools.md#baneton-optional) use a baneton. If not use a clean bowl. Place the shaped dough upside down in the container. The round surface that you created should be now at the bottom of your baneton or bowl. When baking the dough we will rotate the bowl and the round surface will again be on top in the oven. Cover the bowl with linen or some foil.
 
 Let the dough rest for an hour, or over the night in the fridge.
 
