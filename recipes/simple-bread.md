@@ -18,7 +18,7 @@ Let it rest for 1 hour.
 
 ## Adding yeast
 
-After the hour passed at the yeast to the dough. I use a pack of dry yeast, 7 grams. I didn't see major improvements on fresh yeast. I usually have a pack of dry yeast somewhere.
+After the hour passed add the yeast to the dough. I use a pack of dry yeast, 7 grams. I didn't see major improvements on fresh yeast. I usually have a pack of dry yeast somewhere.
 
 Mix it all together. Make your hands a little wet. Also this is the time to add more ingredients which you find yummy. You can add nuts, seeds, salami, dates whatever you want here. Although I suggest to initially only start with the basic bread no additional ingredients. Once you mastered that, move on. Ceteris Paribus, only change one variable at the time.
 
@@ -36,7 +36,7 @@ To get some background on this I suggest this video: [https://youtu.be/zDEcvSc2U
 
 ## Wait 8 hours
 
-After 8 hours wet your hands again. Stretch and fold one more time. The dough will collapse a lot. Don't worry. I usually do this ib the morning after getting up.
+After 8 hours wet your hands again. Stretch and fold one more time. The dough will collapse a lot. Don't worry. I usually do this in the morning after getting up.
 
 ## Wait Another 10 hours at least
 
