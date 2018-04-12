@@ -16,6 +16,7 @@ Custom recipes:
 
 * [Standard bread](recipes/standard-bread.md)
 * [French bread](recipes/french-bread.md)
+* [Date walnut bread](recipes/date-walnut-bread.md)
 
 ## Recipes with sourdough
 

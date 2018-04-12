@@ -49,9 +49,13 @@ Directly after the last stretch and fold remove the dough from the tray and plac
 
 Stretch the dough apart a little to form some kind of pizza. Then move the outer parts of the pizza in wards to the center. Piece by piece your dough will become rounder.
 
+### Recipe customization
+
 At this place most of the other recipes hook in. Once the dough is in front of you, you can start adding ingredients such as cheese, spinach, walnuts or whatever you want. For starting I suggest to not go with too many extras.
 
 `{{ CUSTOMIZE_YOUR_RECIPE_HERE }}`
+
+### Finalzing the shaping
 
 ![Sample bread with goat cheese. This is the time to add it](https://i.imgur.com/U55wUEk.jpg)
 
@@ -60,7 +64,6 @@ The trickiest part of the process now starts. You want the bottom part of the do
 ![Previously bottom part now faces you](https://i.imgur.com/8BuMgCv.jpg)
 
 Gently stretch the edges of the dough a little bit downwards. I use my hands to do that on the above pic. The goal is to create more tension on the surface. This will support the dough in the oven and make it raise more upwards. If your bread is too flat, this is very likely the step that you need to improve.
-
 
 ### Place the dough in a clean bowl
 
