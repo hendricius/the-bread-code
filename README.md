@@ -6,6 +6,24 @@ This repo is still work in progress and will be updated continously.
 
 ![A nice and yummy sourdough bread](https://i.imgur.com/KiFiGbc.jpg)
 
+## Recipes with yeast
+
+The basic recipe is the source recipe from which the customized recipes inherit.
+
+* [Basic bread](basics/basic-dough.md)
+
+Custom recipes:
+
+* [French bread](recipes/french-bread.md)
+
+## Recipes with sourdough
+
+`TODO`
+
+## Tools
+
+* [Which tools should you buy for baking?](basics/tools.md) Busting some of the tooling myths here. TLDR - you don't need any tools except a bowl and heat source.
+
 ## Motivation
 
 Did you ever relish the taste of a fresh and warm bread with a crispy crust? Do you know the sound of the crispy crust when you take bite? And have you ever experienced the delicious and homey scent of a bread coming right out of the oven?

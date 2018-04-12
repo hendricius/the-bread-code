@@ -6,10 +6,9 @@ remains the same.
 
 Prepare the dough always 24 hours before baking. If you run out of time you can also do this faster but then have to knead more initially. In this case a kitchen air or a similar tool can be helpful as it will speed up the process.
 
-## Ingredients:
+## Ingredients
 
-- 450 grams of all purpose flour (high protein). In Germany type 550.
-- 50 grams of rye flour or 10%. If you have no rye, instead add 50 grams more regular flour. I personally love the the slightly ryish taste. It gives excellent Aroma in my opinion.
+- 500 grams of all purpose flour (high protein). In Germany type 550.
 - 375 grams of water or 75%. Experiment with more hydration as well.
 - 10 grams of salt or 2%
 - 5 grams of dry yeast or 1%
@@ -69,11 +68,11 @@ If you have a [baneton](tools.md#baneton-optional) use a baneton. If not use a c
 
 Let the dough rest for an hour, or over the night in the fridge.
 
-## Preheat the oven to max temperature
+### Preheat the oven to max temperature
 
 After 30 minutes of shaping the dough, preheat the oven to max temperature. In my case that's around 270 degrees. It also takes another 30 degrees for the oven to reach max temperature. Place a tray in the oven. At the bottom of the oven play another tray of water. We are using the water because it creates steam. The steam supports the dough and allows it to rise it more in the oven.
 
-## Finally bake the bread
+### Finally bake the bread
 
 After another 30 minutes of the oven pre-heating, remove the top tray and place your bread directly it. Careful, this is super hot. If you have a dutch oven, place the bread in the durch oven. Cut the bread with 2 cm deep cuts at an angle. Imagine this like tectonic plates. It creates a weakness in the surface and allows the bread to raise at the point of weakness. If the cut is vertical the bread will block it. In comparison if cut at an angle you can create the bread himalayan mountains 😻.
 
@@ -81,7 +80,7 @@ After another 30 minutes of the oven pre-heating, remove the top tray and place 
 
 Put the bread into the oven. Wait for 25 minutes.
 
-## Remove (the tray with water or lid)
+### Remove (the tray with water or lid)
 
 ![The bread should have grown nicely by now](https://i.imgur.com/tfMzyaH.jpg)
 
