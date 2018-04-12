@@ -8,12 +8,13 @@ This repo is still work in progress and will be updated continously.
 
 ## Recipes with yeast
 
-The basic recipe is the source recipe from which the customized recipes inherit.
+The basic recipe is the source recipe from which the customized recipes inherit. I suggest to start baking the standard bread until you master it. Only then move on with further customizations.
 
 * [Basic bread](basics/basic-dough.md)
 
 Custom recipes:
 
+* [Standard bread](recipes/standard-bread.md)
 * [French bread](recipes/french-bread.md)
 
 ## Recipes with sourdough
