@@ -17,6 +17,12 @@ Custom recipes:
 * [Standard bread](recipes/standard-bread.md)
 * [French bread](recipes/french-bread.md)
 * [Date walnut bread](recipes/date-walnut-bread.md)
+* [Line seeds bread](recipes/lineseeds-bread.md)
+* [Bacon bread](recipes/bacon-bread.md)
+* [Salami bread](recipes/salami-bread.md)
+* [Safron Goat Cheese bread](recipes/safron-goat-cheese.md)
+* [Cocoa bread](recipes/cocoa-bread.md)
+* [Fullmilk Chocoloate bread](recipes/fullmilk-chocolotate-bread.md)
 
 ## Recipes with sourdough
 
