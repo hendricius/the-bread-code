@@ -15,6 +15,10 @@ Prepare the dough always 24 hours before baking. If you run out of time you can 
 
 ## Instructions
 
+### Pre steps
+
+The default recipe does not require any pre-steps to be done in advance. Custom recipes hook in here with additional steps that are required to be done before starting the bake.
+
 ### Autolyse
 
 Mix together all the ingredients in a large bowl except the yeast. Stir them with a spoon for 2 minutes. Let the dough rest for an hour after this step to have the flour absorb the water. Furthermore the atoms will diffuse and spread evenly throughout the dough.
