@@ -17,6 +17,7 @@ Custom recipes:
 * [Standard bread](recipes/standard-bread.md)
 * [French bread](recipes/french-bread.md)
 * [Date walnut bread](recipes/date-walnut-bread.md)
+* [Portuguese inspired Broa corn bread](recipes/portuguese-broa-corn-bread.md)
 * [Line seeds bread](recipes/lineseeds-bread.md)
 * [Bacon bread](recipes/bacon-bread.md)
 * [Salami bread](recipes/salami-bread.md)
