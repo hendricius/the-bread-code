@@ -70,7 +70,7 @@ Remove the mother dough from your fridge. Take 200 grams of your mother dough an
 
 Simply add another 105 grams of flour (rye, spalt, fullgrain) to the bowl in front of you. And add another 105 grams of water. You might now be thinking why 105 grams and not 100 grams? That's the reason why large scale bakeries use baking powder instead of yeast/sourdough. The mother dough eats around 5% of the dough and converts it into gas. So just to be safe, always add a little more back to the dough than you take. It's really easy, always add flour/water in 1:1 ratio.
 
-If your mother dough came for the fridge it will take some time to warm it up. The bacteria yeast is still somewhat frozen and needs time. I usually feed the dough 8 hours before I start the bake. Usually I do this in the evening, go to bed and then start the real bake in the morning.
+If your mother dough came from the fridge it will take some time to warm it up. The bacteria yeast is still somewhat frozen and needs time. I usually feed the dough 8 hours before I start the bake. Usually I do this in the evening, go to bed and then start the real bake in the morning.
 
 After 8 hours your new mother dough is ready to be used. Return 210 grams to your old mother dough in the fridge. Stir the old mother dough with the newly added 210 grams of mother dough. Cover mother dough again and place it in your fridge for the next week. You can maintain your mother dough for a very long time. [There has recently been a report on a woman having a 122 year old sour dough starter.](http://trib.com/news/state-and-regional/newcastle-woman-maintains--year-old-sourdough-starter/article_000fcb17-5a5a-5590-84c2-3b55bb1d80fa.html)
 
