@@ -83,11 +83,11 @@ After returning your mother dough to the fridge the actual baking starts. Mix th
 4. Return what you extracted +5% back to the fridge.
 5. Start the bake.
 
-Below is how many first ever baked sourdough bread looked like. If yours looks somewhat like this, you did a good job. It was a mixture of 50% rye and 50% fullgrain.
+Below is what many first ever baked sourdough bread looked like. If yours looks somewhat like this, you did a good job. It was a mixture of 50% rye and 50% fullgrain.
 
 ![My first ever baked sourdough bread](https://i.imgur.com/FSvDR1K.jpg)
 
-This is how it looked like from the inside:
+This is what it looked like from the inside:
 
 ![Crumb shot of my first sour dough bread](https://i.imgur.com/1Nglnou.jpg)
 
