@@ -17,7 +17,7 @@ The whole process will take you 7 days with around 2 minutes of time per day. Wh
 ## Requirements
 
 * 450 grams of full grain wheat flour
-* You can also take rye, spalt or whatever full grain flour you have available. Don't worry too much, you can later on feed your mother dough with rye to make it more ryish. It's just about getting a nice and yummy place for the bacteria and yeast.
+* You can also take rye, spelt or whatever full grain flour you have available. Don't worry too much, you can later on feed your mother dough with rye to make it more ryish. It's just about getting a nice and yummy place for the bacteria and yeast.
 
 ## Instructions
 
@@ -68,7 +68,7 @@ A healthy formula is 40% sourdough for a rye bread/full grain bread for instance
 
 Remove the mother dough from your fridge. Take 200 grams of your mother dough and place it in a large bowl in front of you. Since we stole 200 grams of mother dough, we need to return that later on. Else the mother dough is very unhappy. Just taking without returning would result in you having to start your sour dough again from scratch. We need to return 200 grams of dough to the mother and we need another 200 grams of sour dough for our baking. We already have 200 grams in the bowl in front of us. Which means we need to produce another 200 grams of sourdough.
 
-Simply add another 105 grams of flour (rye, spalt, fullgrain) to the bowl in front of you. And add another 105 grams of water. You might now be thinking why 105 grams and not 100 grams? That's the reason why large scale bakeries use baking powder instead of yeast/sourdough. The mother dough eats around 5% of the dough and converts it into gas. So just to be safe, always add a little more back to the dough than you take. It's really easy, always add flour/water in 1:1 ratio.
+Simply add another 105 grams of flour (rye, spelt, fullgrain) to the bowl in front of you. And add another 105 grams of water. You might now be thinking why 105 grams and not 100 grams? That's the reason why large scale bakeries use baking powder instead of yeast/sourdough. The mother dough eats around 5% of the dough and converts it into gas. So just to be safe, always add a little more back to the dough than you take. It's really easy, always add flour/water in 1:1 ratio.
 
 If your mother dough came from the fridge it will take some time to warm it up. The bacteria yeast is still somewhat frozen and needs time. I usually feed the dough 8 hours before I start the bake. Usually I do this in the evening, go to bed and then start the real bake in the morning.
 
