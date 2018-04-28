@@ -31,9 +31,12 @@ Sourdough bread is an all natural bread without any added yeast. The dough gives
 
 * [Make your own sourdough](basics/sourdough.md)
 
-Recipes:
+Custom Recipes:
 
-`TODO`
+* [Golden standard german bread](recipes/golden-standard-german-bread.md)
+* [Bavarian rye bread](recipes/bavarian-rye-bread.md)
+* [The Crack Bread](recipes/crack-bread-tomato-water.md)
+
 
 ## Tools
 
