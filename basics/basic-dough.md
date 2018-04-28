@@ -21,13 +21,17 @@ The default recipe does not require any pre-steps to be done in advance. Custom 
 
 ### Autolyse
 
-Mix together all the ingredients in a large bowl except the yeast. Stir them with a spoon for 2 minutes. Let the dough rest for an hour after this step to have the flour absorb the water. Furthermore the atoms will diffuse and spread evenly throughout the dough.
+Mix together all the ingredients in a large bowl except the yeast. Stir them with a spoon for 2 minutes. Let the dough rest for an hour after this step to have the flour absorb the water. Furthermore the atoms will homogenise and spread evenly throughout the dough.
+
+### Add the yeast
+
+Place the yeast evenly on top of your dough. Many sources claim this should be done after the autolysing. However when baking myself I sometimes added yeast right away. I could not notice a significant difference. It would be interesting to conduct more research on this topic.
 
 ### Form the gluten
 
 We need a really strong layer of gluten to trap the air in the dough. At the same time this will make the bread more crispy. Bread with nicely formed gluten will not fall apart when cutting.
 
-Knead the dough for around 5 minutes. There is no special technique, just imagine you want to punch the dough. If the dough sticks too much to your hands, wet them in water. Test whether your gluten is nicely formed or not by lifting the dough in the air with one hand. The dough should slowly flow back to the bowl.
+Knead the dough for around 5 minutes. This will also evenly distribute the yeast we previously added. There is no special technique, just imagine you want to punch the dough. If the dough sticks too much to your hands, wet them in water. Test whether your gluten is nicely formed or not by lifting the dough in the air with one hand. The dough should slowly flow back to the bowl.
 
 If it starts sticking together you have your gluten. Experiment on this step further in the future to form really strong gluten connections.
 
