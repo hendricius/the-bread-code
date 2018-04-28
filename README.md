@@ -2,7 +2,7 @@
 
 Learn how to master the art of baking the programmer way. If you love programming, you will also enjoy breaking some bread. A/B test, iterate and ultimately become a self taught baker. This repo is dedicated to becoming your bread manifesto with useful tricks and hacks. Furthermore the goal is to illustrate how easy making bread is and that you can get started today without expensive tools.
 
-This repo is still work in progress and will be updated continously.
+This repo is still work in progress and will be updated continuously.
 
 ![A nice and yummy sourdough bread](https://i.imgur.com/KiFiGbc.jpg)
 
