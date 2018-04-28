@@ -6,7 +6,7 @@ I want to start by saying that `10_000` years ago there were no tools available 
 
 ## Bowl (required)
 
-You should have a nice bowl in which you can prepare your bread. This can be made out of glas, metal or plastic. The bigger the better as it will be easier for you to work the dough in a larger bowl. It's advisable to have two of the bowels. The first bowl you will need to prepare and mix the dough. Before putting the dough in the oven you shape the dough and let it rest. A clean bowl then with some parchment paper is ideal. If you have a baneton you don't need the second bowl.
+You should have a nice bowl in which you can prepare your bread. This can be made out of glass, metal or plastic. The bigger the better as it will be easier for you to work the dough in a larger bowl. It's advisable to have two of the bowels. The first bowl you will need to prepare and mix the dough. Before putting the dough in the oven you shape the dough and let it rest. A clean bowl then with some parchment paper is ideal. If you have a baneton you don't need the second bowl.
 
 ![A large bowl helps a lot](https://i.imgur.com/jtlHzfG.jpg)
 
