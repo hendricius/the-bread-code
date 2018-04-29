@@ -8,20 +8,20 @@ Prepare the dough always 24 hours before baking. If you run out of time you can 
 
 ## Ingredients
 
-- 500 grams of all purpose flour (high protein). In Germany type 550.
+- 500 grams of all-purpose flour (high protein). In Germany type 550.
 - 375 grams of water or 75%. Experiment with more hydration as well.
 - 10 grams of salt or 2%
 - 5 grams of dry yeast or 1%
 
 ## Instructions
 
-### Pre steps
+### Preparation steps
 
-The default recipe does not require any pre-steps to be done in advance. Custom recipes hook in here with additional steps that are required to be done before starting the bake.
+The default recipe does not require any steps to be taken in advance. Custom recipes hook in here with additional steps that are required to be done before starting the bake.
 
 ### Autolyse
 
-Mix together all the ingredients in a large bowl except the yeast. Stir them with a spoon for 2 minutes. Let the dough rest for an hour after this step to have the flour absorb the water. Furthermore the atoms will homogenise and spread evenly throughout the dough.
+Mix together all the ingredients in a large bowl except the yeast. Stir them with a spoon for 2 minutes. Let the dough rest for an hour after this step to have the flour absorb the water. Furthermore the atoms will homogenize and spread evenly throughout the dough.
 
 ### Add the yeast
 
@@ -45,7 +45,7 @@ After 8 hours we will now start stretching and folding the dough. Don't worry if
 
 The idea is to increase the strength of the gluten network even further. Don't knead the dough too hard at this point. Be soft and gentle.
 
-To stretch and fold wet your hands and start pulling the dough upwards at one area of the bowl. I start at the bottom and stretch it all the way to the top. Assuming your bowl is northwards in front of you you are standing south of the bowl, take the north part of the dough and place it on the south part of the dough. Rotate the bowl by 90° and do the same. Do this in circles. I tested different quantities of rotation but made the best experience with 4x360° degree rotations. As mentioned before be soft and gentle at this point.
+To stretch and fold wet your hands and start pulling the dough upwards at one area of the bowl. I start at the bottom and stretch it all the way to the top. Assuming your bowl is northwards in front of you, you are standing south of the bowl, take the north part of the dough and place it on the south part of the dough. Rotate the bowl by 90° and do the same. Do this in circles. I tested different quantities of rotation but made the best experience with 4x360° degree rotations. As mentioned before be soft and gentle at this point.
 
 ### Stretch and Fold Part 2
 
@@ -59,11 +59,11 @@ Stretch the dough apart a little to form some kind of pizza. Then move the outer
 
 ### Recipe customization
 
-At this place most of the other recipes hook in. Once the dough is in front of you, you can start adding ingredients such as cheese, spinach, walnuts or whatever you want. For starting I suggest to not go with too many extras.
+At this place most of the other recipes hook in. Once the dough is in front of you, you can start adding ingredients such as cheese, spinach, walnuts or whatever you want. For starting, I suggest to not go with too many extras.
 
 `{{ CUSTOMIZE_YOUR_RECIPE_HERE }}`
 
-### Finalzing the shaping
+### Finalizing the shaping
 
 ![Sample bread with goat cheese. This is the time to add it](https://i.imgur.com/U55wUEk.jpg)
 
@@ -75,7 +75,7 @@ Gently stretch the edges of the dough a little bit downwards. I use my hands to 
 
 ### Place the dough in a clean bowl
 
-If you have a [baneton](tools.md#baneton-optional) use a baneton. If not use a clean bowl. Place the shaped dough upside down in the container. The round surface that you created should be now at the bottom of your baneton or bowl. When baking the dough we will rotate the bowl and the round surface will again be on top in the oven. Cover the bowl with linen or some foil.
+If you have a [banneton](tools.md#banneton-optional) use a banneton. If not use a clean bowl. Place the shaped dough upside down in the container. The round surface that you created should be now at the bottom of your banneton or bowl. When baking the dough we will rotate the bowl and the round surface will again be on top in the oven. Cover the bowl with linen or some foil.
 
 Let the dough rest for an hour, or over the night in the fridge.
 
@@ -85,7 +85,7 @@ After 30 minutes of shaping the dough, preheat the oven to max temperature. In m
 
 ### Finally bake the bread
 
-After another 30 minutes of the oven pre-heating, remove the top tray and place your bread directly it. Careful, this is super hot. If you have a dutch oven, place the bread in the durch oven. Cut the bread with 2 cm deep cuts at an angle. Imagine this like tectonic plates. It creates a weakness in the surface and allows the bread to raise at the point of weakness. If the cut is vertical the bread will block it. In comparison if cut at an angle you can create the bread himalayan mountains 😻.
+After another 30 minutes of the oven preheating, remove the top tray and place your bread directly it. Careful, this is super hot. If you have a dutch oven, place the bread in the dutch oven. Cut the bread with 2 cm deep cuts at an angle. Imagine this like tectonic plates. It creates a weakness in the surface and allows the bread to raise at the point of weakness. If the cut is vertical the bread will block it. In comparison if cut at an angle you can create the bread Himalayan mountains 😻.
 
 ![Bread cut at an angle (left) vs bread cut vertically](https://i.imgur.com/nnlLhr8.jpg)
 
