@@ -85,7 +85,7 @@ After 30 minutes of shaping the dough, preheat the oven to max temperature. In m
 
 ### Finally bake the bread
 
-After another 30 minutes of the oven pre-heating, remove the top tray and place your bread directly it. Careful, this is super hot. If you have a dutch oven, place the bread in the durch oven. Cut the bread with 2 cm deep cuts at an angle. Imagine this like tectonic plates. It creates a weakness in the surface and allows the bread to raise at the point of weakness. If the cut is vertical the bread will block it. In comparison if cut at an angle you can create the bread himalayan mountains 😻.
+After another 30 minutes of the oven pre-heating, remove the top tray and place your bread directly inside. Careful, this is super hot. If you have a dutch oven, place the bread into the dutch oven. Cut the bread with 2 cm deep cuts at an angle. Imagine tectonic plates: the cuts create a weakness in the surface, which allows the bread to rise at that point. If the cut is vertical the bread will block it. In comparison, if cut at an angle, you can create the bread himalayan mountains 😻.
 
 ![Bread cut at an angle (left) vs bread cut vertically](https://i.imgur.com/nnlLhr8.jpg)
 
