@@ -8,7 +8,7 @@ This repo is still work in progress and will be updated continuously.
 
 ## Recipes with yeast
 
-The basic recipe is the source recipe from which the customized recipes inherit. I suggest starting baking the standard bread until you master it. Only then move on to further customizations.
+The basic recipe is the source recipe from which the customized recipes inherit. I suggest starting baking the standard bread until you master it. Only then move on to further customization.
 
 * [Basic bread](basics/basic-dough.md)
 
@@ -21,9 +21,9 @@ Custom recipes:
 * [Line seeds bread](recipes/lineseeds-bread.md)
 * [Bacon bread](recipes/bacon-bread.md)
 * [Salami bread](recipes/salami-bread.md)
-* [Safron Goat Cheese bread](recipes/safron-goat-cheese.md)
+* [Saffron Goat Cheese bread](recipes/safron-goat-cheese.md)
 * [Cocoa bread](recipes/cocoa-bread.md)
-* [Fullmilk Chocoloate bread](recipes/fullmilk-chocolotate-bread.md)
+* [Full milk Chocolate bread](recipes/fullmilk-chocolotate-bread.md)
 
 ## Recipes with sourdough
 
@@ -33,7 +33,7 @@ Sourdough bread is an all natural bread without any added yeast. The dough gives
 
 Custom Recipes:
 
-* [Golden standard german bread](recipes/golden-standard-german-bread.md)
+* [Golden standard German bread](recipes/golden-standard-german-bread.md)
 * [Bavarian rye bread](recipes/bavarian-rye-bread.md)
 * [The Crack Bread](recipes/crack-bread-tomato-water.md)
 
