@@ -1,3 +1,3 @@
-# Safron Goat Cheese Bread
+# Saffron Goat Cheese Bread
 
 `TODO`
