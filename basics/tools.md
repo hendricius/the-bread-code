@@ -1,32 +1,32 @@
 # Tools
 
-The goal of this small quide is to clarify what kind of tools you need for baking your bread.
+The goal of this small guide is to clarify what kind of tools you need for baking your bread.
 
-I want to start by saying that `10_000` years ago there were no tools available for baking a bread. Be very careful when people tell you to buy a specific tool. However with advances in technology there are a few gadgets that make it easier for you to bake bread. If you have no tools, don't be afraid, you can get started anyways.
+I want to start by saying that `10_000` years ago there were no tools available for baking bread. Be very careful when people tell you to buy a specific tool. However with advances in technology there are a few gadgets that make it easier for you to bake bread. If you have no tools, don't be afraid, you can get started anyways.
 
 ## Bowl (required)
 
-You should have a nice bowl in which you can prepare your bread. This can be made out of glass, metal or plastic. The bigger the better as it will be easier for you to work the dough in a larger bowl. It's advisable to have two of the bowels. The first bowl you will need to prepare and mix the dough. Before putting the dough in the oven you shape the dough and let it rest. A clean bowl then with some parchment paper is ideal. If you have a baneton you don't need the second bowl.
+You should have a nice bowl in which you can prepare your bread. This can be made out of glass, metal or plastic. The bigger the better as it will be easier for you to work the dough in a larger bowl. It's advisable to have two of the bowels. The first bowl you will need to prepare and mix the dough. Before putting the dough in the oven you shape the dough and let it rest. A clean bowl then with some parchment paper is ideal. If you have a banneton you don't need the second bowl.
 
 ![A large bowl helps a lot](https://i.imgur.com/jtlHzfG.jpg)
 
 ## Oven (required)
 
-Instead of an oven you can also use a barbecue or a fire. However a oven is practical and easy to control. The max temperature you need is around 230 degrees celsius. So having an oven that goes up to 250 degrees is ideal.
+Instead of an oven you can also use a barbecue or a fire. However an oven is practical and easy to control. The max temperature you need is around 230 degrees Celsius. So having an oven that goes up to 250 degrees is ideal.
 
 ## Baking tray (required)
 
 Some kind of plate on which you can put the dough or any other container in your oven. In case you have no pizza stone or dutch oven it's advisable to cover it with parchment paper so your dough will not stick to it.
 
-## Baneton (optional)
+## Banneton (optional)
 
-A baneton is used to let your dough rise one last time before baking it. Instead of using one bowl with parchment paper I prefer the baneton. Reason being I don't need to buy parchment paper. Also to me it feels more natural to just let the dough rise in a wooden baneton. Additionally a baneton powered bread I believe looks visually a little more appealing. You have nice circles of flour on the top of your bread.
+A banneton is used to let your dough rise one last time before baking it. Instead of using one bowl with parchment paper I prefer the banneton. Reason being I don't need to buy parchment paper. Also to me it feels more natural to just let the dough rise in a wooden banneton. Additionally a banneton powered bread I believe looks visually a little more appealing. You have nice circles of flour on the top of your bread.
 
-![A Baneton](https://i.imgur.com/8GZhYtH.jpg)
+![A Banneton](https://i.imgur.com/8GZhYtH.jpg)
 
-## Metal / glas tray (optional)
+## Metal / glass tray (optional)
 
-Some kind of container which is able to endure high heats is ideal. In case you have a dutch oven you will not need this. The tray will be used to create additional steam inside of your oven. Before baking you put water inside of the tray and let it cook. The steam supports the bread while rising as the crust does not get crispy that fast.
+Some kind of container which is able to endure high heats is ideal. In case you have a dutch oven you will not need this. The tray will be used to create additional steam inside of your oven. Before baking, you put water inside of the tray and let it cook. The steam supports the bread while rising as the crust does not get crispy that fast.
 
 
 ## Dutch oven (optional)
