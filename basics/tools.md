@@ -6,7 +6,7 @@ I want to start by saying that `10_000` years ago there were no tools available 
 
 ## Bowl (required)
 
-You should have a nice bowl in which you can prepare your bread. This can be made out of glass, metal or plastic. The bigger the better as it will be easier for you to work the dough in a larger bowl. It's advisable to have two of the bowels. The first bowl you will need to prepare and mix the dough. Before putting the dough in the oven you shape the dough and let it rest. A clean bowl then with some parchment paper is ideal. If you have a baneton you don't need the second bowl.
+You should have a nice bowl in which you can prepare your bread. This can be made out of glass, metal or plastic. The bigger the better as it will be easier for you to work the dough in a larger bowl. It's advisable to have two of the bowls. The first bowl you will need to prepare and mix the dough. Before putting the dough in the oven you shape the dough and let it rest. A clean bowl then with some parchment paper is ideal. If you have a baneton you don't need the second bowl.
 
 ![A large bowl helps a lot](https://i.imgur.com/jtlHzfG.jpg)
 
@@ -24,14 +24,14 @@ A baneton is used to let your dough rise one last time before baking it. Instead
 
 ![A Baneton](https://i.imgur.com/8GZhYtH.jpg)
 
-## Metal / glas tray (optional)
+## Metal / glass tray (optional)
 
 Some kind of container which is able to endure high heats is ideal. In case you have a dutch oven you will not need this. The tray will be used to create additional steam inside of your oven. Before baking you put water inside of the tray and let it cook. The steam supports the bread while rising as the crust does not get crispy that fast.
 
 
 ## Dutch oven (optional)
 
-Although the dutch oven is optional I highly recommend it. You can also re-create your own dutch oven with a pizza stone and a large lid. Basically all you need is some kind of device that fully covers your bread in the oven. The reason being that the water that exits your dough will stay trapped in the dutch oven. That way it's like some kind of dough sauna. The dough remains wet and can rise more in the oven. The crust does not get too crispy instantly, supporting the rise of the dough. The result is a fluffier bread with more air bubbles. Furthermore the dutch oven is a good source of heat making sure that the bread cooks evenly from all sides.
+Although the dutch oven is optional, I highly recommend it. You can also re-create your own dutch oven with a pizza stone and a large lid. Basically all you need is some kind of device that fully covers your bread in the oven. The reason being that the water that exits your dough will stay trapped in the dutch oven. That way it's like some kind of dough sauna. The dough remains wet and can rise more in the oven. The crust does not get too crispy instantly, supporting the rise of the dough. The result is a fluffier bread with more air bubbles. Furthermore, the dutch oven is a good source of heat making sure that the bread cooks evenly from all sides.
 
 When using the dutch oven you also no longer need parchment paper at all. The bread dough is inserted into the dutch oven without the parchment paper.
 
