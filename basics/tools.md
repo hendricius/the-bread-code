@@ -31,7 +31,7 @@ Some kind of container which is able to endure high heats is ideal. In case you 
 
 ## Dutch oven (optional)
 
-Although the dutch oven is optional I highly recommend it. You can also re-create your own dutch oven with a pizza stone and a large lid. Basically all you need is some kind of device that fully covers your bread in the oven. The reason being that the water that exits your dough will stay trapped in the dutch oven. That way it's like some kind of dough sauna. The dough remains wet and can rise more in the oven. The crust does not get too crispy instantly, supporting the rise of the dough. The result is a fluffier bread with more air bubbles. Furthermore the dutch oven is a good source of heat making sure that the bread cooks evenly from all sides.
+Although the dutch oven is optional, I highly recommend it. You can also re-create your own dutch oven with a pizza stone and a large lid. Basically all you need is some kind of device that fully covers your bread in the oven. The reason being that the water that exits your dough will stay trapped in the dutch oven. That way it's like some kind of dough sauna. The dough remains wet and can rise more in the oven. The crust does not get too crispy instantly, supporting the rise of the dough. The result is a fluffier bread with more air bubbles. Furthermore, the dutch oven is a good source of heat making sure that the bread cooks evenly from all sides.
 
 When using the dutch oven you also no longer need parchment paper at all. The bread dough is inserted into the dutch oven without the parchment paper.
 
