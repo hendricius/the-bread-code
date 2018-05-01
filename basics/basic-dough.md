@@ -89,7 +89,7 @@ After another 30 minutes of the oven preheating, remove the top tray and place y
 
 ![Bread cut at an angle (left) vs bread cut vertically](https://i.imgur.com/nnlLhr8.jpg)
 
-Put the bread into the oven. Wait for 25 minutes.
+Put the bread into the oven. Reduce the temperature to 230 degrees. Wait for 25 minutes.
 
 ### Remove (the tray with water or lid)
 
