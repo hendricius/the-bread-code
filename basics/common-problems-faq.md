@@ -9,6 +9,7 @@ Make sure that you always only change 1 parameter at the same time.
 That way you can iterate and learn how each parameter influences the final product.
 
 #### There is liquid gathering on top of my sourdough starter when making it
+
 That is no problem. This happens. Yeast and bacteria like a moist surrounding.
 With initial higher hydration the yeast and bacteria can homogenise
 nicer throughoutthe dough that you are making.
@@ -21,6 +22,7 @@ At the same time the dough will dry out a little bit, further decreasing hydrati
 Ultimately you should aim for around 50% hydration in your sourdough starter.
 
 #### When making the starter parts in the bowl dry out
+
 Don't worry. Just keep stirring and ignore the dried out parts.
 Every part of the dough, even if dry contains precious yeast and bacteria.
 Just keep going it until your starter is ready.
@@ -28,6 +30,7 @@ The bowl might look like a mess, but that is fine. Even if parts of the dry
 dough make it into the starter, that is no problem at all.
 
 #### My sourdough already looks ready after 4 days
+
 That can happen. It might be that there is more yeast and bacteria
 in your surrounding. You might also have stored the bowl in a warmer
 environment, providing a better way for the bacteria and yeast to grow.
@@ -43,6 +46,7 @@ However in this case as you should have significant amounts
 of mother dough, taking 100 grams should not be an issue.
 
 #### What is the best ratio of sour dough and flour when baking?
+
 When I do sourdough I usually take 40% sourdough. In case I
 would use 100 grams of flour I would add 40 grams of sour dough.
 The more sour dough you add, the more sour your bread becomes.
@@ -56,6 +60,7 @@ gas as well as the lactic acids. I suggest to play
 with the 40%, do a couple of A/B tests to see which percentage you prefer.
 
 #### How long does it take to feed the mother dough before baking?
+
 Let's say it's Friday and you want to bake a bread on Saturday.
 A good amount of flour for a regular sourdough bake is around
 400 grams. That will give you a really nice loaf.
@@ -73,9 +78,9 @@ Cold water will slow down the yeasts'
 and bacterias' activity. Whereas warmer water will fuel
 their activity and results in them working faster.
 If you only have little time until you want to start baking,
-use warmer water of 25 degrees.
+use warmer water of 25 degrees celsius.
 If you have all the time in the world and can bake the next day,
-use colder water of 15 degrees.
+use colder water of 15 degrees celsius.
 
 It would be nice here to analyse what impact different
 temperatures have on the final taste.
@@ -88,13 +93,13 @@ your dough again. Too much alcohol could result in your mother
 dough dying. Periods of 3 weeks can easily be survived by your
 mother dough.
 
-#### In which temperature should I store the mother dough?
+#### At which temperature should I store the mother dough?
 
 The temperature impacts on how long it takes until your mother
 dough is ready for baking. If you can wait for 7 days, store
 the dough somewhere in your kitchen. If you store the mother dough
 in a warmer environment it will be ready faster for baking. A temperature
-of around 18-25 degrees is advised. It would be really
+of around 18-25 degrees celsius is advised. It would be really
 interesting to test whether a temperature
 of below 15 still allows for the mother dough to grow.
 Similarly very humid/super hot areas need exploring.
@@ -114,7 +119,7 @@ your dough creates an additional flavour.
 
 #### What is the best temperature to bake the bread?
 
-A temperature of around 230 degrees is a good strategy to have
+A temperature of around 230 degrees celsius is a good strategy to have
 a nice crust and at the same time fluffy bread.
 
 If the temperature is too high it could happen that your
@@ -263,6 +268,16 @@ If you cut the bread which you should have done then some edges
 of the crust can be a little black.
 There is still debate going on whether acrylamides are dangerous
 for humans or not. `TODO` - add some sources.
+
+Another test to conduct is that your bread should sound hollow from the inside
+when knocking on the bread. When it is hollow it means the dough created
+bubbles and the sound can freely pass through the inside.
+
+You can also use a thermometer and measure the temperature
+inside of the bread. Make sure you stick the thermometer right
+in the center of the dough at the thickest part. That's the part
+which takes the longest to fully bake.
+It's ready to be removed from the oven at 95 degrees celsius.
 
 #### What is a good ratio of salt in the bread?
 
