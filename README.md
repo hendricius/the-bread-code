@@ -37,6 +37,9 @@ Custom Recipes:
 * [Bavarian rye bread](recipes/bavarian-rye-bread.md)
 * [The Crack Bread](recipes/crack-bread-tomato-water.md)
 
+## Common Problems / FAQ
+
+[See the guide Common problems / FAQ](basics/common-problems-faq.md) for strategies to deal with frequent pitfalls that arise when baking.
 
 ## Tools
 
