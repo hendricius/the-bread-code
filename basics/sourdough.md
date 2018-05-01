@@ -16,7 +16,7 @@ The whole process will take you 7 days with around 2 minutes of time per day. Wh
 
 ## Requirements
 
-* 450 grams of full grain wheat flour
+* 400 grams of full grain wheat flour
 * You can also take rye, spelt or whatever full grain flour you have available. Don't worry too much, you can later on feed your mother dough with rye to make it more ryish. It's just about getting a nice and yummy place for the bacteria and yeast.
 
 ## Instructions
