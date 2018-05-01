@@ -39,7 +39,7 @@ When I do sourdough I usually take 40% sourdough. In case I would use 100 grams
 of flour I would add 40 grams of sour dough. The more sour dough you add, the more sour your bread becomes.
 At the same time you will have more yeast releasing gas. That means your bread
 will become fluffier with more sour dough. Some people like their bread a little
-sourer than others. You also need to consider for how long you will the dough rest
+sourer than others. You also need to consider for how long you will let the dough rest
 before baking. In that time the yeast/bacteria will feast on the flour, releasing the
 gas as well as the lactic acids. I suggest to play with the 40%, do a couple of A/B tests to see
 which percentage you prefer.
@@ -53,17 +53,77 @@ grams of water and flour. That way you have 200 grams of sourdough.
 
 #### When feeding the dough, what temperature should the water have?
 
+It depends on how fast you want the sour dough to be ready. Ultimately the water inside of your mother dough
+will cool down or heat up to match its surrounding temperature. Cold water will slow down the yeasts'
+and bacterias' activity. Whereas warmer water will fuel their activity and results in them working faster.
+If you only have little time until you want to start baking, use warmer water of 25 degrees.
+If you have all the time in the world and can bake the next day, use colder water of 15 degrees.
+
+It would be nice here to analyse what impact different temperatures have on the final taste.
+
 #### After a few weeks of not feeding, liquid started to appear on top of the mother dough
+
+This is natural. The yeast and bacteria have produced a lot of lactic acid and alcohol.
+Just remove the liquid and start feeding your dough again. Too much alcohol
+could result in your mother dough dying. Periods of 3 weeks can easily be survived by your
+mother dough.
 
 #### In which temperature should I store the mother dough?
 
+The temperature impacts on how long it takes until your mother dough is ready for baking.
+If you can wait for 7 days, store the dough somewhere in your kitchen. If you store the mother dough
+in a warmer environment it will be ready faster for baking. A temperature
+of around 18-25 degrees is advised. It would be really interesting to test whether a temperature
+of below 15 still allows for the mother dough to grow. Similarly very humid/super hot areas need exploring.
+
 #### I have a wheat starter but want to make a rye bread
+
+You can feed your starter any flour you like. You can just proceed and feed
+the rye to your wheat starter. That is totally fine.
 
 #### I have a rye stater and want to make a wheat bread
 
+You can feed the rye starter wheat as well. It doesn't make a difference. However
+when baking rye bread you will experience a much stickier dough. You might have to use
+more flour while shaping the dough. 10% rye inside of your dough creates an additional flavour.
+
 #### What is the best temperature to bake the bread?
 
+A temperature of around 230 degrees is a good strategy to have a nice crust and at the same time fluffy bread.
+
+If the temperature is too high it could happen that your crust will be too big.
+At the same time the interior might not be baked yet. If the temperature is too low
+your crust won't be as nice and crispy.
+
 #### My bread does not rise properly in the oven
+
+This is a common problem and can have many issues. A few slight errors during the initial bake could have caused this.
+Let's investigate:
+
+If you used yeast, it could happen that your yeast was simply dead. This happens to me on around every 20th bake.
+I need 5 grams of yeast for the bake. The pack of dry yeast contains 7 grams. What I do is take the 2 grams that I do
+not need and place them in a bowl with warm sugary water. After 2 hours the water should
+have become a little bit bubbly. If not - then likely your yeast is dead.
+
+An other option could be that your shaping before baking is not done right.
+You want the bread to rise upwards in the oven, not to the left or right.
+To achieve that your shaping has to be done properly. You want to create tension on the
+surface of the dough. The moment you add a small crack to the surface the dough
+will naturally rise upwards not to the left or to the right. [This is a good tutorial on shaping your dough.](https://www.youtube.com/watch?v=ww78_SfGyQE&t=278s) Keep in mind that in the video the dough probably has 65-70% hydration.
+The more hydration you add the more difficult this becomes. With more hydration
+I find it very hard to ensure the bread does not turn out to be flat.
+Practice the shaping, this is the hardest part about baking. It will take a while to learn this.
+
+Did you score your bread when placing it in the oven? Scoring creates a week spot in the surface.
+That way your dough can rise upwards in the oven. The way you score your bread
+is also important. Score the top of the bread with cuts at an angle. Imagine two plates
+on top of each other. If you cut them vertically they might block each other. But when scoring at
+an angle they are not blocked and can rise more.
+
+How humid is your oven when baking the bread? If you have no humidity your crust can form too fast.
+That way the bread is not able to rise properly. You can either use a dutch oven, or a bowl with hot water.
+Boil the water before placing it in the oven for maximum steaminess. Remove the water 
+at 50% of the bake to have a nice crust regardless.
 
 #### The interior of my yeast bread is somewhat hard and not fluffy
 
@@ -98,3 +158,5 @@ The moment the crust is turning nice and brown. If you cut the bread which you s
 #### My bread does not have any nice air bubbles inside. How can I achieve that?
 
 #### What is the ideal hydration for the bake?
+
+#### What should I use to cover my dough while it rests?
