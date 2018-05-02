@@ -4,7 +4,7 @@ If you love bacon then you will love this bread.
 You will taste the lovely flavor of the wheat bread, and shortly after, a baconish taste follows creating an amazing combination of flavors.
 This bread is excellent when inviting friends over for a barbecue.
 
-![The final bread](https://i.imgur.com/EYQnBpb.png)
+![The final bread](../../images/final-bacon-bread.jpg)
 
 ## Custom Ingredients
 
