@@ -1,5 +1,5 @@
 # Bavarian Rye Bread
 
-![Two rye breads. Notice the dark color](https://i.imgur.com/41XGG8E.jpg)
+![Two rye breads. Notice the dark color](../../images/two-ryes.jpg)
 
 `TODO`

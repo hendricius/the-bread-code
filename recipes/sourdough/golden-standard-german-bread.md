@@ -8,11 +8,11 @@ I call this the standard German bread because if you ask Germans about their bre
 Also, when travelling the world so far I have not seen other countries where this kind of bread is as popular.
 Usually I've had to go to special bakeries to find something similar.
 
-![The Standard Bread](https://i.imgur.com/0mPruzB.jpg)
+![The Standard Bread](../../images/yummy-ryes.jpg)
 
 It has a somewhat greyish color on the inside. That is why it is also called *grey bread* in Germany.
 
-![Interior of the bread](https://i.imgur.com/Q5EuNGe.jpg)
+![Interior of the bread](../../images/golden-standard-german-bread-int.jpg)
 
 
 `TODO`

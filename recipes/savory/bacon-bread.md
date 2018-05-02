@@ -14,10 +14,10 @@ This bread is excellent when inviting friends over for a barbecue.
 
 Fry the bacon in a pan and let it cool down on a paper towel to absorb excess fat. Place the bacon in the freezer.
 
-![The fried bacon](https://i.imgur.com/rtD0fnU.jpg)
+![The fried bacon](../../images/fried-bacon.jpg)
 
 ### Recipe customization
 
 Take the bacon from the freezer. Place the bacon evenly on the dough in front of you. Press the bacon lightly into the dough.
 
-![The dough in front of you with the bacon placed on top](https://i.imgur.com/ZlL96Sp.jpg)
+![The dough in front of you with the bacon placed on top](../../images/bacon-install.jpg)
