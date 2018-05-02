@@ -1,6 +1,8 @@
 # Date Walnut Bread
 
-The date walnut bread is an exquisit bread with an amazing taste. You initially taste the dates and then have walnutty taste afterwards. I never put any toppings on the bread as it tastes very well standalone.
+The date walnut bread is an exquisite bread with an amazing taste. 
+You initially taste the dates and then have walnutty taste afterwards.
+I never put any toppings on the bread as it tastes great on its own.
 
 ## Custom Ingredients
 
@@ -9,4 +11,4 @@ The date walnut bread is an exquisit bread with an amazing taste. You initially 
 
 ### Recipe customization
 
-Cut the dates and walnuts into small pieces. I like to put the walnuts into a plastic bag. Then I use a hammer to crush them. Place the ingredients on the dough in front of you.
+Cut the dates and walnuts into small pieces. I like to put the walnuts into a plastic bag and crush them with a hammer. Place the ingredients on the dough in front of you.
