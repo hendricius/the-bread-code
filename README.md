@@ -14,16 +14,16 @@ The basic recipe is the source recipe from which the customized recipes inherit.
 
 Custom recipes:
 
-* [Standard bread](recipes/standard-bread.md)
-* [French bread](recipes/french-bread.md)
-* [Date walnut bread](recipes/date-walnut-bread.md)
-* [Portuguese inspired Broa corn bread](recipes/portuguese-broa-corn-bread.md)
-* [Line seeds bread](recipes/lineseeds-bread.md)
-* [Bacon bread](recipes/bacon-bread.md)
-* [Salami bread](recipes/salami-bread.md)
-* [Saffron Goat Cheese bread](recipes/safron-goat-cheese.md)
-* [Cocoa bread](recipes/cocoa-bread.md)
-* [Full milk Chocolate bread](recipes/fullmilk-chocolotate-bread.md)
+* [Standard bread](recipes/savory/standard-bread.md)
+* [French bread](recipes/savory/french-bread.md)
+* [Date walnut bread](recipes/sweet/date-walnut-bread.md)
+* [Portuguese inspired Broa corn bread](recipes/savory/portuguese-broa-corn-bread.md)
+* [Line seeds bread](recipes/savory/lineseeds-bread.md)
+* [Bacon bread](recipes/savory/bacon-bread.md)
+* [Salami bread](recipes/savory/salami-bread.md)
+* [Saffron Goat Cheese bread](recipes/savory/safron-goat-cheese.md)
+* [Cocoa bread](recipes/sweet/cocoa-bread.md)
+* [Full milk Chocolate bread](recipes/sweet/fullmilk-chocolotate-bread.md)
 
 ## Recipes with sourdough
 
@@ -33,9 +33,9 @@ Sourdough bread is an all natural bread without any added yeast. The dough gives
 
 Custom Recipes:
 
-* [Golden standard German bread](recipes/golden-standard-german-bread.md)
-* [Bavarian rye bread](recipes/bavarian-rye-bread.md)
-* [The Crack Bread](recipes/crack-bread-tomato-water.md)
+* [Golden standard German bread](recipes/sourdough/golden-standard-german-bread.md)
+* [Bavarian rye bread](recipes/sourdough/bavarian-rye-bread.md)
+* [The Crack Bread](recipes/sourdough/crack-bread-tomato-water.md)
 
 ## Common Problems / FAQ
 
