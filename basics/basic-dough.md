@@ -4,7 +4,7 @@ Use this basic dough recipe as starter for all your upcoming breads. Custom
 ingredients are added before the final shaping. The basic formula always
 remains the same.
 
-Prepare the dough always 24 hours before baking. If you run out of time you can also do this faster but then have to knead more initially. In this case a kitchen air or a similar tool can be helpful as it will speed up the process.
+Prepare the dough always 24 hours before baking. If you run out of time you can also do this faster but then have to knead more initially. In this case a KitchenAid or a similar tool can be helpful as it will speed up the process.
 
 ## Ingredients
 
