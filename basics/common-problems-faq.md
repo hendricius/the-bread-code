@@ -353,3 +353,15 @@ Make sure you do the cuts at an angle, not vertical.
 ![Scoring at an angle (left) vs scoring at an angle (right)](../images/scoring-angles.jpg)
 
 The left bread was scored at an angle. The right one vertically.
+
+#### How do I re-heat my bread?
+
+The bread tastes the best after the initial bake. Sometimes however you might
+want to bake and enjoy the bread later. Usually what happens is that the crust
+becomes too crispy when re-heating in the oven. This happens because the bread
+becomes too try, thus the crust becomes bigger and bigger with every minute.
+You might end up with a yummy stone.
+
+Place a large tray in the oven with boiling water. Heat the bread at a lower
+temperature of 150 degrees. The steam prevents the crust from becoming too
+thick. It's almost as good as after the first bake.
