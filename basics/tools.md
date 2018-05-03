@@ -15,7 +15,7 @@ It's advisable to have two bowls. You'll need one to prepare and mix the dough.
 For shaping the dough and letting it rest before baking in the oven a second, clean bowl with some parchment paper is ideal.
 If you have a banneton you don't need the second bowl.
 
-![A large bowl helps a lot](https://i.imgur.com/jtlHzfG.jpg)
+![A large bowl helps a lot](../images/large-bowl.jpg)
 
 ## Oven (required)
 
@@ -35,7 +35,7 @@ Also to me it feels more natural to just let the dough rise in a wooden banneton
 Additionally a banneton powered bread I believe looks visually a little more appealing.
 You have nice circles of flour on the top of your bread.
 
-![A Banneton](https://i.imgur.com/8GZhYtH.jpg)
+![A Banneton](../images/banneton.jpg)
 
 ## Metal / glass tray (optional)
 
@@ -55,7 +55,7 @@ Furthermore the dutch oven is a good source of even heat, making sure that the b
 
 When using the dutch oven you also no longer need parchment paper at all. The bread dough is inserted into the dutch oven without the parchment paper.
 
-![Dutch oven. A Le Creuset in this case](https://i.imgur.com/5kaFXmt.jpg)
+![Dutch oven. A Le Creuset in this case](../images/dutch-oven.jpg)
 
 ## Pizza stone (optional)
 
@@ -63,4 +63,4 @@ A pizza stone is nice, as it can store a lot of heat.
 The moment your bread dough gets into contact with the stone a lot of heat energy is released directly to the dough.
 This creates a yummy beautiful crust.
 
-![Pizza stone](https://i.imgur.com/dRvTrbM.jpg)
+![Pizza stone](../images/pizza-stone.jpg)

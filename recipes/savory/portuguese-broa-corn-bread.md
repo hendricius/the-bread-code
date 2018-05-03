@@ -11,7 +11,7 @@ This recipe is only an "inspired" broa bread, as I used 30% corn flour and 70% w
 However this way you enjoy the fluffy wheaty interior as well as the slight corn taste.
 To me this strategy is a great combination of the best out of two worlds, corn bread and wheat bread.
 
-![Portuguese Broa Bread](https://i.imgur.com/KBuOAxg.png)
+![Portuguese Broa Bread](../../images/portuguese-broa-corn-bread.jpg)
 
 ## Custom Ingredients
 

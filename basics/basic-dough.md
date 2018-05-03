@@ -97,13 +97,13 @@ For starting, I suggest to not go with too many extras.
 
 ### Finalizing the shaping
 
-![Sample bread with goat cheese. This is the time to add it](https://i.imgur.com/U55wUEk.jpg)
+![Sample bread with goat cheese. This is the time to add it](../images/goat-cheese.jpg)
 
 The trickiest part of the process starts now.
 You want the bottom part of the dough that you have created to face upwards, because it's nice and around.
 Rotate the dough so the lower part is not facing you directly.
 
-![Previously bottom part now faces you](https://i.imgur.com/8BuMgCv.jpg)
+![Previously bottom part now faces you](../images/previously-bottom.jpg)
 
 Gently stretch the edges of the dough downwards a little. I use my hands to do that, like in the figure above.
 The goal here is to create more tension on the surface.
@@ -138,17 +138,17 @@ Consider these like tectonic plates, creating weaknesses in the surface to allow
 If the scores are vertical, the bread will block it.
 In comparison, if cut at an angle you can create the famed Bread Himalayas 😻.
 
-![Bread cut at an angle (left) vs bread cut vertically](https://i.imgur.com/nnlLhr8.jpg)
+![Bread cut at an angle (left) vs bread cut vertically](../images/angle-cut.jpg)
 
 Put the bread into the oven. Reduce the temperature to 230 degrees. Wait for 25 minutes.
 
 ### Remove (the tray with water or lid)
 
-![The bread should have grown nicely by now](https://i.imgur.com/tfMzyaH.jpg)
+![The bread should have grown nicely by now](../images/grow.jpg)
 
 After 25 minutes remove the tray of water or the lid of the dutch oven, to allow the crust of the bread to become super crisp.
 The bread no longer rises at this point. The yeast has been killed, the water evaporated. We use this time to really get it crispy.
 
 After another 20 minutes in the oven your bread is ready to be enjoyed.
 
-![Final bread with no extras added](https://i.imgur.com/7OgGVRw.jpg)
+![Final bread with no extras added](../images/final-basic-bread.jpg)

@@ -1,6 +1,6 @@
 # Make your own sourdough
 
-![Some yummy rye breads. But you can also bake every other bread with sourdough](https://i.imgur.com/0mPruzB.jpg)
+![Some yummy rye breads. But you can also bake every other bread with sourdough](../images/yummy-ryes.jpg)
 
 Sourdough is an excellent way to add air into your dough. At the same time the taste becomes a little sour adding excellent flavor to the bread. A welcome side effect is that you can eat your bread for a longer period of time as it does not catch mold as fast as yeast-only bread. [This is because of the antibiotic ingredients.](http://news.bbc.co.uk/2/hi/science/nature/881477.stm) Good news, it is really easy to make your own sourdough.
 
@@ -47,13 +47,13 @@ If it is colder it might take a little longer to get the mother dough ready.
 If it is warmer, it could be done sooner.
 Regardless, just stick to the 7 day strategy and you will be fine.
 
-![Use full grain flour](https://i.imgur.com/dowyWcL.jpg)
+![Use full grain flour](../images/full-grain-flour.jpg)
 
 ### Day 2
 
 Add another 50 grams of flour and 50 grams of warm water. Stir everything.
 
-![Add together the water and flour](https://i.imgur.com/jurnPLa.jpg)
+![Add together the water and flour](../images/add-water-and-flour.jpg)
 
 ### Day 3
 
@@ -85,11 +85,11 @@ When not needing the mother dough, cover it with some foil and place it in your 
 This slows down the bacteria and yeasts' activity.
 Unless you want to start baking now, place the sourdough in the fridge.
 
-![This is how it should look like after 8 days. This was rye sourdough](https://i.imgur.com/ITBRjao.jpg)
+![This is how it should look like after 8 days. This was rye sourdough](../images/sourdough-8-days.jpg)
 
 ## Baking
 
-![Full grain rye vs 100% rye bread at the bottom](https://i.imgur.com/e76eVKw.jpg)
+![Full grain rye vs 100% rye bread at the bottom](../images/full-grain-rye-vs-100-rye.jpg)
 
 A healthy formula is 40% sourdough for a rye bread/full grain bread.
 Assuming you would bake 500 grams of flour, you will need 200 grams of sourdough.
@@ -127,11 +127,11 @@ After returning your mother dough to the fridge the actual baking starts. Mix th
 
 Below is what many first ever baked sourdough bread looked like. If yours looks somewhat like this, you did a good job. It was a mixture of 50% rye and 50% full grain.
 
-![My first ever baked sourdough bread](https://i.imgur.com/FSvDR1K.jpg)
+![My first ever baked sourdough bread](../images/first-sourdough.jpg)
 
 This is what it looked like from the inside:
 
-![Crumb shot of my first sourdough bread](https://i.imgur.com/1Nglnou.jpg)
+![Crumb shot of my first sourdough bread](../images/first-sourdough-crumb.jpg)
 
 If you don't feed your mother dough it will eventually starve as it has no more food. Don't worry, my mother dough survived for 4 weeks in the fridge.
 You are not forced to bake every weekend.

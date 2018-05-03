@@ -4,7 +4,7 @@ Learn how to master the art of baking the programmer way. If you love programmin
 
 This repository is still work in progress and will be updated continuously.
 
-![A nice and yummy sourdough bread](https://i.imgur.com/KiFiGbc.jpg)
+![A nice and yummy sourdough bread](./images/a-nice-and-yummy-sourdough.jpg)
 
 ## Recipes with yeast
 

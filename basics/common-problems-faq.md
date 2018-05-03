@@ -350,6 +350,6 @@ and creates the weak spot right in the center. If you score the bread too
 far on the sides then your dough will spread like a pan cake.
 Make sure you do the cuts at an angle, not vertical.
 
-![Scoring at an angle (left) vs scoring at an angle (right)](https://i.imgur.com/PI0EN9W.jpg)
+![Scoring at an angle (left) vs scoring at an angle (right)](../images/scoring-angles.jpg)
 
 The left bread was scored at an angle. The right one vertically.
