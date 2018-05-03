@@ -33,6 +33,7 @@ The dough gives the bread an amazing, you guessed it, sour taste.
 Any yeast bread can also be made with sourdough instead of yeast.
 
 * [Make your own sourdough](basics/sourdough.md)
+* [Basic sourdough](basics/basic-sour-dough.md)
 
 Custom Recipes:
 
