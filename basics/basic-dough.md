@@ -85,7 +85,10 @@ Don't be scared of adding a little more flour at the start.
 This way your dough won't stick that much.
 In the long term, reduce the flour you use at this step. The more hydrated your dough is, the fluffier it will become when baked.
 
-Stretch the dough apart a little to form a kind of pizza. Then move the outer parts of the pizza inwards, to the center. Piece by piece your dough will become rounder.
+Stretch the dough apart a little to form a kind of pizza. It should be in a
+round shape in front of you, not too flat. Only do this very softly. The
+harder you press the dough the more gas will evaporate and the less fluffy
+your ultimate bread will be.
 
 ### Recipe customization
 
@@ -93,14 +96,29 @@ This is where most of the other recipes hook in.
 Once the dough is in front of you, you can start adding ingredients such as cheese, spinach, walnuts or whatever you want.
 For starting, I suggest to not go with too many extras.
 
+![Sample bread with goat cheese. This is the time to add it](../images/goat-cheese.jpg)
+
 `{{ CUSTOMIZE_YOUR_RECIPE_HERE }}`
 
 ### Finalizing the shaping
 
-![Sample bread with goat cheese. This is the time to add it](../images/goat-cheese.jpg)
+In front of you you have the round dough. If you customized your recipe you might
+now have added seeds, walnuts or anything else on top of the dough.
+
+We need to create as much tension on the lower part of the dough facing the
+bottom currently as possible. The lower part will be on top in the oven later
+on. The more tension we have the better the dough raises in the oven upwards.
+If you do not have enough tension, it will turn out like a pan cake. Do not
+worry if this happens, it will still taste amazing.
+
+So move the outer parts of the pizza inwards, to the center.
+Piece by piece your dough will become rounder.
+
+[See this video explaining how to do it.](https://www.youtube.com/watch?v=5--bR1mPiZE)
 
 The trickiest part of the process starts now.
-You want the bottom part of the dough that you have created to face upwards, because it's nice and around.
+You want the bottom part of the dough that you have created to face upwards. The
+currently lower side has a lot of tension after following this process.
 Rotate the dough so the lower part is not facing you directly.
 
 ![Previously bottom part now faces you](../images/previously-bottom.jpg)
