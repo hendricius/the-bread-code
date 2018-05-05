@@ -1,6 +1,6 @@
 # Standard Sourdough Bread
 
-![Standard sourdough bread versus standard yeast bread](../images/standard-sourdough-sourdough-left-yeast-right.jpg)
+![Standard sourdough bread versus standard yeast bread](../../images/standard-sourdough-sourdough-left-yeast-right.jpg)
 
 This is similar to the standard yeast bread just with sourdough. It is the
 most basic sourdough bread that you can make.
@@ -39,4 +39,4 @@ This is how my first ever sour dough bread looked like. The one shown at the
 top of this article is probably my 50th sourdough bread or so. Keep iterating
 and adjusting your parameters. Happy baking!
 
-![Standard sourdough bread versus standard yeast bread](../images/standard-sourdough-first-ever-baked.jpg)
+![Standard sourdough bread versus standard yeast bread](../../images/standard-sourdough-first-ever-baked.jpg)

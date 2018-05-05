@@ -32,7 +32,7 @@ a few sections with custom steps and or ingredients. The process regardless is
 always the same across all the sourdough breads you will bake. Inspirational
 ideas are provided as custom recipes in this repository. From a programming
 perspective this recipe is an abstract class that you can't directly
-bake. Please see the [standard sourdough bread recipe](recipes/sourdough/standard-sourdough-bread.md)
+bake. Please see the [standard sourdough bread recipe](../recipes/sourdough/standard-sourdough-bread.md)
 for an actual recipe you can bake.
 
 ## Ingredients
@@ -55,7 +55,7 @@ of 40% sourdough on the flour creates an excellent bread which is not too hard t
 
 ### Preparation steps
 
-8 hours before you start the bake remove the mother sour dough from your fridge.
+8 hours before you start the bake remove the [mother sour dough](sourdough.md) from your fridge.
 
 ![Standard sourdough bread versus standard yeast bread](../images/standard-sourdough-mother-dough.jpg)
 
@@ -176,31 +176,31 @@ becomes. Do not worry too much about this at the start.
 
 ### Recipe customization
 
-[Follow the steps of the basic dough. It is the same for your sourdough.](basics/basic-dough.md#recipe-customization).
+[Follow the steps of the basic dough. It is the same for your sourdough.](basic-dough.md#recipe-customization)
 
 ### Finalizing the shaping
 
-[Follow the steps of the basic dough. It is the same for your sourdough.](basics/basic-dough.md#finalizing-the-shaping).
+[Follow the steps of the basic dough. It is the same for your sourdough.](basic-dough.md#finalizing-the-shaping)
 
 ### Place the dough in a clean bowl
 
-[Follow the steps of the basic dough. It is the same for your sourdough.](basics/basic-dough.md#place-the-dough-in-a-clean-bowl).
+[Follow the steps of the basic dough. It is the same for your sourdough.](basic-dough.md#place-the-dough-in-a-clean-bowl)
 
 ### Preheat the oven to maximum temperature
 
-[Follow the steps of the basic dough. It is the same for your sourdough.](basics/basic-dough.md#preheat-the-oven-to-maximum-temperature).
+[Follow the steps of the basic dough. It is the same for your sourdough.](basic-dough.md#preheat-the-oven-to-maximum-temperature)
 
 ### Finally bake the bread
 
-[Follow the steps of the basic dough. It is the same for your sourdough.](basics/basic-dough.md#finally-bake-the-bread).
+[Follow the steps of the basic dough. It is the same for your sourdough.](basic-dough.md#finally-bake-the-bread)
 
 ### Remove (the tray with water or lid)
 
-[Follow the steps of the basic dough. It is the same for your sourdough.](basics/basic-dough.md#remove-the-tray-with-water-or-lid).
+[Follow the steps of the basic dough. It is the same for your sourdough.](basic-dough.md#remove-the-tray-with-water-or-lid)
 
 Done!
 
-![Enjoy your finished sourdough bread](images/yummy-ryes.jpg)
+![Enjoy your finished sourdough bread](../images/yummy-ryes.jpg)
 
 The above is an implementation of this recipe. It is the [most common sourdough
-bread eaten in Germany](recipes/sourdough/golden-standard-german-bread.md)
+bread eaten in Germany](../recipes/sourdough/golden-standard-german-bread.md)
