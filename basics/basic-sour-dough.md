@@ -197,3 +197,10 @@ becomes. Do not worry too much about this at the start.
 ### Remove (the tray with water or lid)
 
 [Follow the steps of the basic dough. It is the same for your sourdough.](basics/basic-dough.md#remove-the-tray-with-water-or-lid).
+
+Done!
+
+![Enjoy your finished sourdough bread](images/yummy-ryes.jpg)
+
+The above is an implementation of this recipe. It is the [most common sourdough
+bread eaten in Germany](recipes/sourdough/golden-standard-german-bread.md)
