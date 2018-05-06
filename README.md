@@ -32,8 +32,16 @@ Sourdough bread is an all natural bread without any added yeast.
 The dough gives the bread an amazing, you guessed it, sour taste.
 Any yeast bread can also be made with sourdough instead of yeast.
 
+All of those recipes assume that you have made your own sourdough starter. The
+process takes approximately 7 days to complete:
+
 * [Make your own sourdough](basics/sourdough.md)
-* [Basic sourdough](basics/basic-sour-dough.md)
+
+Once you have your sourdough starter you can proceed with the actual bake. The
+below recipe is the standard recipe. All the other sourdough recipes customize
+parts of this recipe.
+
+* [Basic sourdough bread](basics/basic-sour-dough.md)
 
 Custom Recipes:
 
