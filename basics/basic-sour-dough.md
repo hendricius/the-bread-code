@@ -106,7 +106,7 @@ bubbles that are in the starter. I used rye to feed my starter. But you can
 use any other strong flour that you have available. I tested all purpose flour
 but the mother dough turned too sour too fast.
 
-![The feeding frenzy begins](../images/standard-sourdough-feed-mother-dough.jpg)
+![The feeding frenzy begins](../images/sourdough-8-days.jpg)
 
 ### Autolyse
 
@@ -162,7 +162,7 @@ not as reactive as mine. There is different yeast and bacteria even across
 villages next to each other. In Germany villages sometimes trade the sourdough
 between each other for baking.
 
-![This is how the mixed dough looks after 60 minutes](../images/standard-sourdough-feed-mother-dough.jpg)
+![This is how the mixed dough looks after 60 minutes](../images/standard-sourdough-look-after-60-minutes.jpg)
 
 You can already see bubbles forming in the dough above. That is how the dough
 looked like after 60 minutes.
