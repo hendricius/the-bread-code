@@ -24,7 +24,7 @@ that your sourdough is at 100% hydration. Thus you need to adjust the hydration
 level on the yeast bread you bake to compensate for the added hydration. This does not
 work the way around though. You can not bake all the sourdough recipes
 with yeast instead. Some flours such as rye require the sourdough to become
-bakeable. See the picture above for a comparison of how the final sourdough vs.
+bake able. See the picture above for a comparison of how the final sourdough vs.
 yeast bread looks like.
 
 Other sourdough recipes in the manifesto inherit from this recipe. They override
@@ -47,7 +47,7 @@ from the sourdough = 425 grams water in total. Then you have 500 grams of flour
 plus another 100 grams from the sourdough starter. Which means you have a total of
 600 grams of flour in your bread. With 425 grams of water you have a ratio of approximately
 70% hydration in the dough. This is less than on the simple yeast bread.
-However since you utilise strong or full grain flour for your sourdough baking
+However since you utilize strong or full grain flour for your sourdough baking
 becomes more difficult. The dough is much stickier and harder to handle. Thus the combination
 of 40% sourdough on the flour creates an excellent bread which is not too hard to handle.
 
@@ -88,13 +88,13 @@ dough.
 
 Now the actual feeding frenzy begins.
 
-Add 105 grams of fullgrain or strong flour and 105 grams of warm water.
+Add 105 grams of full grain or strong flour and 105 grams of warm water.
 
 ![The feeding frenzy begins](../images/standard-sourdough-feed-mother-dough.jpg)
 
 You will end up having 310 grams of sourdough starter in
 front of you. Make sure to stir everything nicely together. You should end up
-with a somewhat homogenous dough in front of you.
+with a somewhat homogeneous dough in front of you.
 
 If you have less than 8 hours until your bake, you can use
 slightly warmer water. That will re-activate your mother dough faster. However
@@ -132,26 +132,26 @@ simply start kneading the dough. Place the dough in front of you on a lightly
 floured surface and and knead it. You can also simply knead it in the bowl in
 front of you. There is no special kneading technique. Imagine the dough is
 someone you do not like. You want to squeeze that person out. That's how you
-do the kneading. Do this for around 10 minutes. If you have a dough kneeding
+do the kneading. Do this for around 10 minutes. If you have a dough kneading
 machine, use that one instead.
 
 ![Sourdough vs yeast dough](../images/standard-sourdough-yeast-comparison.jpg)
 
-On the left hand side you can see my sour dough after the initial kneeding. On
+On the left hand side you can see my sour dough after the initial kneading. On
 the right hand side I A/B tested a dough with yeast instead.
 
 ### Let the gluten form
 
 We will let the dough rest covered in a bowl for around 4 hours. During that
 time the mother dough's yeast will spread even more throughout the other dough
-ingredients. You can also prolongen this step. The result will be a more sour
+ingredients. You can also prolong en this step. The result will be a more sour
 taste as the bacteria produces more lactic acid. Feel free to experiment on
 the duration. After 4 hours your dough should already have increased in size.
-Some bubbles should be seeable. This means the yeast starting njamnjam on the
+Some bubbles should be see-able. This means the yeast starting njamnjam on the
 dough and released gas. If the dough did not raise after 4 hours just wait
-another X hours until this happend. It can happen that your mother dough is
+another X hours until this happened. It can happen that your mother dough is
 not as reactive as mine. There is different yeast and bacteria even across
-villages next to each other. In germany villages sometimes trade the sourdough
+villages next to each other. In Germany villages sometimes trade the sourdough
 between each other for baking.
 
 ![This is how the mixed dough looks after 60 minutes](../images/standard-sourdough-feed-mother-dough.jpg)
@@ -164,7 +164,7 @@ looked like after 60 minutes.
 After the gluten-forming period we will proceed and shape the dough. Don't
 worry the dough will collapse. That is natural. After shaping the dough will
 rest another 60 minutes and increase in size again. Not all gas is removed
-from the dough. Experiment here with less kneeding when shaping. Less kneeding
+from the dough. Experiment here with less kneading when shaping. Less kneading
 means your dough will keep more gas. That way for instance air bubbles
 will be significantly larger in the final bread.
 
