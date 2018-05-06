@@ -118,12 +118,20 @@ give you basic gluten structure.
 
 ### Add the mother dough
 
-Place the mother dough evenly on top of your dough. Many sources claim this
+Place the 200 grams mother dough evenly on top of your dough. Many sources claim this
 should be done after the autolysing. However, when baking myself I sometimes add
 the mother dough right away and could so far not notice a significant difference. I
 just follow this best practice and it works. It bothers me a little that I
 have not fully tested this myself yet. It would be really good to conduct more
 research here with a couple of A/B tests.
+
+### Give back to the mother dough
+
+We removed 200 grams of our starter. We now return the rest of what is left
+back to the mother dough. Place the mother though container in the fridge and
+cover it. We will re-use the mother dough on the next bake again. This way
+people sometimes have a 100 year old sour dough. They always return parts back
+to their original mother dough.
 
 ### Kneed the dough
 
