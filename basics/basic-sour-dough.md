@@ -133,7 +133,7 @@ cover it. We will re-use the mother dough on the next bake again. This way
 people sometimes have a 100 year old sour dough. They always return parts back
 to their original mother dough.
 
-### Kneed the dough
+### Knead the dough
 
 We mixed everything together we now want to develop the gluten. For that we
 simply start kneading the dough. Place the dough in front of you on a lightly
