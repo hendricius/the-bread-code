@@ -140,7 +140,7 @@ Let the dough rest for an hour, or overnight in the fridge.
 ### Preheat the oven to maximum temperature
 
 After 30 minutes of shaping the dough, preheat the oven to its maximum temperature, or about 270 degrees Celsius (520 Fahrenheit).
-It will also takes another 30 degrees for the oven to reach max temperature.
+It will also takes another 30 minutes for the oven to reach max temperature.
 
 Place a baking tray in the oven, and on the bottom, another tray filled with water.
 This water will evaporate during baking, creating steam that supports the dough and allows it to rise it more in the oven.
