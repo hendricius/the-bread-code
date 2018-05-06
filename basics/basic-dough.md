@@ -158,7 +158,7 @@ In comparison, if cut at an angle you can create the famed Bread Himalayas 😻.
 
 ![Bread cut at an angle (left) vs bread cut vertically](../images/angle-cut.jpg)
 
-Put the bread into the oven. Reduce the temperature to 230 degrees. Wait for 25 minutes.
+Put the bread into the oven. Reduce the temperature to 230 degrees Celsius (450 Fahrenheit). Wait for 25 minutes.
 
 ### Remove (the tray with water or lid)
 
