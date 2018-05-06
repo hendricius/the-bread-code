@@ -65,6 +65,8 @@ Do you hear the bacteria and yeast asking for food?
 Our goal is to make the dough feel nice again. However - bad luck. For the dough,
 not the whole dough will be fed, only parts of it. Sometimes I feel bad for the
 other unlucky part that is unlucky, left in the cold and will receive no food.
+We always feed equal amounts of flour and water to our mother dough just like
+we did when we initially grew our mother dough.
 
 We need 200 grams of sourdough for the recipe. Since we do not want to use our
 full mother dough we start feeding parts of the mother dough with new flour.
@@ -81,20 +83,24 @@ than we actually need. At the same time 100 grams of mother dough need to go
 back to the fridge. Else we would end up consuming our mother dough until we
 have none left! So what we need to calculate is 200 grams for the recipe and
 100 grams back to mommy. Add another 5 percent because the yeast and bacteria
-are super hungry. In a large bowl in front of you place 100 grams of mother
-dough.
+are super hungry.
+
+*Step 1:* In a large bowl in front of you place 100 grams of mother dough.
 
 ![The mother dough has been placed in front of you](../images/standard-sourdough-place-bowl.jpg)
 
-Now the actual feeding frenzy begins.
+*Step 2:* Add 105 grams of full grain or strong flour.
 
-Add 105 grams of full grain or strong flour and 105 grams of warm water.
+*Step 3:* Add 105 grams of warm water.
+
 
 ![The feeding frenzy begins](../images/standard-sourdough-feed-mother-dough.jpg)
 
 You will end up having 310 grams of sourdough starter in
-front of you. Make sure to stir everything nicely together. You should end up
-with a somewhat homogeneous dough in front of you.
+front of you.
+
+*Step 4:* Stir everything nicely together. You should end up with a homogeneous
+dough in front of you.
 
 If you have less than 8 hours until your bake, you can use
 slightly warmer water. That will re-activate your mother dough faster. However
@@ -127,8 +133,9 @@ research here with a couple of A/B tests.
 
 ### Give back to the mother dough
 
-We removed 200 grams of our starter. We now return the rest of what is left
-back to the mother dough. Place the mother though container in the fridge and
+We removed 200 grams of our starter in the previous step.
+We now return the rest of what is left back to the mother dough.
+Place the mother though container in the fridge and
 cover it. We will re-use the mother dough on the next bake again. This way
 people sometimes have a 100 year old sour dough. They always return parts back
 to their original mother dough.
