@@ -40,7 +40,7 @@ for an actual recipe you can bake.
 - 500 grams of all-purpose flour. In Germany type 550. You can also use strong flour but working the dough becomes a little more difficult. The dough will be stickier. Thus for beginners go with all purpose flour.
 - 325 grams of water or 65%. Experiment with more hydration as well.
 - 200 grams or 40% of sourdough starter at 100% hydration.
-- 14  grams of salt or 2%.
+- 10  grams of salt or 2%.
 
 If you do the math you will end up with 325 grams of water and another 100 grams of water
 from the sourdough = 425 grams water in total. Then you have 500 grams of flour
