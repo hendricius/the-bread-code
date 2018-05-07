@@ -183,7 +183,7 @@ from the dough. Experiment here with less kneading when shaping. Less kneading
 means your dough will keep more gas. That way for instance air bubbles
 will be significantly larger in the final bread.
 
-Follow the steps for shaping exactly (one exception) as [described in the basic dough recipe](basics/basic-dough.md#shaping-the-dough).
+Follow the steps for shaping exactly (one exception) as [described in the basic dough recipe](basic-dough.md#shaping-the-dough).
 Flour the surface slightly more as the sourdough is a little more sticky. That
 will help you a lot with shaping on your initial bakes. Reduce the amount of
 flour later on. The less flour you add here, the more fluffy your bread
