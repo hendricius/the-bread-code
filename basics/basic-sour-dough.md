@@ -116,9 +116,8 @@ but the starter dough turned too sour too fast.
 
 ### Autolyse
 
-TODO: Add remaining ingredients
-Mix together all the remaining ingredients (500 grams of flour, ...) in a large bowl except for the starter dough.
-Stir them with a spoon for 2 minutes. Let the _basic dough_ rest for an hour after
+In a new, large bowl mix 500 grams of flour with 325 grams of water and 10 grams of salt. This is our _basic dough_.
+Stir it with a spoon for 2 minutes. Let the basic dough rest for an hour after
 this step to have the flour absorb the water. Furthermore the atoms will
 homogenize and spread evenly throughout the dough. This will already
 give you basic gluten structure.
@@ -126,44 +125,44 @@ give you basic gluten structure.
 ### Add the starter dough
 
 Place the 200 grams starter dough evenly on top of your basic dough. Many sources claim this
-should be done after the autolysing. However, when baking myself I sometimes add
-the starter dough right away and could so far not notice a significant difference. I
+should be done after the autolysing. However, when baking myself, I sometimes add
+the starter dough right away and could not notice a significant difference so far. I
 just follow this best practice and it works. It bothers me a little that I
 have not fully tested this myself yet. It would be really good to conduct more
 research here with a couple of A/B tests.
 
 ### Give back to the mother dough
 
-We removed 200 grams of our starter in the previous step.
-We now return the rest of what is left back to the mother dough.
+We removed 200 grams of dough from our mother dough in the very beginning.
+Return the rest of what is left back from it back to our mother dough.
 Place the mother though container in the fridge and
-cover it. We will re-use the mother dough on the next bake again. This way
+cover it afterwards. We will re-use the mother dough on the next bake again. This way
 people sometimes have a 100 year old sour dough. They always return parts back
 to their original mother dough.
 
 ### Knead the dough
 
-We mixed everything together we now want to develop the gluten. For that we
-simply start kneading the dough. Place the dough in front of you on a lightly
-floured surface and and knead it. You can also simply knead it in the bowl in
-front of you. There is no special kneading technique. Imagine the dough is
+Now that we mixed everything together it is time to develop the gluten. For that we
+simply start kneading the dough. Place it in front of you on a lightly
+floured surface and knead it. You can also simply knead it within the bowl.
+There is no special kneading technique. Imagine the dough is
 someone you do not like. You want to squeeze that person out. That's how you
 do the kneading. Do this for around 10 minutes. If you have a dough kneading
 machine, use that one instead.
 
 ![Sourdough vs yeast dough](../images/standard-sourdough-yeast-comparison.jpg)
 
-On the left hand side you can see my sour dough after the initial kneading. On
+On the left hand side you can see my sour dough fed dough after the initial kneading. On
 the right hand side I A/B tested a dough with yeast instead.
 
 ### Let the gluten form
 
 We will let the dough rest covered in a bowl for around 4 hours. During that
-time the mother dough's yeast will spread even more throughout the other dough
-ingredients. You can also prolong en this step. The result will be a more sour
+time the starter dough's yeast will spread even more throughout the other dough
+ingredients. You can also prolong this step. The result will be a more sour
 taste as the bacteria produces more lactic acid. Feel free to experiment on
 the duration. After 4 hours your dough should already have increased in size.
-Some bubbles should be see-able. This means the yeast starting njamnjam on the
+Some bubbles should be seeable. This means the yeast starting njamnjam on the
 dough and released gas. If the dough did not raise after 4 hours just wait
 another X hours until this happened. It can happen that your mother dough is
 not as reactive as mine. There is different yeast and bacteria even across
@@ -172,17 +171,13 @@ between each other for baking.
 
 ![This is how the mixed dough looks after 60 minutes](../images/standard-sourdough-look-after-60-minutes.jpg)
 
-You can already see bubbles forming in the dough above. That is how the dough
-looked like after 60 minutes.
+You can already see bubbles forming in the dough above. That is how mine looked like after 60 minutes.
 
 ### Shape the dough
 
 After the gluten-forming period we will proceed and shape the dough. Don't
-worry the dough will collapse. That is natural. After shaping the dough will
-rest another 60 minutes and increase in size again. Not all gas is removed
-from the dough. Experiment here with less kneading when shaping. Less kneading
-means your dough will keep more gas. That way for instance air bubbles
-will be significantly larger in the final bread.
+worry, the dough will collapse. That is natural. Experiment here with less kneading when shaping so more gas remains within the dough.
+That way for instance air bubbles will be significantly larger in the final bread.
 
 Follow the steps for shaping exactly (one exception) as [described in the basic dough recipe](basic-dough.md#shaping-the-dough).
 Flour the surface slightly more as the sourdough is a little more sticky. That
