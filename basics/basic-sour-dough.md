@@ -97,36 +97,37 @@ are super hungry.
 ![The feeding frenzy begins](../images/standard-sourdough-feed-mother-dough.jpg)
 
 You will end up having 310 grams of sourdough starter in
-front of you.
+front of you, the so called _starter dough_.
 
 *Step 4:* Stir everything nicely together. You should end up with a homogeneous
 dough in front of you.
 
 If you have less than 8 hours until your bake, you can use
-slightly warmer water. That will re-activate your mother dough faster. However
+slightly warmer water. That will re-activate your starter dough faster. However
 I usually mix everything together the evening before I want to bake. Over
 night everything is ready.
 
 This is how your starter should look the next morning. Notice all the
 bubbles that are in the starter. I used rye to feed my starter. But you can
 use any other strong flour that you have available. I tested all purpose flour
-but the mother dough turned too sour too fast.
+but the starter dough turned too sour too fast.
 
 ![The feeding frenzy begins](../images/sourdough-8-days.jpg)
 
 ### Autolyse
 
-Mix together all the ingredients in a large bowl except the mother dough.
-Stir them with a spoon for 2 minutes. Let the dough rest for an hour after
-this step to have the flour absorb the water.  Furthermore the atoms will
+TODO: Add remaining ingredients
+Mix together all the remaining ingredients (500 grams of flour, ...) in a large bowl except for the starter dough.
+Stir them with a spoon for 2 minutes. Let the _basic dough_ rest for an hour after
+this step to have the flour absorb the water. Furthermore the atoms will
 homogenize and spread evenly throughout the dough. This will already
 give you basic gluten structure.
 
-### Add the mother dough
+### Add the starter dough
 
-Place the 200 grams mother dough evenly on top of your dough. Many sources claim this
+Place the 200 grams starter dough evenly on top of your basic dough. Many sources claim this
 should be done after the autolysing. However, when baking myself I sometimes add
-the mother dough right away and could so far not notice a significant difference. I
+the starter dough right away and could so far not notice a significant difference. I
 just follow this best practice and it works. It bothers me a little that I
 have not fully tested this myself yet. It would be really good to conduct more
 research here with a couple of A/B tests.
