@@ -134,7 +134,7 @@ research here with a couple of A/B tests.
 ### Give back to the mother dough
 
 We removed 200 grams of dough from our mother dough in the very beginning.
-Return the rest of what is left back from it back to our mother dough.
+Return the rest of what is left from our starter dough to our mother dough.
 Place the mother though container in the fridge and
 cover it afterwards. We will re-use the mother dough on the next bake again. This way
 people sometimes have a 100 year old sour dough. They always return parts back
