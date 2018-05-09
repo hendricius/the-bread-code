@@ -8,7 +8,7 @@ This bread is excellent when inviting friends over for a barbecue.
 
 ## Custom Ingredients
 
-- 100 grams of bacon
+- 100 grams of bacon. Add Recipe Customization phase.
 
 ### Pre steps
 
