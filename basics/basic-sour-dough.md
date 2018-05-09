@@ -116,11 +116,11 @@ but the starter dough turned too sour too fast.
 
 ### Autolyse
 
-In a new, large bowl mix 500 grams of flour with 325 grams of water and 10 grams of salt. This is our _basic dough_.
-Stir it with a spoon for 2 minutes. Let the basic dough rest for an hour after
-this step to have the flour absorb the water. Furthermore the atoms will
+In a new, large bowl mix 500 grams of flour with 325 grams of water and 12 grams of salt. This is our _basic dough_.
+Stir it with a spoon for 2 minutes. Let the basic dough rest for an hour after.
+This step is to have the flour absorb the water. Furthermore the atoms will
 homogenize and spread evenly throughout the dough. This will already
-give you basic gluten structure.
+give you basic gluten structures. The gluten structure keeps the gas inside of the dough.
 
 ### Add the starter dough
 
