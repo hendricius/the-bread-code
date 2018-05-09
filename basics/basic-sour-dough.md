@@ -17,7 +17,7 @@ As a side effect your bread will become much more resistant to mold. A sourdough
 can still sometimes be eaten 3-4 weeks after the bake. In your sourdough bread
 bacteria and yeast wage war on each other, blocking each other from taking over the bread.
 In a yeast bread you do not have bacteria to counteract the yeast.
-Thus the yeast bread turns uneatable much faster.
+Thus the yeast bread turns inedible much faster.
 
 Overall you can bake every yeast-bread with sourdough instead. You only have to consider
 that your sourdough is at 100% hydration. Thus you need to adjust the hydration
