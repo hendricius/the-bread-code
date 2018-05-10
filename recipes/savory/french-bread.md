@@ -11,6 +11,15 @@ However, higher rye percentages can only be properly baked with sourdough.
 
 Overall I make most of the breads with the 10% rye "hack", it's a great combination.
 
+![The final bread](../../images/french-bread-crumb.jpg)
+
+The above bread has been baked in a different oven. Same temperature and
+minutes of baking as in the standard oven used at home. However the oven
+was significantly hotter than the default one.
+Thus the crust turned a little dark. This shows how different ovens are.
+You have to test which temperature works best in your oven. Just blindly
+following temperature suggestions might not result in your perfect bread.
+
 ## Custom Ingredients
 
 - 450 grams of all purpose flour instead of 500
