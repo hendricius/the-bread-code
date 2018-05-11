@@ -1,3 +1,0 @@
-# Zucchini Bread
-
-`TODO`
