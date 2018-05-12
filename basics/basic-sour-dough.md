@@ -47,11 +47,28 @@ from the sourdough = 425 grams water in total. Then you have 500 grams of flour
 plus another 100 grams from the sourdough starter. Which means you have a total of
 600 grams of flour in your bread. With 425 grams of water you have a ratio of approximately
 70% hydration in the dough. This is less than on the simple yeast bread.
-However since you utilize strong or full grain flour for your sourdough baking
+However since you utilize strong or whole grain flour for your sourdough baking
 becomes more difficult. The dough is much stickier and harder to handle. Thus the combination
 of 40% sourdough on the flour creates an excellent bread which is not too hard to handle.
 
 ## Instructions
+
+### TL;DR
+
+1. Take mother dough out of the fridge 
+1. Mix 100 grams from mother dough + 105 grams flour (preferably whole grain) + 105 grams warm water = 310 grams
+1. Let mix sit for ~ 8 hours (to accelerate process use warmer water)
+1. Return 100 grams back from the mix to the mother dough (in the fridge)
+1. In a new, large bowl mix and knead 500 grams of flour with 325 grams of water and 12 grams of salt
+1. Add the sour dough (~200 grams) to the new bowl
+1. Knead 
+1. Wait ~4 hours (or longer for a stronger sour flavour) for the gluten to form
+1. Shape the dough (be gentle to keep air bubles in the dough)
+1. Preheat oven to 270 degrees Celsius (Add baking stone if you have one)
+1. Once the oven is heated: Place a baking tray filled with water on the bottom (the steam will help the bread rise). 
+Decrease tempreture to 230 degrees Celsius. Insert bread for 25 minutes
+1. After 25 minutes remove the baking tray with water and bake for another 20 minutes
+
 
 ### Preparation steps
 
@@ -89,7 +106,7 @@ are super hungry.
 
 ![The mother dough has been placed in front of you](../images/standard-sourdough-place-bowl.jpg)
 
-*Step 2:* Add 105 grams of full grain or strong flour.
+*Step 2:* Add 105 grams of whole grain or strong flour.
 
 *Step 3:* Add 105 grams of warm water.
 
