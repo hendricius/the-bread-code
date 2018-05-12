@@ -1,4 +1,5 @@
-# The Bread Code Manifesto
+![logotype b](https://user-images.githubusercontent.com/36028424/39959838-631e798e-564a-11e8-841a-b49e86c18877.png)
+# The Bread Code Manifesto 
 
 Learn how to master the art of baking the programmer way.
 If you love programming, you will also enjoy breaking some bread.
