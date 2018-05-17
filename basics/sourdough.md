@@ -24,7 +24,7 @@ I like to call this dough the mother dough, as it is the mother of all my doughs
 
 ## Requirements
 
-* 400 grams of full grain wheat flour
+* 400 grams of full grain wheat flour (Look for flour with Whole in the word like Wholemeal or Wholegrain)
 * You can also take rye, spelt or whatever full grain flour you have available.
   Don't worry too much, you can later on feed your mother dough with rye to make it more ryish.
   It's just about getting a nice and yummy place for the bacteria and yeast.
