@@ -122,7 +122,7 @@ Piece by piece your dough will become rounder.
 The trickiest part of the process starts now.
 You want the bottom part of the dough that you have created to face upwards. The
 currently lower side has a lot of tension after following this process.
-Rotate the dough so the lower part is not facing you directly.
+Flip the dough so the lower part is not facing you directly.
 
 ![Previously bottom part now faces you](../images/previously-bottom.jpg)
 
@@ -136,7 +136,7 @@ If your bread ends up too flat, this is very likely the step that you need to im
 If you have a [banneton](tools.md#banneton-optional) use a banneton; if not, use a clean bowl.
 Place the shaped dough upside down in the container.
 The round surface that you created should be now at the bottom of your banneton or bowl.
-When baking the dough we will rotate the bowl and the round surface will again be on top in the oven. Cover the bowl with linen or some foil.
+When baking the dough we will flip the bowl and the round surface will again be on top in the oven. Cover the bowl with linen or some foil.
 
 Let the dough rest for an hour, or overnight in the fridge.
 
