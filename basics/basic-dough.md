@@ -24,7 +24,7 @@ Custom recipes hook in here with additional steps that are required to be done b
 
 ### Autolyse
 
-Mix together all the ingredients listed by the recipe. Some recipes require
+Mix together all the ingredients listed by the recipe, except the yeast. Some recipes require
 you to exclude ingredients initially. Instead they will be added later during
 the shaping phase. Proceed and all the ingredients in large bowl in front of you.
 Stir them with a spoon for 2 minutes.
