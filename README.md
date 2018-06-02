@@ -63,6 +63,15 @@ Custom Recipes:
 
 [See the guide Common problems / FAQ](basics/common-problems-faq.md) for strategies to deal with frequent pitfalls that arise when baking.
 
+## Experiments
+
+This section contains experiments where N breads are baked with only one
+parameter change each. This helps to visualize what impact a change of a single 
+parameter has on the final product. Feel free to submit your own experiments as a PR.
+The more experiments there the merrier.
+
+* [Scoring vertically vs. at an angle](experiments/scoring-vertically-vs-angle.md)
+
 ## Tools
 
 * [Which tools should you buy for baking?](basics/tools.md) Busting some of the tooling myths here. TLDR - you don't need any tools except a bowl and heat source.
