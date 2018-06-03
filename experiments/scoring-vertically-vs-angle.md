@@ -19,7 +19,7 @@ When scoring the bread I cut the bread at an angle with a large X.
 
 # Pictures
 
-![Left hand side vertically, right hand side at an angle](../images/experiment-angle-vs-vertical-score.jpg)
+![Left hand side vertically, right hand side at an angle](../images/experiment-vertical-vs-angle-scoring.jpg)
 
 # Result
 
