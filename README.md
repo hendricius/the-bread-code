@@ -58,6 +58,7 @@ Custom Recipes:
 * [Golden standard German bread](recipes/sourdough/golden-standard-german-bread.md)
 * [Bavarian rye bread](recipes/sourdough/bavarian-rye-bread.md)
 * [Einkorn sourdough bread](recipes/sourdough/einkorn-sourdough-bread.md)
+* [Emmer sourdough bread](recipes/sourdough/emmer-sourdough-bread.md)
 * [The Crack Bread](recipes/sourdough/crack-bread-tomato-water.md)
 
 ## Common Problems / FAQ
@@ -72,6 +73,7 @@ parameter has on the final product. Feel free to submit your own experiments as 
 The more experiments there the merrier.
 
 * [Scoring vertically vs. at an angle](experiments/scoring-vertically-vs-angle.md)
+* [Proofing Sourdough at room temperature for 3 hours vs. 10 hours fridge](experiments/proofing-sourdough-3-hours-room-temperature-vs-10-hours-fridge.md)
 
 ## Tools
 
