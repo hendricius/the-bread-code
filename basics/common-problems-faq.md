@@ -359,7 +359,7 @@ The left bread was scored at an angle. The right one vertically.
 The bread tastes the best after the initial bake. Sometimes however you might
 want to bake and enjoy the bread later. Usually what happens is that the crust
 becomes too crispy when re-heating in the oven. This happens because the bread
-becomes too try, thus the crust becomes bigger and bigger with every minute.
+becomes too dry, thus the crust becomes bigger and bigger with every minute.
 You might end up with a yummy stone.
 
 Place a large tray in the oven with boiling water. Heat the bread at a lower
