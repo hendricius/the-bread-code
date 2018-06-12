@@ -14,6 +14,9 @@ it readily available.  It can be made 24 hours in advance or it can be completed
 42% hydration
 
 ### Sample recipe
+Here we will shape our pasta into traditional noodles, however other
+shapes such as Trofie, Orecchiette or garganelli can also be used.
+
 a pasta serving is roughly 56g per person.
 this recipe serves 4 people:
 
@@ -49,7 +52,7 @@ may find you need to practice.
 hang the pasta in a cool dry space with good ventilation over a rope,
 string, or traditionally over a broom handle.
 
-### Bonus:
+### Bonus
 this recipe can also be used to make sourdough dumpling wrappers.
 simply fold the dough in half as opposed to thirds, and slice into
 triangles or squares.  
