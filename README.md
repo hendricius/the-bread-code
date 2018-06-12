@@ -58,6 +58,7 @@ Custom Recipes:
 * [Golden standard German bread](recipes/sourdough/golden-standard-german-bread.md)
 * [Bavarian rye bread](recipes/sourdough/bavarian-rye-bread.md)
 * [The Crack Bread](recipes/sourdough/crack-bread-tomato-water.md)
+* [Sourdough Pasta](recipes/sourdough/sourdough-pasta.md)
 
 ## Common Problems / FAQ
 
