@@ -26,16 +26,24 @@ Knead to combine for 15 minutes.
 cover and rest for 1 hour in the refrigerator.
 remove from refrigerator and roll onto a semolina dusted 
 cutting board into a large sheet.  Once your desired pasta
-thickness is achieved, dust the pasta again and fold into 
-thirds.  slice the dough in 2-5mm widths.  Once complete, 
+thickness is achieved, dust the pasta again and roll
+the dough into a tube.  Slice the dough in 2-5mm widths.  Once complete, 
 carefully unfurl the pasta and toss again in a light dusting
 of semolina.  
+
+![Sourdough ready for rolling](../../images/noodle_doughball.jpg)
+![Sourdough ready for rolling](../../images/noodle_rolled.jpg)
+![Sourdough ready for rolling](../../images/noodle_chopping.jpg)
+![Sourdough ready for rolling](../../images/noodle_chopped.jpg)
 
 ### cooking
 bring 2 litres of water to a rolling boil.  add fresh pasta and
 boil for 2-3 minutes, or add dried pasta and boil for 6-11 minutes.
 total time depends on the width and thickness of your pasta, so you 
 may find you need to practice.
+
+
+![Sourdough ready for rolling](../../images/noodle_final.jpg)
 
 ### Drying
 hang the pasta in a cool dry space with good ventilation over a rope,
