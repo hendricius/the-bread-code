@@ -59,6 +59,7 @@ Custom Recipes:
 * [Bavarian rye bread](recipes/sourdough/bavarian-rye-bread.md)
 * [The Crack Bread](recipes/sourdough/crack-bread-tomato-water.md)
 * [Sourdough Pasta](recipes/sourdough/sourdough-pasta.md)
+* [Sourdough Sandwich Loaf](recipes/sourdough/sourdough-sandwich.md)
 
 ## Common Problems / FAQ
 
