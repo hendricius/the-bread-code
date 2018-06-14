@@ -11,20 +11,11 @@ as this bread is baked in a pan at lower hydration it sacrifices some rise.
 it may also sacrifice deeper colouration. 
 
 ## Recipe:
-<<<<<<< HEAD
  for a 500g loaf, produce
 * 200g leaven
 * 300g white flour
 * 65% hydration based on water discount from the leaven.
 * 1.2% salt.
-=======
-* for a 500g loaf, produce
-..* 200g leaven
-..* 300g white flour
-..* 65% hydration based on water discount from the leaven.
-..* 1.2% salt.
->>>>>>> 8208d4795404f1efe737c9aa0a921223c740cd52
-
 
 ### Leaven and autolyse
 Form the leaven the night before the bake.
