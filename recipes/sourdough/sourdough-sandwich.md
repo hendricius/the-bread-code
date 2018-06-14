@@ -52,12 +52,15 @@ the sides of the pan as it bakes.
 ### Troubleshooting
 
 - Loaf doesnt rise to crest the pan
+
   since loaf pans dont appear to be metric/ISO, you may need to increase the amount of dough you use.
 
 - Loaf cracks off-center along the side
+
   You must score the loaf 1-2 cm down the center to encourage proper rise.  
 
 - Rise is paltry
+
   Dry climates may require spraying the top of the loaf or oven walls with water. this will also improve colouration.
 
   
