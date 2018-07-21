@@ -12,7 +12,7 @@ I followed the [Einkorn bread recipe.](../recipes/sourdough/einkorn-sourdough-br
 
 # Bread 2
 
-I followed the [Emmer bread recipe.](../recipes/sourdough/einkorn-sourdough-bread.md)
+I followed the [Emmer bread recipe.](../recipes/sourdough/emmer-sourdough-bread.md)
 
 # Pictures
 
