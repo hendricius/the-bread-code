@@ -152,7 +152,7 @@ This water will evaporate during baking, creating steam that supports the dough 
 
 After about 30 minutes of the oven pre-heating, remove the top tray and place your bread directly on it.
 Be careful, as the tray will be as hot as your oven.
-If you have a dutch oven, place the bread in the it.
+If you have a dutch oven, place the bread in it.
 
 Score the bread with 2 cm deep cuts at an angle.
 Consider these like tectonic plates, creating weaknesses in the surface to allow the bread to raise at the point of weakness.
