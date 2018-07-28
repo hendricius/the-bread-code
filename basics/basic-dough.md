@@ -37,6 +37,8 @@ Place the yeast evenly on top of your dough. Many sources claim this should be d
 However, when baking myself I sometimes add yeast right away and could not notice a significant difference.
 It would be interesting to conduct more research on this topic.
 
+You may see in other recipes that it is common to proof the yeast in warm water, followed by the addition of sugar to feed the yeast. This is only done to make the dough rise faster. Since we are waiting overnight for our dough to rise, the sugars and room temperature water are more than enough, no need to add sugar.
+
 ### Form the gluten
 
 We need a very strong layer of gluten to trap air in the dough.
