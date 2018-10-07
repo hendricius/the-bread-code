@@ -76,6 +76,7 @@ The more experiments there the merrier.
 * [Einkorn vs. Emmer](experiments/einkorn-vs-emmer.md)
 * [Scoring vertically vs. at an angle](experiments/scoring-vertically-vs-angle.md)
 * [Proofing Sourdough at room temperature for 3 hours vs. 10 hours fridge](experiments/proofing-sourdough-3-hours-room-temperature-vs-10-hours-fridge.md)
+* [Oiled loaf pan vs. parchment papered loaf pan](experiments/parchment-paper-vs-oiled-loaf-pan.md)
 
 ## Tools
 
