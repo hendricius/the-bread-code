@@ -37,6 +37,8 @@ Place the yeast evenly on top of your dough. Many sources claim this should be d
 However, when baking myself I sometimes add yeast right away and could not notice a significant difference.
 It would be interesting to conduct more research on this topic.
 
+You may see in other recipes that it is common to proof the yeast in warm water, followed by the addition of sugar to feed the yeast. This is only done to make the dough rise faster. Since we are waiting overnight for our dough to rise, the sugars and room temperature water are more than enough, no need to add sugar.
+
 ### Form the gluten
 
 We need a very strong layer of gluten to trap air in the dough.
@@ -152,7 +154,7 @@ This water will evaporate during baking, creating steam that supports the dough 
 
 After about 30 minutes of the oven pre-heating, remove the top tray and place your bread directly on it.
 Be careful, as the tray will be as hot as your oven.
-If you have a dutch oven, place the bread in the it.
+If you have a dutch oven, place the bread in it.
 
 Score the bread with 2 cm deep cuts at an angle.
 Consider these like tectonic plates, creating weaknesses in the surface to allow the bread to raise at the point of weakness.

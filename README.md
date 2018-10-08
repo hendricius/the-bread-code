@@ -57,9 +57,12 @@ Custom Recipes:
 * [Standard sourdough bread](recipes/sourdough/standard-sourdough-bread.md)
 * [Golden standard German bread](recipes/sourdough/golden-standard-german-bread.md)
 * [Bavarian rye bread](recipes/sourdough/bavarian-rye-bread.md)
+* [Einkorn sourdough bread](recipes/sourdough/einkorn-sourdough-bread.md)
+* [Emmer sourdough bread](recipes/sourdough/emmer-sourdough-bread.md)
 * [The Crack Bread](recipes/sourdough/crack-bread-tomato-water.md)
 * [Sourdough Pasta](recipes/sourdough/sourdough-pasta.md)
 * [Sourdough Sandwich Loaf](recipes/sourdough/sourdough-sandwich.md)
+=======
 
 ## Common Problems / FAQ
 
@@ -72,7 +75,11 @@ parameter change each. This helps to visualize what impact a change of a single
 parameter has on the final product. Feel free to submit your own experiments as a PR.
 The more experiments there the merrier.
 
+* [Different hydration levels on yeast bread](experiments/different-hydration-levels.md)
+* [Einkorn vs. Emmer](experiments/einkorn-vs-emmer.md)
 * [Scoring vertically vs. at an angle](experiments/scoring-vertically-vs-angle.md)
+* [Proofing Sourdough at room temperature for 3 hours vs. 10 hours fridge](experiments/proofing-sourdough-3-hours-room-temperature-vs-10-hours-fridge.md)
+* [Oiled loaf pan vs. parchment papered loaf pan](experiments/parchment-paper-vs-oiled-loaf-pan.md)
 
 ## Tools
 

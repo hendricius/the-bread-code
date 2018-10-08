@@ -23,7 +23,7 @@ recipes.
 
 Instead of just letting the dough rest for for hours we will be performing
 strech and folds every 1 hour. Follow the practice described in the [basic
-dough recipe](basics/basic-dough.md#stretch-and-fold-part-1). That way the
+dough recipe](/basics/basic-dough.md#stretch-and-fold-part-1). That way the
 gluten structure will become even better. The stretch and fold does not work
 for all flours, that's why it is not done by default on all sourdoughs you
 bake.
