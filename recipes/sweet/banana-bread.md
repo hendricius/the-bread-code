@@ -26,6 +26,8 @@ This is more like a cake than a bread. It is a soft bread that is still moist in
 
 Squash the bananas, and mix it with the sugar, butter, vannilla extract, the eggs and the yoghourt until it is frothy. Mix the flour with the salt and the bicarbonate soda seperately and mix now everything together until it is a uniform mass.
 
+Fill the mass in a 20 cm tin loaf.
+
 Bake it at 150 C with air circulation for one hour.
 
 ## Variations
