@@ -137,3 +137,51 @@ one more time in the morning. I place that sourdough starter in my oven with
 lights on. That way I have around 27°C in the oven. After 4 hours the sourdough
 has tripled in size. If it does - you are ready to go. You have the rock solid
 basis to bake an amazing bread.
+
+## Autolyse
+
+## Add sourdough #1
+
+## Rubaud kneading
+
+## Add salt
+
+## Rubaud kneading #2
+
+## Lamination
+
+## Bulk fermentation
+
+## Preshape
+
+## Bench rest
+
+## Shape
+
+## Proof
+
+## Preheat oven with lava rocks
+
+## Add kitchen towels with boiling water
+
+## Place loaf on peel
+
+## Brush off flour
+
+## Score loaf
+
+## Spray loaf with water
+
+## Place loaf in oven
+
+## Poor boiling water over lava rocks
+
+## Remove steam after 20 minutes
+
+## Finalise baking until brown
+
+## Remove loaf from oven
+
+## Post-baking resting period
+
+## Eat
