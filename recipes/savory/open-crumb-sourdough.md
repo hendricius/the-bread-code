@@ -10,7 +10,7 @@ Please note that this is by far the most complex bread you can bake. All the
 parameters depend on each other. If you commit a small error at one of the steps,
 chances are you will not be able to create similar product. It has taken me
 approx. 200 attempts and 400 hours to get this recipe right. This is also by
-far the most time intesive bread that I have baked in the past. The dough
+far the most time intensive bread that I have baked in the past. The dough
 requires working, you need to carefully observe fermentation. 2 hour per loaf
 is a realistic time. It would be interesting to know if similar bread can be
 achieved by using more tools, or whether it remains artisan craftsmanship.
@@ -29,12 +29,42 @@ Do not feel demotivated if you can not complete the recipe with similar results
 right away. Feel free to open up an issue here on the repository to receive
 further advice on what you should look at.
 
+## Required tools and ingredients
+
+* All purpose flour, the more protein the better
+* Full grain flour
+* White or brown rice flour
+* Water
+* Salt
+* Sourdough
+* 3 glas jars
+* Baneton covered with linen. For this tutorial we will use a longated one,
+  not a round one which would be used to make a boule
+* 1 large container, can be a large pot with a lid as storage for the dough
+* Dough scraper
+* A wooden plate, or a kitchen surface where you can use the dough scraper
+* Parchment paper
+* A pizza peel
+* Baking stone or baking steel
+* Semolina flour
+* A brush to brush off flour
+* 2 bowls for the oven that fit next to each other
+* Lava rocks
+* 5-6 kitchen towels
+* A water cooker
+* A thermometer
+* A scale precise up to 1 gr
+* Optional: pH measurer
+
 ## Preparing your starter
 
-The foundation of every bread is a healthy starter. I had to learn this the
-hard way. In fact, I had started to master all the steps, what was missing was
-a healthy starter. So simple, but I was so much focused on my technique that it
-took me a long time to realise.
+The foundation of every bread is a healthy sourdough starter. A small portion
+of sourdough is mixed into your bread to start the fermentation process. This
+dough is called the starter or levain. I had to learn the importance the hard
+way. In fact, I had started to master all the steps, what was missing was
+simply a healthy starter. So simple, but I was so much focused on my
+technique that it took me a long time to realise that the foundation of my
+baking was weak.
 
 The breads I made had great taste, but very visually not appealing.
 When working the dough it almost always stuck to my hands. The dough was super
