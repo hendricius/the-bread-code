@@ -170,15 +170,89 @@ basis to bake an amazing bread.
 
 ## Autolyse
 
-## Add sourdough #1
+Take the large pot and place it on your scale.
 
-## Rubaud kneading
+* Add 320 grams of all purpose wheat flour
+* Add 80 grams of full grain wehat flour
+* Add 320 grams of water at 23°C. This means you have 80% hydration.
+* If you have 2 banetons, you can also double all the quantities and make two
+  breads. During the preshape phase, the dough is splitted into 2 pieces.
+  This allows you to A/B the last stages of the baking process.
+
+Stir all the ingredients together with your hand for around 2 minutes. Just
+move your hand around in circles, until everyhting has been nicely mixed
+together. Make sure there are no chunks of flour left at the bottom of the
+pot. The dough will look like a sticky mess. This step is to have the
+flour absorb the water. Furthermore the atoms will
+homogenize and spread evenly throughout the dough. This will already
+give you basic gluten structures.
+
+Cover the pot with the lid, you do not want the contents to dry out. If you
+use a bowl, you can instead cover the bowl with plastic wrap.
+
+## Add sourdough
+
+After 2 hours we will be adding our sourdough starter. It must have tripled in
+size since you created it initially. Take out 80 grams of your sourdough
+starter and place it in the same bowl. That's 20% starter. Overall our bread
+has a final hydration of 81.8% (360 grams of water with 440 grams of flour)
+
+Incorporate the sourdough with your hands. If you pull parts of the dough
+where no starter has been added, you will notice how well the dough already
+sticks together. This is the basis for a good bread, your autolyse was
+successfull.
+
+## Rubaud kneading #1
+
+Set a timer for around 8 minutes and start kneading your bread using the
+rubaud method. This inflates your dough with basic gas. At the same time it
+creates a lot of strength in your dough. Strength is equal to a strong gluten
+network. This allows your dough to stay in shape and not turn out flat in
+later stages.
+
+The process is best explained in this video. Basically you form your hand into
+a shovel and dig in below the dough. Take the hand back out, stretching the
+dough. By each digging in you add air. By each stretch you create additional
+strength. Rotate the dough from time to time. You will notice that the dough
+becomes less sticky. The dough stretches more nicely and does not fall apart.
+The more you do this, the more this becomes visible.
+
+I suggest to do this by hand because you develop a dough conscience. With
+every dough you make, you will feel whether it is ready or not. As kneading
+times differ from flour to flour, developing an understanding is important.
+This allows you to adapt with different parameter changes.
 
 ## Add salt
 
+Salt has a negative influence on both gluten network and fermentation times.
+The yeast and bacteria works slower with salt added. That's why we add the
+salt after the initial rubaud kneading. We will be adding 8 grams of salt,
+equaling 2% of the flour mass.
+
 ## Rubaud kneading #2
 
+Repeat the same process as you did initially for another 8 minutes. Your dough
+should stick together way more now. It will naturally turn back and resist you
+with every stretch that you do.
+
 ## Lamination
+
+I have recently learned about lamination and like to add that to every bread
+that I bake now. It adds additional strength to your dough. The dough is
+spread apart, then folded back on top of each other. Because it is sticky, it
+will stick to itself. Because of the folds, it will stick to itself on
+multiple layers. This creates lots of strength. Some people even skip the
+rubaud kneading and just use lamination. My tests have shown that both create
+the strength in the dough that benefits oven spring the most.
+
+Wet the work bench in front of you and place your dough on the bench from the
+container. Wet your hands as well and carefully pull the dough apart in a
+rectangular shape. It should look like a large rectangular pizza in front of
+you. Make sure your dough does not pull apart.
+
+Note that your dough now very likely sticks to the surface slightly. Make sure
+to wet your hand. You can use your dough scraper to gently lift parts of the
+dough upwards.
 
 ## Bulk fermentation
 
