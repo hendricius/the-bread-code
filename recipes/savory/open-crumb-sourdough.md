@@ -256,6 +256,11 @@ successfull.
 
 ## Rubaud kneading #1
 
+Please note that kneading times depend on the flour that you are using. The
+numbers in this guide have shown the best results for my setup. The only way
+to find out for yourself is to A/B test. Try alternating kneading times
+between doughs that you make.
+
 Set a timer for around 8 minutes and start kneading your bread using the
 rubaud method. This inflates your dough with basic gas. At the same time it
 creates a lot of strength in your dough. Strength is equal to a strong gluten
@@ -274,6 +279,10 @@ every dough you make, you will feel whether it is ready or not. As kneading
 times differ from flour to flour, developing an understanding is important.
 This allows you to adapt with different parameter changes.
 
+To finish the process, stretch and fold the dough on top of each other. Don't
+worry, you likely have some dough stuck to your hands. Just use some water to
+wash the dough off.
+
 ## Add salt
 
 Salt has a negative influence on both gluten network and fermentation times.
@@ -287,24 +296,39 @@ Repeat the same process as you did initially for another 8 minutes. Your dough
 should stick together way more now. It will naturally turn back and resist you
 with every stretch that you do.
 
+Wait for 15 minutes before proceeding with the next step. This allows the
+dough to relax a little and become shapable easier.
+
 ## Lamination
 
-I have recently learned about lamination and like to add that to every bread
+Only recently I learned about lamination and like to add that to every bread
 that I bake now. It adds additional strength to your dough. The dough is
 spread apart, then folded back on top of each other. Because it is sticky, it
 will stick to itself. Because of the folds, it will stick to itself on
 multiple layers. This creates lots of strength. Some people even skip the
-rubaud kneading and just use lamination. My tests have shown that both create
-the strength in the dough that benefits oven spring the most.
+rubaud kneading and just use lamination. My tests have shown that a
+combination of both creates a superb amount of strength. Only with that
+level of dough strength my loafs would not flatten out in the oven. They would
+expand nicely and create beautiful looking ears during the bake. Exactly what
+I wanted.
 
 Wet the work bench in front of you and place your dough on the bench from the
-container. Wet your hands as well and carefully pull the dough apart in a
-rectangular shape. It should look like a large rectangular pizza in front of
-you. Make sure your dough does not pull apart.
+container. Do one more stretch and fold before taking the dough out of the
+container. Take the dough out with a swift move, to not tear it too much.
+Wet your hands again and carefully pull the dough apart in a rectangular shape.
+It should look like a large rectangular pizza in front of you. The thickness
+of the dough should be even in that rectangular shape. Make sure your dough
+does not pull apart by tearing it too much apart. Be very gentle. Once the
+dough starts sticking too much to your hands, wet them again.
 
-Note that your dough now very likely sticks to the surface slightly. Make sure
-to wet your hand. You can use your dough scraper to gently lift parts of the
-dough upwards.
+Note that your dough now very likely sticks to the surface slightly. With
+wetted hands, or your dough scraper to gently lift 1/6th of the dough upwards
+and fold it over the next 1/6th. Repeat this process until you have a long
+piece of dough. Now start folding that large piece of dough on top of each
+other again until you have a small rectangular piece of dough in front of you.
+The dough should stay in its shape and not flatten out. This is because
+internally the layers of dough now nicely stick to each other. You developed a
+lot of strength. This part is fundamental for all the following steps.
 
 ## Bulk fermentation
 
