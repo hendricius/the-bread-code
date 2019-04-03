@@ -100,34 +100,84 @@ temperature is beneficial. Regardless, my sourdough would never double within
 4 hours in size. So I had to increase my fermentation times. My dough became
 much easier to work with after exchanging the starter. I could do stretch and
 folds, my hands were not covered in dough after. However - after 8 hours of
-fermentation or so the dough suddenly turned into a sticky mess again. It
-seems that over time your dough naturally degrades, several sources describe a
-so called `Gluten rot`. Since enzymes become activated after water is added,
-the gluten is slowly transformed. Which makes sense, since the seed needs
-sugars to grow. A similar process has been used for thousands of years when
-brewing beer. This means you can not simply let your dough ferment for longer
-time to compensate for lack of gas development by your yeast. You have to
-maximise fermentation speed in a short period of time. This seems especially
-true for doughs that have high hydration.
+fermentation or so the dough suddenly turned into a sticky mess again. I
+observed similar issues when I fermented my dough over night. In the morning
+the dough became so sticky. It was impossible to work the dough without adding
+additional flour. When researching I saw people easily handing 80% hydration
+dough. Something was way off. I improved my technique but still my dough was
+more sticky. This seemed especially true for doughs that have high hydration.
+Doughs with less hydration could easily ferment for longer periods.
 
-This means, you need to make sure your sourdough is super active. My freshly
-created sourdough would need around 8 hours to double in size at room
-temperature. I saw videos and guides where people explained how their
-sourdough could triple in size in 4 hours.
+I observed that over time dough seems to degrate. Conducting more research the
+phenomenom is known by other bakers as `Gluten rot`. Since enzymes become
+activated after water is added, the gluten is slowly transformed. Which makes
+sense, since the seed needs sugars to grow. A similar process has been used
+for thousands of years when brewing beer. You soak the grain in water. After a
+few days the hull degrades. Some content of the grain transforms into
+sugar which can be eaten by the endosperm.
+
+This means you can not simply let your dough ferment for longer time
+to compensate for lack of gas development by your starter. You have to maximise
+fermentation speed in a short period of time. If you wait too long, tiny pockets
+of air in your dough aka. alveoli collapse again. When taking to wine someliers
+you learn that one of the qualities of wine comes from the yeast that ferments
+the sugars. The yeast creates the unique taste of a wine. Some someliers
+explained that a wine without might have 10 different taste notes, after
+proper fermentation it multiplies. Back to baking bread, the fermentation
+causes the unique taste of your loaf. Longer fermentation might create better
+taste in your bread. It all seems to boil down to finding the perfect
+combination of all the factors. On a site note - similarly to sourdough -
+wine can also be fermented over a longer period of time, without adding
+commercial yeast. Yeast naturally enters the crushed grapes and starts the
+fermentation process. This technique however is way more difficult than
+using commercial yeast, as the yeast might change from year to year. A somelier
+has to pay close attention to the development of his product. For commercial
+wines the whole process might not create significant good product from year to
+year, thus most wineries utilise commercial yeast today.
+
+All this talk about fermentation times, gluten degradation boils down to one
+learning that you need to apply when baking. You need to make sure your
+sourdough is super active, able to create the amount of gas that you need to inflate
+the dough properly. My freshly created sourdough would need around 8 hours
+to double in size at room temperature. I saw videos and guides where people
+explained how their sourdough could triple in size in about 4 hours. I knew I
+was onto something and started experimenting with the goal of making my
+starter more active.
 
 The quantity of yeast plus its activity in your sourdough is essential.
 To make sure your yeast is as active as possible you need to feed it. This
 means if you have your sourdough in your fridge, it can take up to 3 full days
-to get it to its same activity levels again, before freezing it. Furthermore a
-freshly created sourdough might need more time to become active. In fact it
+to get it to its same activity levels again, before freezing it. I would only
+bake on the weekends mostly. I took the sourdough from the fridge on Fridays,
+then baked on Saturdays. This was way too little time for sourdough to become
+super active again. Instead I would now take my sourdough with me whenever I
+traveled. I would always have a small scale plus some flour with me as well.
+By doing so I made sure my sourdough always had maximum activity.
+
+`TODO - enter picture of sourdough on a plane here`
+
+Most guides suggest to create a sourdough starter over a week, then you can
+use it to bake. This is true if you don't care that much
+about dough degradation. A rye bread is a good example, there's almost no
+gluten, you can not create an open crumb. You can just let the whole bread
+ferment longer, not having any negative impact on the product. The opposite
+happens, the bread develops more taste and has an increased shelf life.
+However a freshly created sourdough needed way more time in my case. It
 took me approx. 2 weeks to get my sourdough to a state where it was active
-enough. Feeding your starter with rye can help, as rye naturally has more
-yeast contamination. You should only do that from time to time, as rye in
-general impedes gluten development. I like to have a variety of different
-yeast and bacteria in my sourdough.
+enough. It could triple in size after around 3 hours at 27°C room temperature.
+Feeding your starter with rye can help, as rye naturally has more yeast
+contamination. The added yeast expoententially increases in quantity rapidly.
+The rye trick should only be applied during feeding cycles, not before the
+actual bake. Rye in general impedes gluten development. Thus your crumb
+will not turn out as open. I like to have a variety of different
+yeast and bacteria in my sourdough. That's why I also feed my starter with
+spelt, einkorn or emmer. It would be interesting to conduct further research
+on sourdoughs from all around the world, which ones seem to be the most
+active.
 
 So lets get your sourdough nuclear. This guide assumes you already have a
-sourdough starter. If not, you first need to make one.
+sourdough starter. If not, you first need to make one. This is not part of
+this guide.
 
 For 4 days in a row you will do the following, twice per day:
 1. Take 40 grams of sourdough
@@ -143,8 +193,8 @@ warm environment in your house/flat. It shouldn't be too cold. In my case I
 placed the dough in my bathroom where I constantly had around 22°C.
 
 After 12 hours return to your sourdough and check whether it has expanded in
-size. Take a new jar and repeat the same process with now 40 grams of
-sourdough from the initial feeding. This means your sourdough always has fresh
+size. Take a new jar and repeat the same process with now **40 grams of
+sourdough from the initial feeding**. This means your sourdough always has fresh
 flour to feed on. You divide it into 1/3. This also has the advantage to leave
 over fermented, too sour parts away. In the jar from the initial feeding you
 should still have some sourdough left, probably around 75 grams, as you always
@@ -154,6 +204,8 @@ development. You could also make sourdough pancakes, sourdough crips,
 sourdough pasta, or anything you please with it. Some bakers just discard that
 sourdough. I like to store that highly fermented sourdough in an additional
 jar in my fridge, ready for use whenever I please.
+
+`TODO - enter some pictures of discard sourdough products`
 
 After 4 days your sourdough should be way more active than it was before. If
 it is not, then you need to repeat this process. As suggested, eventually
