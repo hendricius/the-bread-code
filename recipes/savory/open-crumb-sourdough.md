@@ -261,9 +261,11 @@ numbers in this guide have shown the best results for my setup. The only way
 to find out for yourself is to A/B test. Try alternating kneading times
 between doughs that you make.
 
+**The goal of kneading is to create a lot of strength in your dough.**
+
 Set a timer for around 8 minutes and start kneading your bread using the
-rubaud method. This inflates your dough with basic gas. At the same time it
-creates a lot of strength in your dough. Strength is equal to a strong gluten
+rubaud method. This inflates your dough with air. At the same time it
+creates the desired strength. Strength is equal to a strong gluten
 network. This allows your dough to stay in shape and not turn out flat in
 later stages.
 
@@ -331,6 +333,41 @@ internally the layers of dough now nicely stick to each other. You developed a
 lot of strength. This part is fundamental for all the following steps.
 
 ## Bulk fermentation
+
+After adding your starter to the dough the bulk fermentation phase starts. It
+is called bulk fermentation, because bakers usually bake more than 1 bread.
+They bake multiple in bulk. The dough will be cut into smaller pieces at a
+later stage. During bulk fermentation the dough rests together in bulk in one
+large container.
+
+**The goal is to let the dough ferment**. With the fermentation process the
+yeast starts eating the dough, producing gas and other enzymes. This way your
+dough inflates, creating the pockets of air. At the same time the bacteria
+starts eating too. The bacteria creates the lactic acid, typicial for a
+sourdough.
+
+This process takes time. I would blindly follow guides telling me 4 hours, 5
+hours, 6 hours, 24 hours. I didn't read the guides carefully enough. I could
+never reproduce the results from the recipes. I had to learn the hard way how
+important fermentation temperatures are. The factors influencing fermentation
+times are:
+
+* Amount of starter used
+* Temperature
+* Amount of salt
+
+Changing one of those factors increases or decreases the bulk fermentation
+time. Longer fermentation times create more gas, more taste but might also
+cause your dough to degrade. You have to find a combination that works for
+you. I would always resort to around 20% starter. That's the right amount of
+starter to allow my bread to properly ferment over a short period of time. To
+visualize the dependencies of all the parameters
+[http://wraithnj.com/breadpics/rise_time_table/bread_model_bwraith.htm](I like to look at this table).
+The table shows you how different temperatures, ratios of starter and salt
+influence the fermentation and baking times. Please note that this is a model
+that can not be applied to every dough directly. In a perfect world where we
+all had the same sourdough this might be true. Your fermentation times are
+likely different. I only use that table as a
 
 ## Preshape
 
