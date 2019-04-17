@@ -367,7 +367,85 @@ The table shows you how different temperatures, ratios of starter and salt
 influence the fermentation and baking times. Please note that this is a model
 that can not be applied to every dough directly. In a perfect world where we
 all had the same sourdough this might be true. Your fermentation times are
-likely different. I only use that table as a
+likely different. I only use that table as a reference value. The table
+suggests you based on the salt percentage, starter percentage as well as room
+temperature how long it takes to bulk ferment and proof your dough.
+
+TODO add example here
+
+In my case I store the dough in a container in my bathroom. I have consistent
+23°C to 24°C throughout the year. That way I have an environment where I can
+reproduce the same bulk ferment over and over. I have been struggling with
+this a lot. I would read that you need to wait for your dough to increase in
+size, but that never happened as much as other people described. Furthermore I
+couldn't find a way how to properly keep track of the progress.
+
+Then I discovered an excellent trick. Take a small piece of your dough and
+store it in a glas. Cover it up, take a pen or a rubber band and mark the glas
+at the initial top position. Since both the dough in the glas as well as in
+your bulk fermentation container have the same properties, you can use the
+small dough as a reference. The moment the dough has doubled (TODO) in size
+your bulk fermentation is done. You can safely proceed with the next steps.
+
+TODO - add picture of process
+
+During the bulk fermentation phase the yeast feeds on your dough and inflates
+the dough with gas. The bacteria adds lactic acid to your dough. The inflation
+causes your dough to increase in size. The tiny pockets of air create you the
+open crumb ultimately. The gas is not evenly released throughout your dough.
+Parts of your dough are inflated with more gas, other parts with less gas.
+This means that the crumb by default will look relatively uneven.
+
+This is why you should stretch and fold. The folds will even out the crumb and
+create additional strength in your dough. The strength is created by lifting
+the dough on top of each other. You are creating layers that stick to each
+other well. Building that additional strength is very important to allow your
+dough to rise upwards in the oven later on. I can't stress enough how
+important this is. Mastering this can make up to poor initial kneading. A few
+folds in you will notice how the dough suddenly starts to feel different. It
+has inflated, because of that less of the surface comes into contact with your
+hands. The dough becomes less sticky suddenly. It's a great feeling as you
+finally see all the previous work coming together.
+
+The technique to choose when doing stretch and folding is called `Coil
+folding`. This technique is very gentle on your dough. Some techniques will
+tear your dough apart. The moment that happens, you are losing precious gas
+and thus structure. Your crumb will not be as open. I found this technique to
+be the most effective, while being very easy to apply.
+
+1. Wet your hands with cold water
+2. Carefully remove the dough from the edges of your bulk fermentation
+   container, or the bottom. Try not to tear the dough too much. If the dough
+   starts sticking to your hands, water your hands again.
+3. Place the bowl in front of you. Place both hands below the dough at at
+   around 75% in of the dough. 0% being directly at the edge in front of you,
+   100% in the far rear.
+4. Place the 25% edge that now hangs downwards at the bottom of the container.
+   Place the other 75% on top. That way the 25% are now at the bottom, the 75%
+   have been placed on top. You have a created a layer.
+5. Repeat this once from each side until you have a nice looking rectangle of
+   dough in front of you.
+
+Note that after each coil fold your dough starts looking smoother and
+smoother. Your dough should also feel less sticky. The dough stays in shape
+more and more.
+
+I suggest doing this once every hour during bulk fermentation. If time does
+not allow, you can also do this once every 2 hours. Some people do more folds
+early in the bulk fermentation and less in later stages. If you have no time
+at all, you can also skip this step alltogether. I do that sometimes, but then
+my dough really deflates while trying to shape it. The additional layers are
+missing and the dough is not able to retain all the gas. Furthermore the crumb
+is very wild and not even. You might end up having thumb size alveoli in your
+bread.
+
+TODO - video of coil folding
+
+In my setup at 23°C to 24°C bulk fermentation is usually done after 6-7 hours.
+By then the dough has doubled in size. Interestingly the increase in size
+mostly happens in the later stages of the bulk ferment. I might not see any
+size increase for 3 hours, but then suddely huge increase in size the last 4
+hours.
 
 ## Preshape
 
