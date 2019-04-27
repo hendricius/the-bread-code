@@ -447,9 +447,88 @@ mostly happens in the later stages of the bulk ferment. I might not see any
 size increase for 3 hours, but then suddely huge increase in size the last 4
 hours.
 
+Before starting the next phase perform one last coil fold.
+
 ## Preshape
 
+Preshaping happens immediately after the bulk fermentation phase completes. You convert
+the shaggy mass of dough into something that you can shape into a nice loaf.
+
+Make sure you have a large surface area available on which you can use your
+dough scraper. Make sure you do not flour the surface. This is important. You
+want your dough to stick to the surface.
+
+Wet your hands one more time and with both hands remove the dough from the
+bulk fermentation container and place it on your surface. If you plan to bake
+one single loaf out of the dough, skip cutting the dough into smaller pieces.
+When splitting it is important that you split the dough very concise with speed.
+Ideally you require a maximum of 2 cuts to spread out the dough into 2 equal sizes.
+Be very gentle since you do not want to have negative effects on the crumb of the
+bread that you bake. To get the best open crumb, you do not want to cut the dough.
+But there is no way around it, so reduce the cuts to a minimum.
+
+The process is the same per piece of dough that you have in front of you. In
+case you split the dough you have n pieces in front of you. If you bake 1
+loaf, then you will have 1 piece of dough. Just repeat the same process per
+loaf in front of you.
+
+The whole process is best shown with a video. TODO add video. At an angle use
+the dough scraper to push the dough forward over the surface. Use your other
+hand to rotate the dough slightly. Lift the dough up, bring it back in front
+of you. Repeat the same process until the dough surface looks very silky. The
+dough should be round and not spread out too fast. This only works because
+there was no flour on the surface. Because the dough sticks to the surface you
+can make it stick to itself. Be advised that it takes quite a while to master
+this technique.
+
+One thing that happened to me often was that my dough was way too sticky at
+this stage. When using the dough scraper chunks of dough just stuck. When
+debugging the issue I could pinpoint it to:
+
+1. My sourdough was too acidy
+2. I did not create enough strength while kneading the dough
+3. I did not bulk ferment my dough long enough
+4. I bulk fermented my dough for too long.
+
+Now to the reasons why you want to preshape:
+
+1. Giving the dough additional strength after the bulk fermentation
+2. Evening out the alveoli that formed during bulk fermentation to create a more even open crumb
+3. Cutting the dough into smaller pieces and repairing some of the damages done
+
+After your bulk fermentation the dough might be overly elastic. It might have
+spread out a little too much. This would mean that you require additional
+folds to shape the dough into a loaf that you can proof afterwards. We want to
+be as careful as possible with the loaf, doing gentle as few as possible
+actions at this stage. Preshaping causes your dough do stick together as you
+tuck it onto itself. This creates a lot of strength and tension in your loaf.
+
+Because of tucking the dough onto itself you create tension. This causes the
+alveoli in your bread to become smaller. Some of them fade, some of them can
+be split into smaller ones. You might have incredible big deposits of gas
+after bulk fermenting. By chance some of them have created a very big bubble.
+Some of those bubbles are so big that you can easily put 3 fingers through
+them. Preshaping evens out the crumb of your loaf.
+
+When you bake you want to have a proper testing setup. That's why it is good
+to have exactly the same dough, but for instance alternate scoring pattern.
+During preshape you split your loaf into smaller pieces. In larger bakeries
+this happens too. The bulk fermented dough is split into equal size chunks.
+
 ## Bench rest
+
+After you shaped your dough into a nice ball you want it to elongate a little
+bit again. It should not turn too flat, but a little flatter so that you have
+the right size to shape your loaf. Times again depend on the temperature in
+your kitchen, how much strength your created and so on. But I usually let my
+dough bench rest for around 15 minutes. During those 15 minutes your dough
+becomes more elastic and ferments further.
+
+While bench resting you do not cover your dough. This means if you bench rest
+too long, your dough might dry out. That's important to understand, if your
+dough dries out the surface will tear apart.
+
+Here still further research needs to be done on all the parameters.
 
 ## Shape
 
