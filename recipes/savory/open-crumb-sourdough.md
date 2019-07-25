@@ -532,9 +532,198 @@ Here still further research needs to be done on all the parameters.
 
 ## Shape
 
-## Proof
+Shaping is the process of converting your fermented dough into the shape that
+your dough should have after baking. Based on shaping you can either create a
+boule, a baguette, a country bread. Until this point the process is the same
+for most of the breads. Shaping is what differentiates the different loafs.
+Proper shaping is important to create the final level of strength in your
+dough. A properly shaped loaf has more oven spring than a loaf where shaping
+was done poorly.
 
-## Preheat oven with lava rocks
+This is also probably the hardest part during the whole process. It took me at
+least 10 attempts to get this right. Even now after having baked many loafs I
+am still scared to perform this step. One small error and your work will fall
+a part like a house of cards. It is incredibly frustrating to screw up here,
+because all the work to create an open crumb bread will have been mostly for
+nothing. The bread will still taste good, but the crumb will be dense, you
+will not have proper oven spring, you will not be able to properly score the
+bread. But do not give up, keep practicing this step until you feel more
+comfortable.
+
+Your dough should not be sticky. It should look smooth and silky. I often
+wondered why I can't shape my loaf. The reason was not my shaping technique,
+it was a too sour dough, improper fermentation or wrong flour combination. If
+you pinch your dough slightly with a watered finger, your dough should not
+stick to it. It should stay in shape.
+
+TODO (pictures)
+
+Before we get started we need to ready our baneton. Flour your baneton with
+rice flour. Rice flour has been the winning combination for me. I experimented
+with semolina flour and regular flour as well. In all experiments rice flour
+worked best. Don't save on adding rice flour to your baneton, more works
+better. I then later on brush off any excess flour before the bake. I am
+stressing this point, because a dough sticking to your baneton is the worst
+nightmare of a baker. You can say good bye to your desired crumb and oven
+spring. Make sure the linen of your baneton has rice flour everywhere. At the
+bottom of the baneton add a little more rice flour. That is where your dough
+will apply the highest pressure on your baneton.
+
+Lightly flour the surface on which you will conduct the shaping process. Do
+not add too much flour. I learned this the hard way. Too much flour impedes
+the whole process as you can not make the dough stick to itself. It's
+perfectly fine that the bottom part of your dough sticks to the surface.
+
+With your dough scraper move to the right end of your preshaped dough. It
+should by now have spread a little. This is normal as the gluten relaxes after
+some time. Probably around 50% larger in diameter in comparison to directly
+after the pre-shaping.
+
+1. Push the dough while rotating the dough until you can lift the dough with
+   your dough scraper.
+2. Quickly flip the dough and place the previously top side of the dough on
+   the floured surface.
+
+The top side is smooth and silky. We want that side to be at the top of the
+loaf when baking it. The bottom side stuck to the table. This side is not as
+inflated as the other side. Thus it is also way more sticky than the nicely
+inflated side. We basically want the smooth silky side to be at the top again.
+This is what we need to achieve with the next steps.
+
+The overall process is very similar to the lamination we did initially. Place
+a little bit of flour on the table next to you. We need to slightly flour our
+hands for this step.
+
+1. Pull the dough slightly apart. We need to increase the size of the surface.
+   The more surface we have, the more the dough can stick to itself.
+2. Lift the bottom part of the dough and fold it to the middle of the loaf.
+3. Gently tap the dough together. This will create strength. This works so
+   well because the uneven previously bottom sides are put on top of each other.
+4. Take the left hand side of the dough and place it a little further than the
+   middle in front of you.
+5. Hold the dough so that it will not spread back.
+6. Take the right hand side of the dough and place it over the previously
+   placed left hand side of the dough. Pull it as far as you can, without
+   tearing the dough. You need to remove your left hand in the right moment.
+   If you pull it too late, your hands will stick to the dough. This took me
+   a while to master properly.
+7. Pull the top left hand side to the middle of your dough. Keep holding that
+   newly added fold.
+8. Pull the top right hand side over the left hand side. It's the same with
+   all the steps. We are creating layers of strength by making each layer
+   stick to each other.
+9. Your shaped dough should now look more or less like a rounded rectangle.
+10. Take the top left side again, pull it into the middle. Pull the right hand
+   side over the left hand side again. This process is called stitching. We
+   are stitching together the parts of the dough in the center of the dough.
+11. Repeat this whole process all the way through the center. Be careful to
+   not be too brutal. You have to be gentle. Again this only works if you did
+   not add excessive flour. With too much flour the dough can not stick to
+   itself. Be quick and gentle with every move of your hands. If you hold the
+   dough too long it will stick to your hands. If this happens, put your hands
+   into the flour you previously placed on your table.
+12. Pull the top side of the dough slightly and roll it over to the top
+   quarter of your dough. With both hands keep pulling the dough from the
+   surface and roll it further. Keep doing this until the smooth and silky side
+   of the dough is now on the top. Your dough should look slightly oval now.
+13. Use your bench scraper and push in the right hand side of the dough
+   slightly. Not too much, because we don't want to create a boule.
+14. Do the same process from the left hand side. Push the dough one more time
+   from the bottom side and then a last time from the top side. This will
+   create additional strength. Note how the surface of your dough increases in
+   tension.
+15. Take your bench scraper again, lift the whole dough. Quickly place it with
+   the smooth silky side at the bottom of the baneton. The side that looks
+   towards you like does not pretty. Do not worry, before baking the baneton
+   is flipped. This side will be ultimately the bottom side of the loaf
+
+TODO add some pictures here.
+
+Cover your baneton so that your dough does not dry out. Place the dough in
+your fridge.
+
+## Proofing.
+
+After shaping the proof stage commences. The proof stage allows your dough to
+inflate again after having lost a little bit of gas during the shaping stage.
+During the proof stage your dough is going to double in size. The
+micro-organisms continue eating your dough, creating gas and acid.
+
+Being an engineer I like to be able to reproduce each step as much as
+possible. The fridge is an excellent way to do so. It is the only place
+in my flat that has a constant temperature throughout the year. This is
+excellent because the time required to complete this step then stays the same
+with every additional bake. If you underproofed your dough you can just let it
+rest for a few more hours on the next bake. If you overproofed your dough,
+take your dough out of the fridge a little faster.
+
+With my room temperature of around 20-22°C the dough finishes proofing after
+around 2-3 hours.  At room temperature you can poke the dough slightly with
+a floured finger. The dough should inflate again, leaving no signs that you
+poked the dough. If it stays deflated, your dough is overproofed. 2-3 hours
+of proofing time is equivalent to to 24 hours in my fridge (5°C). This poking
+test does not work on a refridgerated dough. At a cooler temperature your
+micro-organisms slow down. At a certain temperature they simply stop doing
+their job completely. Make sure your fridge is not set to freezing
+temperatures.
+
+This process is known as cold-retarding the dough. Several people claim that
+this fridge-fermentation improves the overall taste of your dough. I can
+confirm that this is the case, but did not find any scientific sources yet to
+confirm this claim.
+
+The biggest advantage of this cold-retarding is the cooled gas inside of your
+dough. The final volumne of the dough is the same after proofing at room
+temperature in comparison to proofing in the fridge. However the fridge
+proofed dough has been inflated with gases that now have a colder temperature.
+The moment the gases heat up, they will increase in volume. This is exactly
+what you want, because this will inflate your dough in the oven even further.
+The consequence is an enhanced open crumb and better oven spring.
+
+Sometimes when in a rush I proof the dough for an hour at room temperature and
+then another 12 hours in the fridge. Or sometimes even slightly longer at room
+temperature. Regardless I always make sure that the last phase is in the
+fridge to have the gas-expansion effect during the bake.
+
+Don't worry too much if you can not bake your dough directly after 24 hours.
+In my experiments I could let the dough ferment for even longer up to 48 hours
+in the fridge. It seems that most of the benefitial microorganism activity is
+happening while the dough cools down from 20°C to 5°C in the fridge. At 5°C it
+seems that there is almost no activity by the microorganisms.
+
+## Heating up the oven and your lava rocks
+
+Almost done - with the whole process. We need to ready the oven for the bake.
+
+1. Place the baking stone/steel in your oven
+2. In a large container place your lava rocks at the bottom of your oven
+
+It is important that your stone and your rocks are as hot as possible. The
+water inside of your dough will evaporate and expand your dough, creating the
+oven spring. This works best if the surface on which you place your dough is
+very hot. It is the same process when baking pizza.
+
+The lava rocks have to be hot because we will pour boiling water on them
+before the bake. This creates a lot of steam in your oven. This steam is
+crucial for the bake. The steam is important because it prevents the
+maillard-reaction of your crust. The crust prevents the dough from inflating
+even further in the oven. You will end up having large alveoli in the top
+facing part of your dough, close to the crust. The steam mitigates crust
+creation. However - everyone loves a crunchy crust. Thus we only add steam for
+half the time of the bake. The second half is there to create that crunchy
+crust.
+
+I have conducted multiple experiments with different steaming techniques.
+The lava rocks technique has created me the best loafs consistently.
+Another popular method is to use a dutch oven. The dutch oven traps the steam
+that is created while the water from your dough evaporates. I've achieved
+almost similar results when I sprayed the dutch oven with additional water
+from the inside. However the lava rocks method has been the winner in all my
+experiments.
+
+In my case that is around 45 minutes of pre-heating the oven at 270°C. The final
+baking temperature will be 230°C. Do not worry if your oven does not get as hot.
+Lower temperatures are fine too.
 
 ## Add kitchen towels with boiling water
 
