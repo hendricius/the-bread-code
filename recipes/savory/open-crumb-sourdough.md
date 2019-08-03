@@ -4,29 +4,50 @@ The goal of this recipe is to create fluffy sourdough bread that features an
 excellent open crumb. The crumb should have evenly spread alveoli. The crust
 of the bread should be thick and crispy, feeling almost like if it was fried.
 That way you experience two different consistencies thus creating a more
-wholesome taste experience.
+wholesome taste experience. This is the kind of bread that you want to bring
+when you have been invited by friends. It looks so stunningly beautiful that
+your friends will wonder if they are truly allowed to slice it. The amount of
+flavor that this loaf has is unique and truly unbeatable. It can be eaten
+pure or with a little bit of butter, anything that does not overshadow the
+uniqueness of the bread's flavor is allowed. This is truly the bread master piece
+that leaves every bread that you can buy in other bakeries behind by light years.
+This bread is the perfect combination of consistency, flavor and visual
+beauty. Having tasted this bread once, all other breads from that moment on
+will feel inferior. I am warning you - once you achieved this masterpiece,
+you will be addicted and can never go back to eat regular bread again. Be
+wanred that your friends will invite you over for dinner, assuming you will
+bring the bread. The bread will be the star of every dinner to which you bring
+it. This book documents my quest and will hopefully teach you how to achieve
+the perfect bread.
 
 Please note that this is by far the most complex bread you can bake. All the
 parameters depend on each other. If you commit a small error at one of the steps,
-chances are you will not be able to create similar product. It has taken me
-approx. 200 attempts and 400 hours to get this recipe right. This is also by
-far the most time intensive bread that I have baked in the past. The dough
-requires working, you need to carefully observe fermentation. 2 hour per loaf
-is a realistic time. It would be interesting to know if similar bread can be
-achieved by using more tools, or whether it remains artisan craftsmanship.
+chances are you will not be able to create a similar product. One slight
+error will make the whole house of cards collapse. Learn from your errors and
+try one more time. It has taken me approx. 200 attempts and 400 hours to get
+this recipe right. This is also by far the most time intensive bread that
+I have baked. The dough requires working, you need to carefully
+observe fermentation. 2 hours per loaf is a realistic time. It would be
+interesting to know if similar bread can be achieved by using more tools and
+automation, or whether it remains artisan craftsmanship.
 
-Furthermore different temperatures, different flours all result in you require
-handling the dough differently. Throughout this guide I will explain all
-the pitfalls I encountered with possible fixes. I have always used the same
-base recipe, trying to only change 1 parameter at the time. That way I could
-improve from bread to bread. I tried to be as scientific as possible, but
+Furthermore different temperatures, different flours all result in you
+requiring different dough handling than I do in this recipe. Which means that
+even if you follow my recipe a 100% chances are your setup is not able to
+produce the same results as my setup did. Please open up a Github issue
+listing some of your parameters and I am more than happy to help. Hopefully we
+can adjust this recipe then to help others from commiting the same mistakes.
+Throughout this guide I will try to explain all the pitfalls I encountered with
+possible fixes for them.  I have always used the same base recipe,
+trying to only change 1 parameter at the time. That way I could improve
+from bread to bread. I tried to be as scientific as possible, but
 sometimes I accidentally changed multiple parameters. Sometimes I would do one
 step a few minutes later simply because I had to finish drinking a beer, going
 to the toilet. It's very hard to repeat exactly the same process throughout
-every bake, but try your best!
+every bake, but try your best and you will be rewarded.
 
 Do not feel demotivated if you can not complete the recipe with similar results
-right away. Feel free to open up an issue here on the repository to receive
+right away. As said, feel free to open up an issue here on the repository to receive
 further advice on what you should look at.
 
 ## Required tools and ingredients
@@ -727,11 +748,105 @@ Lower temperatures are fine too.
 
 ## Add kitchen towels with boiling water
 
+I have learned about the kitchen towel method from another fellow baker. The
+idea is to soak them in water to provide a continous source of steam during
+the whole bake. This method has been what elevated my oven spring to a level
+where I am now fully satisfied with the results. The lava rocks are great for
+the initial steam, but soon after do not create enough steam for the whole
+process.
+
+1. Heat water in a water cooker until the water boils
+2. Place as many towels as you can in a container
+3. Pour the boiling water over the kitchen towels
+4. Place the container with the kitchen towels in the oven next to the lava
+   rocks
+
+Since the water lost a little bit of temperature when being poured over the
+kitchen towels we will continue to heat the box including the towels for
+another 15 minutes. Once done your lava rocks had a full 60 minutes of
+pre-heating and your kitchen towels around 15 minutes.
+
 ## Place loaf on peel
+
+We need to load our peel with the loaf. To do that we will be placing a little
+bit of parchment paper on the peel. You could also go with semolina flour
+only. However if the bread starts sticking just a little bit to the peel you
+are screwed. The damage to the structure of your loaf can not be fully
+repaired. The bread will taste delicious regardless, but will not offer the
+same beautiful visual features. That's why to be safe I always suggest the
+parchment paper method.
+
+So let's get started with loading the peel.
+
+1. Semolina flour the top of your loaf slightly
+2. Place the pizza peel with the parchment paper on top of your baneton
+3. Hold the baneton tight and flip the baneton with the pizza peel over
+
+This method has proven to be most effective. Some people like to directly flip
+over the baneton onto the peel. Using that method your dough will not land as
+gently on the pizza peel though. It will have a higher speed of impact when
+landing. Remember, we want to be as gentle as possible to avoid degasing and
+damaging the open crumb structure. Seeing other people employing this brute
+force method hurts a lot. The method with flipping the baneton and the peel
+is much more gentle and the best way to create the crumb we are looking for.
+
+The loaf should now now lay in front of you on the parchment papered pizza
+peel.
+
+`TODO - add a picture here`
 
 ## Brush off flour
 
+Due to the high hydration we had to utilise a lot of flour in the baneton.
+Without the flour the dough would have sticked. Biting into a piece of bread
+that still has flour on the crust is something I personally don't like. In
+fact many testers of my bread had complained about this initially. Luckily we
+can correct this and even kill two birds with one stone. Brushing off the
+flour has another advantage. By having a watery surface tiny blisters are
+created during the bake (TODO - it would be nice to explain this
+scientifically - why does it happen?). Those tiny blisters are considered as a
+defect by some bakers. In my opinion it makes the bread much more beautiful
+and also adds another layer of crunchiness. This only works if the surface of
+the loaf is not covered in excessive flour.
+
+1. Take the brush and gently brush off all the flour
+2. Try not to harm the surface of the dough
+3. Don't worry if there is now flour on the parchment paper, you can try to
+   brush it off, or alternatively let it stay during the bake. The flour will
+   ultimately burn slightly, some people don't like that. Then it is best to
+   remove it.
+
 ## Score loaf
+
+Scoring is the process where you cut your loaf with a knife before the bake.
+Historically shared ovens were used in villages. A certain scoring pattern
+would indicate that a particular loaf belongs to you.
+
+Today scoring is mostly done because of a side-effect that is very beneficial.
+It is is done to create a weakness in the surface of the bread. As the dough
+expands during the bake it will mostly expand through that weakness that you
+created. If you do not score your dough your bread will burst at other weak
+spots, usually those where you tucked your dough together during the shaping
+process. There are some breads like a rye bread, or a portuguese corn bread
+where that behavior is desired. Since we are baking a gluten gas monster we
+want to control that process as much as we can. So scoring is essential to
+allow the bread to properly expand during the bake. Without scoring you can
+not achieve the desired result. To me the perfect loaf has a large cut from
+the top to the bottom. Through that cut the bread expanded during the bake. If
+you look closely the cut looks like a tectonic plate on top of another plate.
+Bakers are calling this `the ear`. If you achieved this once, you never want
+to go back. The ear is slightly more burnt than other parts of your loaf,
+having a unique taste. It looks very appealing from a visual perspective, in
+my opinion the perfect loaf. This is the kind of bread you want to bring when
+you have been invited by friends.
+
+Unfortunately this is also a very difficult step in the whole process. I am
+still yet to find a way how to better practice this without using a loaf of
+bread. I would be very happy if someone has a suggestion here. The problem is
+that you have exactly 1 attempt per bread, if you screw that up, good bye oven
+spring. Since I don't bake large scale quantities of bread I don't have 400
+loafs per day on which I can practice. So even today I am always a little
+scared of screwing this step up, since it is so essential.
 
 ## Spray loaf with water
 
