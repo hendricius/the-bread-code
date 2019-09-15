@@ -32,6 +32,8 @@ to 40% starter overall, having 20% active starter and 20% old discard starter.
 * 10 grams of salt (2%)
 
 ## Instructions
+[For everybody that prefers a video - there is a small video showing the overall proces.](https://youtu.be/l9g4AI_z3uY)
+
 1. Mix all the ingredients together until you see that the flour has been nicely incorporated.
 
 2. Place it in a covered bowl.
@@ -46,8 +48,9 @@ longer shelf life.
 
 5. Take the dough and place it on the flour
 
-6. Try to form a little bit of a ball. Don't worry, it will not properly hold
-   together. That's because of the corn flour and rye.
+6. Try to form a little bit of a ball. Don't worry, it will not fully hold
+together. That's because of rye flour. Rye flour does not form a good gluten
+network.
 
 7. Place it in a rice-flowered banneton. Don't save on the flour. You do not
    want it to stick together.
@@ -61,10 +64,10 @@ oven as water source though.
 
 10. Flip the bread into pre-heated dutch oven, or on the stone.
 
-12. Not required, but helping oven spring - score the bread with a sharp knife.
+11. Not required, but helping oven spring - score the bread with a sharp knife.
 You can be creative about the scoring pattern. I like to do a swirl.
 
-13. Bake for 25 minutes with lid covered and 20 minutes without the lid.
+12. Bake for 25 minutes with lid covered and 20 minutes without the lid.
 I bake at 230°C. Your oven might work differently. Wait until the crust has a
 nice brown color.
 
