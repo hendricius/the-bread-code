@@ -5,11 +5,11 @@ This is more like a cake than a bread. It is a soft bread that is still moist in
 ## Ingredients
 
 - 2-3 soft bananas
-- 150g suggar
+- 150g sugar
 - 125g butter
 - 5ml vanilla extract
 - 2 beaten eggs
-- 1 table spoon yoghourt 
+- 1 table spoon yogurt 
 - 250 g wheat flour 
 - 1/2 teaspoons of salt
 - 1 teaspoons bicarbonate soda
@@ -24,7 +24,7 @@ This is more like a cake than a bread. It is a soft bread that is still moist in
 
 ## Instructions
 
-Squash the bananas, and mix it with the sugar, butter, vannilla extract, the eggs and the yoghourt until it is frothy. Mix the flour with the salt and the bicarbonate soda seperately and mix now everything together until it is a uniform mass.
+Squash the bananas, and mix it with the sugar, butter, vanilla extract, the eggs and the yogurt until it is frothy. Mix the flour with the salt and the bicarbonate soda separately and mix now everything together until it is a uniform mass.
 
 Fill the mass in a 20 cm tin loaf.
 
@@ -32,14 +32,14 @@ Bake it at 150 C with air circulation for one hour.
 
 ## Variations
 
-### Fluffy Variaton
+### Fluffy Variation
 
 Use 2 or 3 teaspoons of bicarbonate soda to get a fluffy texture.
 
 ### Lactose Free Variation
 
-Leave the yoghourt, and change butter with margerine or oil. The texture is almost the same.
+Leave the yogurt, and change butter with margarine or oil. The texture is almost the same.
 
 ### Vegan Variation
 
-Leave the yoghourt, the eggs, and change butter with margerine or oil. The texture isn't fluffy. Might help to add more bicarbonate soda, but didn't tried it yet.
+Leave the yogurt, the eggs, and change butter with margarine or oil. The texture isn't fluffy. Might help to add more bicarbonate soda, but didn't tried it yet.
