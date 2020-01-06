@@ -27,7 +27,7 @@ Please note that this is a quite difficult bread to bake. Reason being that
 rye behaves completely different than wheat. Rye has different proteins which
 do not stick together as much as in wheat. At the same type rye has special
 sugars known as "Pentosans". They stick to the gluten of the dough blocking
-the glutens from sticking together. Thus the dough becomes muck more sticky
+the glutens from sticking together. Thus the dough becomes much more sticky
 than regular wheat bread. Use more water on your hands when working the dough.
 At the same time flour the surface more then you would when baking wheat
 bread. Because of this the rye bread is usually never as fluffy on the inside
