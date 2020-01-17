@@ -34,6 +34,7 @@ Custom recipes:
 * [Cocoa bread](recipes/sweet/cocoa-bread.md)
 * [Full milk Chocolate bread](recipes/sweet/full-milk-chocolate-bread.md)
 * [Banana bread](recipes/sweet/banana-bread.md)
+* [Burger buns](recipes/savory/burger-buns.md)
 
 ## Recipes with sourdough
 
