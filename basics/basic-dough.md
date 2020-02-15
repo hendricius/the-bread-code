@@ -26,7 +26,7 @@ Custom recipes hook in here with additional steps that are required to be done b
 
 Mix together all the ingredients listed by the recipe, except the yeast. Some recipes require
 you to exclude ingredients initially. Instead they will be added later during
-the shaping phase. Proceed and all the ingredients in large bowl in front of you.
+the shaping phase. Proceed and add all the ingredients in a large bowl in front of you.
 Stir them with a spoon for 2 minutes.
 Let the dough rest for an hour after this step to have the flour absorb the water.
 Furthermore the atoms will homogenize and spread evenly throughout the dough.
