@@ -14,19 +14,19 @@ If you have no tools, don't worry, you can get started anyways.
 * [Baking tray](#baking-tray)
 
 #### Desired
-* [Dish cloth](#dish-cloth)
 * [Baking Sheets/Paper](#baking-sheetspaper)
+* [Kitchen Scale](#kitchen-scale)
+* [Dish cloth](#dish-cloth)
 * [Colander/Strainer](#colanderstrainer)
 * [Cutter Slashing Tool](#cutter-slashing-tool)
-* [Kitchen Scale](#kitchen-scale)
-* [Dough Scraper](#dough-scraper)
+* [Plain Plastic Scraper](#plain-plastic-scraper)
 
 #### Optional
 * [Banneton Proofing Basket](#banneton-proofing-basket)
 * [Pizza stone](#pizza-stone)
 * [Dutch oven](#dutch-oven)
 * [Shower Cap](#shower-cap)
-* [Plain Plastic Scraper](#plain-plastic-scraper)
+* [Dough Scraper](#dough-scraper)
 * [Stand Mixer](#stand-mixer)
 * [Cooling Rack](#cooling-rack)
 
@@ -34,6 +34,10 @@ If you have no tools, don't worry, you can get started anyways.
 
 ### Love
 Doing bread is a nobel activity, you need to put love in it. You take care of it and the result will change you perception of what bread is. This doesn't mean that you cannot do anything else at the same time. The bread preparation has to fit you life and not vice versa. Love is for sure something that you want to put in your bread.
+
+### Oven
+It is ideal have an oven able to reach 250°C / 482°F. The first 15mins to half an hour you will use the oven at that temperature if you use a dutch oven.
+Instead of an eletric oven you can also use a barbecue/kettle or a wood oven (pizza oven). The latter one will increase the flavour and the thickness of the crust. However, a normal kitchen oven is more practical and easy to control.
 
 ### Bowl
 You should have a nice bowl in which you can prepare your bread. This can be made out of glass, metal or plastic.
@@ -44,10 +48,6 @@ If you have a banneton you don't need the second bowl.
 
 ![A large bowl helps a lot](../images/tools-bowl.jpg)
 
-### Oven
-It is ideal have an oven able to reach 250°C / 482°F. The first 15mins to half an hour you will use the oven at that temperature if you use a dutch oven.
-Instead of an eletric oven you can also use a barbecue/kettle or a wood oven (pizza oven). The latter one will increase the flavour and the thickness of the crust. However, a normal kitchen oven is more practical and easy to control.
-
 ### Baking tray
 Most of the ovens come with a backing tray. It is a oven-proof tray/plate on which you can put the dough to bake it once it is ready.
 The baking tray can be use in case you have neither pizza stone nor dutch oven, it's advisable to cover it with baking paper so your dough will not stick to it.
@@ -56,11 +56,14 @@ The baking tray can be use in case you have neither pizza stone nor dutch oven, 
 
 ## Desired
 
-### Dish cloth
-You need at least one dish cloth either for cover the dough during the fermentation or to use in the proofing basket.
-
 ### Baking Sheets/Paper
 You definitely want to have baking paper to avoid the dough to stick on the surface you will bake on. Instead of baking paper, you can buy a silicone baking mat which can be reuse oven and over, but it cannot be used inside a dutch oven.
+
+### Kitchen Scale
+A kitchen scale is very useful even if it's no necessary, and if you are thinking to buy it, buy one very precise. Bread is an activity very close to chemistry, and most of the time you want to follow the quantities you find in the recepies.
+
+### Dish cloth
+You need at least one dish cloth either for cover the dough during the fermentation or to use in the proofing basket.
 
 ### Colander/Strainer
 In case you don't have a [Banneton Proofing Basket](#banneton-proofing-basket), you can use a strainer with a [Dish cloth](#dish-cloth) in it to make the dough does the last raising before to bake it.
@@ -70,13 +73,11 @@ After many cuts in the dough I guarantee that this tool is woth the cost of it. 
 
 ![Cutter Slashing](../images/tools-cutter-slashing.jpg)
 
-### Kitchen Scale
-A kitchen scale is very useful even if it's no necessary, and if you are thinking to buy it, buy one very precise. Bread is an activity very close to chemistry, and most of the time you want to follow the quantities you find in the recepies.
+### Plain Plastic Scraper
+They are similar to the [dough scraper](#dough-scraper) but they are made out of plastic. They are primarily used to remove the dough from the bowl where the dough is resting. I can say you can potentially use also to cut the dough a part and scrape the dough from the table.
+Sometimes this tool is also used to mix/knead the water and the flour initially.
 
-### Dough Scraper
-You can use dough scraper to release the dough from the table every once in awhile completely cutting out the need to add extra flour. It is also used to cut and divide the dough in pieces.
-
-![Dough Scraper](../images/tools-dough-scraper.jpg)
+![Plain Plastic Scraper](../images/tools-plain-plastic-scraper.jpg)
 
 ## Optional
 
@@ -108,11 +109,10 @@ When using the dutch oven you can avoid the use of the baking paper if you are a
 ### Shower Cap
 I offen use a disposable shower cap (the ones you take in the hotels) to cover either the [bowl](#bowl) or the [banneton](#banneton-proofing-basket) and avoid the dough to get dry.
 
-### Plain Plastic Scraper
-They are similar to the [dough scraper](#dough-scraper) but they are made out of plastic. They are primarily used to remove the dough from the bowl where the dough is resting. I can say you can potentially use also to cut the dough a part and scrape the dough from the table.
-Sometimes this tool is also used to mix/knead the water and the flour initially.
+### Dough Scraper
+You can use dough scraper to release the dough from the table every once in awhile completely cutting out the need to add extra flour. It is also used to cut and divide the dough in pieces.
 
-![Plain Plastic Scraper](../images/tools-plain-plastic-scraper.jpg)
+![Dough Scraper](../images/tools-dough-scraper.jpg)
 
 ### Stand Mixer
 We can talk about Stand Mixer for a life time. Let's keep it simple though. A Stand Mixer helps you to knead the dough, it makes very easy to structure glutinic mesh in the dough. The Stand Mixer also reduces the time and the effort you spend to get to a smooth dough.
