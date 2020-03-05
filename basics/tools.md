@@ -92,13 +92,14 @@ Additionally a banneton powered bread I believe looks visually a little more app
 ### Pizza stone
 A pizza stone is a nice to have, it distributes heat evenly. The moment your bread dough gets into contact with the stone a lot of heat energy is released directly to the dough and it boosts the rising in the fist phase of the baking.
 You may want to use either a tray or a pot with water in it to create additional steam inside of your oven. The steam supports the bread while rising as the crust does not get crispy that fast.
+The crust will eventually get crispy but during the first phase of the baking is good to have a nice and soft crust to allow the bread to rise as much as possible and it is better to remove the water after 50/60% of the baking time if you like a crispy crust.
 
 ![Pizza stone](../images/pizza-stone.jpg)
 
 ### Dutch oven
 Although the dutch oven is optional I highly recommend it.
 You can also re-create your own dutch oven using a pizza stone and a bread cloche.
-The reason is that the water that exits your dough will stay trapped in the dutch oven, to be some kind of dough sauna. The dough remains wet and can rise more in the oven.
+The reason is that the water that exits your dough will stay trapped in the dutch oven, to be some kind of dough sauna. The dough remains wet and can rise more in the oven. The dutch oven has to be uncover after 50/60% of the baking time.
 The crust does not get crispy instantly, supporting the rise of the dough. The result is a fluffier bread with more air bubbles.
 Furthermore the dutch oven is a good source of even heat, making sure that the bread cooks evenly from all sides.
 
