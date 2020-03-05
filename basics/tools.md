@@ -99,7 +99,7 @@ The crust will eventually get crispy but during the first phase of the baking is
 ### Dutch oven
 Although the dutch oven is optional I highly recommend it.
 You can also re-create your own dutch oven using a pizza stone and a bread cloche.
-The reason is that the water that exits your dough will stay trapped in the dutch oven, to be some kind of dough sauna. The dough remains wet and can rise more in the oven. The dutch oven has to be uncover after 50/60% of the baking time.
+The reason is that the water that exits your dough will stay trapped in the dutch oven, to be some kind of dough sauna. The dough remains wet and can rise more in the oven. Remember to remove the dutch oven's lid after 50/60% of the baking time.
 The crust does not get crispy instantly, supporting the rise of the dough. The result is a fluffier bread with more air bubbles.
 Furthermore the dutch oven is a good source of even heat, making sure that the bread cooks evenly from all sides.
 
