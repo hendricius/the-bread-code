@@ -16,7 +16,7 @@ If you have no tools, don't worry, you can get started anyways.
 #### Desired
 * [Baking Sheets/Paper](#baking-sheetspaper)
 * [Kitchen Scale](#kitchen-scale)
-* [Dish cloth](#dish-cloth)
+* [Tea towel](#tea-towel)
 * [Colander/Strainer](#colanderstrainer)
 * [Cutter Slashing Tool](#cutter-slashing-tool)
 * [Plain Plastic Scraper](#plain-plastic-scraper)
@@ -33,7 +33,7 @@ If you have no tools, don't worry, you can get started anyways.
 ## Required
 
 ### Love
-Doing bread is a nobel activity, you need to put love in it. You take care of it and the result will change you perception of what bread is. This doesn't mean that you cannot do anything else at the same time. The bread preparation has to fit you life and not vice versa. Love is for sure something that you want to put in your bread.
+Doing bread is a noble activity, you need to put love in it. You take care of it and the result will change you perception of what bread is. This doesn't mean that you cannot do anything else at the same time. The bread preparation has to fit you life and not vice versa. Love is for sure something that you want to put in your bread.
 
 ### Oven
 It is ideal have an oven able to reach 250°C / 482°F. The first 15mins to half an hour you will use the oven at that temperature if you use a dutch oven.
@@ -60,13 +60,13 @@ The baking tray can be use in case you have neither pizza stone nor dutch oven, 
 You definitely want to have baking paper to avoid the dough to stick on the surface you will bake on. Instead of baking paper, you can buy a silicone baking mat which can be reuse oven and over, but it cannot be used inside a dutch oven.
 
 ### Kitchen Scale
-A kitchen scale is very useful even if it's no necessary, and if you are thinking to buy it, buy one very precise. Bread is an activity very close to chemistry, and most of the time you want to follow the quantities you find in the recepies.
+A kitchen scale is very useful even if it is not necessary, and if you are thinking to buy it, buy one very precise. Bread is an activity very close to chemistry, and most of the time you want to follow the quantities you find in the recepies.
 
-### Dish cloth
-You need at least one dish cloth either for cover the dough during the fermentation or to use in the proofing basket.
+### Tea towel
+You need at least one 100% cotton tea towel either for cover the dough during the fermentation or to use in the proofing basket.
 
 ### Colander/Strainer
-In case you don't have a [Banneton Proofing Basket](#banneton-proofing-basket), you can use a strainer with a [Dish cloth](#dish-cloth) in it to make the dough does the last raising before to bake it.
+In case you don't have a [Banneton Proofing Basket](#banneton-proofing-basket), you can use a strainer with a [Tea towel](#tea-towel) in it to make the dough does the last raising before to bake it.
 
 ### Cutter Slashing Tool
 After many cuts in the dough I guarantee that this tool is woth the cost of it. You cut the formed dough before bake it allow the bread to grow properly during the baking. Alternativelly you can buy spare razor blades only.
@@ -83,7 +83,7 @@ Sometimes this tool is also used to mix/knead the water and the flour initially.
 
 ### Banneton Proofing Basket
 A banneton is used to let your dough rise one last time before baking it.
-Instead of using either a [bowl](#bowl) or a [strainer](#colanderstrainer) with a [dish cloth](#dish-cloth), I prefer the banneton which will help mantaining a proper shape of the bread.
+Instead of using either a [bowl](#bowl) or a [strainer](#colanderstrainer) with a [tea towel](#tea-towel), I prefer the banneton which will help mantaining a proper shape of the bread.
 On top of it, it feels more natural to just let the dough rise in a wooden banneton.
 Additionally a banneton powered bread I believe looks visually a little more appealing, you will get nice circles of flour on the top of your bread.
 
