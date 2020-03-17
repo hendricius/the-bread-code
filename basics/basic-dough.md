@@ -1,4 +1,4 @@
-# The Basic Dough
+# The Basic Bread
 
 Use this basic dough recipe as starter for all your upcoming breads.
 You can optionally add custom ingredients direclty into the dough, or
@@ -9,6 +9,9 @@ The basic formula always remains the same for all the breads in this repository.
 The recipe is aimed for people wanting to make the dough over night.
 The recipe calls for several folds of the dough during the whole process,
 but you can also skip them. The folds help but are not required.
+
+![Final result of the basic bread](../images/basic-bread-crumbshot.jpeg)
+
 
 ## Ingredients
 
@@ -23,13 +26,16 @@ explaining the gluten content in different flours.
 
 ## TLDR
 
-1. Mix all together
-2. Wait until dough doubled in size
+1. Mix all ingredients together until you have a smooth silky dough
+2. Wait until dough doubled in size (also known as bulk fermentation). This takes
+  on average ~8 hours
 3. Shape a dough ball
-4. Place in baneton or on parchment paper
-5. Wait until almost doubled in size
-6. Bake half the time with water (20 minutes) in the oven, half the time without (20 minutes)
-7. Baking is finished when bread has desired dark color
+4. Place in baneton or in a floured bowl
+5. Wait until almost doubled in size (also known as proofing). This takes on
+average 2 hours at room temperature or 24 hours in the fridge
+6. Bake 20 minutes in preheated oven at 230°C with a bowl of water
+7. Remove bowl of water after 20 minutes, bake another 20 minutes
+8. Baking is finished when bread has desired brown color
 
 ## Instructions
 
@@ -37,7 +43,7 @@ explaining the gluten content in different flours.
 
 Mix together all the ingredients listed by the recipe, except the yeast.
 Mix everything with your hand until the ingredients have created a homongenous dough.
-Make sure no flour ist left on the edge of your container.
+Make sure no flour ist left on the edges of your container.
 
 Let the dough rest for an hour. This helps to create a gluten network that will
 hold your dough together as well as allow your dough to become inflated
@@ -46,11 +52,13 @@ by the gas the yeast produces.
 If you skip this step, you will have a much more challenging time when kneading it.
 Just letting the dough rest an hour like this will do wonders.
 
-### Add the yeast/sourdough
+### Add the yeast
 
-Add the yeast or sourdough to your dough.
-Mix everything until incorporated nicely.
+Add the yeast to your dough. If we were baking a sourdough loaf, this is also the moment
+where we would be adding the sourdough starter. Good news - mastering this recipe
+makes it very easy to join the sourdough game.
 
+Mix everything until the yeast is incorporated nicely and you have a smooth silky mass.
 
 ### Forming the gluten
 
@@ -77,6 +85,10 @@ I usually go to bed and resume the next morning.
 
 ### Stretch and Folds
 
+This is typically how a bread looks like after the first fermentation phase (bulk fermentation). Compare this with your own results.
+
+![Bulk fermentation picture](../images/basic-bread-bulk-fermentation.jpeg)
+
 Perform a stretch and fold before removing the the dough from your container.
 
 If you bake during the day, you can perform one stretch and fold every hour.
@@ -85,6 +97,7 @@ This will give you a better gluten network, but don't worry it is not required.
 [A good video on how to properly fold is this one.](https://www.instagram.com/p/Bju7aazn27T/?hl=en)
 The technique is called `coil folding`. Make sure you wet your hands with a
 little bit of water before performing them. This makes the dough non stick to your hands.
+
 
 ### Shaping the dough
 
@@ -118,7 +131,7 @@ You want the bottom part of the dough that you have created to face upwards. The
 currently lower side has a lot of tension after following this process.
 Flip the dough so the lower part is not facing you directly.
 
-![Previously bottom part now faces you](../images/previously-bottom.jpg)
+![Previously bottom part now faces you](../images/basic-bread-shaped-bread.jpeg)
 
 Gently stretch the edges of the dough downwards a little. I use my hands to do that, like in the figure above.
 The goal here is to create more tension on the surface.
@@ -180,4 +193,15 @@ the water evaporated. We use this time to really get it crispy.
 After another 20 minutes in the oven your bread should have a good golden crust.
 If you like the bread to be crustier, bake it longer. This depends a lot on personal preference.
 
+This is how one of my first ever breads looked like. Yours is probably going to look way better.
+
 ![Final bread with no extras added](../images/final-basic-bread.jpg)
+
+And here a bread 3 years later:
+
+![Final bread with no extras added](../images/basic-bread-crumbshot.jpeg)
+
+Wait 30 minutes until your bread cooled down. It is hard, but - you will not
+tear the crumb apart. Enjoy with fresh salted butter or a little bit of olive oil. Congratulations, you mastered your first loaf!
+
+If you feel something can be improved in this recipe - please open up a pull request.
