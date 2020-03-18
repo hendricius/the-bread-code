@@ -1,122 +1,127 @@
-# The Basic Dough
+# The Basic Bread
 
 Use this basic dough recipe as starter for all your upcoming breads.
-Custom ingredients are added before the final shaping.
-The basic formula always remains the same.
+You can optionally add custom ingredients direclty into the dough, or
+during the final shaping.
 
-Always prepare the dough 24 hours before baking.
-If you run out of time, you can also do this faster but then you will have to knead more initially.
-In this case a KitchenAid or similar tool can be helpful, as it will speed up the process.
+The basic formula always remains the same for all the breads in this repository.
+
+The recipe is aimed for people wanting to make the dough over night.
+The recipe calls for several folds of the dough during the whole process,
+but you can also skip them. The folds help but are not required.
+
+![Final result of the basic bread](../images/basic-bread-crumbshot.jpeg)
+
 
 ## Ingredients
 
-- 500 grams of all-purpose flour (high protein). In Germany type 550.
-- 375 grams of water or 75%. Experiment with more hydration as well.
+- 500 grams of bread, or all-purpose flour, the higher the protein the better
+- 375 grams of water or 65%
 - 10 grams of salt or 2%
-- 5 grams of dry yeast or 1%
+- 1 gram of dry yeast or 0.5% or 3 grams of fresh yeast (1.5%)
+
+Sidenote - if you are interested in learning about why we use bread or all purpose flour,
+[have a look at this video](https://www.instagram.com/p/Bju7aazn27T/?hl=en),
+explaining the gluten content in different flours.
+
+## TLDR
+
+1. Mix all ingredients together until you have a smooth silky dough
+2. Wait until dough doubled in size (also known as bulk fermentation). This takes
+  on average ~8 hours
+3. Shape a dough ball
+4. Place in baneton or in a floured bowl
+5. Wait until almost doubled in size (also known as proofing). This takes on
+average 2 hours at room temperature or 24 hours in the fridge
+6. Bake 20 minutes in preheated oven at 230°C with a bowl of water
+7. Remove bowl of water after 20 minutes, bake another 20 minutes
+8. Baking is finished when bread has desired brown color
 
 ## Instructions
 
-### Preparation steps
-
-The default recipe does not require any preliminary steps.
-Custom recipes hook in here with additional steps that are required to be done before starting the bake.
-
 ### Autolyse
 
-Mix together all the ingredients listed by the recipe, except the yeast. Some recipes require
-you to exclude ingredients initially. Instead they will be added later during
-the shaping phase. Proceed and all the ingredients in large bowl in front of you.
-Stir them with a spoon for 2 minutes.
-Let the dough rest for an hour after this step to have the flour absorb the water.
-Furthermore the atoms will homogenize and spread evenly throughout the dough.
+Mix together all the ingredients listed by the recipe, except the yeast.
+Mix everything with your hand until the ingredients have created a homongenous dough.
+Make sure no flour ist left on the edges of your container.
+
+Let the dough rest for an hour. This helps to create a gluten network that will
+hold your dough together as well as allow your dough to become inflated
+by the gas the yeast produces.
+
+If you skip this step, you will have a much more challenging time when kneading it.
+Just letting the dough rest an hour like this will do wonders.
 
 ### Add the yeast
 
-Place the yeast evenly on top of your dough. Many sources claim this should be done after the autolysing.
-However, when baking myself I sometimes add yeast right away and could not notice a significant difference.
-It would be interesting to conduct more research on this topic.
+Add the yeast to your dough. If we were baking a sourdough loaf, this is also the moment
+where we would be adding the sourdough starter. Good news - mastering this recipe
+makes it very easy to join the sourdough game.
 
-You may see in other recipes that it is common to proof the yeast in warm water, followed by the addition of sugar to feed the yeast. This is only done to make the dough rise faster. Since we are waiting overnight for our dough to rise, the sugars and room temperature water are more than enough, no need to add sugar.
+Mix everything until the yeast is incorporated nicely and you have a smooth silky mass.
 
-### Form the gluten
+### Forming the gluten
 
 We need a very strong layer of gluten to trap air in the dough.
-At the same time this will make the bread more crispy.
-Bread with nicely formed gluten will not fall apart when cutting.
+The yeast will overtime inflate the balloon with gas.
+The more gas we have inside of the dough, the more open and fluffier
+the crumb will be. At the same time the bread will also expand
+more in the oven, looking visually more appealing.
 
-Knead the dough for around 5 minutes. This will also evenly distribute the yeast that we previously added.
-There is no special technique to kneading, just imagine you want to punch the dough.
-If the dough sticks too much to your hands, wet them in water.
+So go ahead and knead the dough for around 5 minutes.
+This will also evenly distribute the yeast that we previously added.
+There is no special technique to kneading, pull the dough and flap it
+over itself. Or you can use the punch technique.
+
+If the dough sticks too much to your hands, that is normal in the early stages.
+At some point the dough will stick way less, because the gluten holds together better.
 
 Test whether your gluten is nicely formed by lifting the dough in the air with one hand.
 The dough should slowly flow back to the bowl if it's good to go.
 
-If it starts sticking together, you have your gluten.
-Experiment on this step further in the future to form even stronger gluten connections.
+Cover the dough with some foil or linen so it does not dry out.
 
-Cover the dough with some foil or linen for 8 hours.
 I usually go to bed and resume the next morning.
 
-### Stretch and Fold Part 1
+### Stretch and Folds
 
-After 8 hours we will start stretching and folding the dough.
-Don't worry if the dough collapses after the 8 hours.
-The yeast will start its work again after this step.
+This is typically how a bread looks like after the first fermentation phase (bulk fermentation). Compare this with your own results.
 
-![Stretch and fold the dough](https://camo.githubusercontent.com/fddfa8c69a5941a259df32f63626a825d4df922e/68747470733a2f2f692e696d6775722e636f6d2f795847327671472e6a7067)
+![Bulk fermentation picture](../images/basic-bread-bulk-fermentation.jpeg)
 
-The idea is to increase the strength of the gluten network even further.
-Don't knead the dough too hard at this point. Be soft and gentle.
+Perform a stretch and fold before removing the the dough from your container.
 
-To stretch and fold, wet your hands and start pulling the dough upwards at one area of the bowl.
-I start at the bottom and stretch it all the way to the top.
-Assuming your bowl is northwards in front of you, you are standing south of the bowl.
-Take the northern part of the dough and fold it on the south part of the dough.
-Rotate the bowl by 90° and do the same. Do this in circles.
-I tested different angles of rotation but made the best experience with 4 x 360° degree rotations.
-As mentioned before, be soft and gentle at this point.
+If you bake during the day, you can perform one stretch and fold every hour.
+This will give you a better gluten network, but don't worry it is not required.
 
-### Stretch and Fold Part 2
+[A good video on how to properly fold is this one.](https://www.instagram.com/p/Bju7aazn27T/?hl=en)
+The technique is called `coil folding`. Make sure you wet your hands with a
+little bit of water before performing them. This makes the dough non stick to your hands.
 
-After another 10 hours (say, after work) do the same steps again you did in Stretch and Fold Part 1.
-We will want to stretch and fold the dough one more time.
-If you are at home, you can also stretch and fold the dough more often (though not more often than 1 hour apart).
 
 ### Shaping the dough
 
-Directly after the last stretch and fold remove the dough from the tray and place it on a lightly floured surface.
-Don't be scared of adding a little more flour at the start.
-This way your dough won't stick that much.
-In the long term, reduce the flour you use at this step. The more hydrated your dough is, the fluffier it will become when baked.
+This is where all comes together. It takes a little bit to master shaping,
+so don't worry if your bread does not look store-bought yet. It will come over time.
+Regardless, the taste will be amazing.
+
+Directly after the last stretch and fold remove the dough from the tray and
+place it on a lightly floured surface. Don't be scared of adding a little more
+flour at the start.  This way your dough won't stick that much.
+In the long term, reduce the flour you use at this step. Less flour is better
+because the dough sticks better to itself when it is wetter.
+This means that it will glue together better and thus hold its shape better.
 
 Stretch the dough apart a little to form a kind of pizza. It should be in a
 round shape in front of you, not too flat. Only do this very softly. The
 harder you press the dough the more gas will evaporate and the less fluffy
 your ultimate bread will be.
 
-### Recipe customization
-
-This is where most of the other recipes hook in.
-Once the dough is in front of you, you can start adding ingredients such as cheese, spinach, walnuts or whatever you want.
-For starting, I suggest to not go with too many extras.
-
-![Sample bread with goat cheese. This is the time to add it](../images/goat-cheese.jpg)
-
-`{{ CUSTOMIZE_YOUR_RECIPE_HERE }}`
-
-### Finalizing the shaping
-
-In front of you you have the round dough. If you customized your recipe you might
-now have added seeds, walnuts or anything else on top of the dough.
-
 We need to create as much tension on the lower part of the dough facing the
 bottom currently as possible. The lower part will be on top in the oven later
 on. The more tension we have the better the dough raises in the oven upwards.
-If you do not have enough tension, it will turn out like a pan cake. Do not
-worry if this happens, it will still taste amazing.
 
-So move the outer parts of the pizza inwards, to the center.
+So move the outer parts of the dough inwards, to the center.
 Piece by piece your dough will become rounder.
 
 [See this video explaining how to do it.](https://www.youtube.com/watch?v=5--bR1mPiZE)
@@ -126,7 +131,7 @@ You want the bottom part of the dough that you have created to face upwards. The
 currently lower side has a lot of tension after following this process.
 Flip the dough so the lower part is not facing you directly.
 
-![Previously bottom part now faces you](../images/previously-bottom.jpg)
+![Previously bottom part now faces you](../images/basic-bread-shaped-bread.jpeg)
 
 Gently stretch the edges of the dough downwards a little. I use my hands to do that, like in the figure above.
 The goal here is to create more tension on the surface.
@@ -138,40 +143,65 @@ If your bread ends up too flat, this is very likely the step that you need to im
 If you have a [banneton](tools.md#banneton-optional) use a banneton; if not, use a clean bowl.
 Place the shaped dough upside down in the container.
 The round surface that you created should be now at the bottom of your banneton or bowl.
-When baking the dough we will flip the bowl and the round surface will again be on top in the oven. Cover the bowl with linen or some foil.
+When baking the dough we will flip the bowl and the round surface will again be
+on top in the oven. Cover the bowl with linen or some foil.
 
-Let the dough rest for an hour, or overnight in the fridge.
+This stage is now called proofing. The dough has to increase in size again
+(30-70%). A good and easy way to have a consistent environment is to proof
+the dough in the fridge for 24 hours in the fridge. If you proof at room
+temperature make sure your dough passes the
+[finger dent test.](https://www.youtube.com/watch?v=6oAfl1u0fIw)
+
+If you have time, definitely go for the fridge. The dough will increase in size
+just like it does at room temperature. It will take more time, yes. But at the same
+time your dough is cold. The gas inside is cold as well. When heated up in the oven
+your dough will expand much more in size. It's a great hack.
 
 ### Preheat the oven to maximum temperature
 
-After 30 minutes of shaping the dough, preheat the oven to its maximum temperature, or about 270 degrees Celsius (520 Fahrenheit).
-It will also takes another 30 minutes for the oven to reach max temperature.
+Preheat the oven to maximum temperature. Place your baking tray in the oven.
+We want it to be as hot as possible. Without that your bottom of the bread will not be crispy.
 
-Place a baking tray in the oven, and on the bottom, another tray filled with water.
-This water will evaporate during baking, creating steam that supports the dough and allows it to rise it more in the oven.
+Place another bowl with water at the bottom of the oven. This water will
+evaporate during baking, creating steam that wettens the dough and helps it rise.
+Without water, your dough becomes crispy right away.
+It will not be able to expand properly.
 
 ### Finally bake the bread
 
-After about 30 minutes of the oven pre-heating, remove the top tray and place your bread directly on it.
-Be careful, as the tray will be as hot as your oven.
-If you have a dutch oven, place the bread in it.
+After about 30 minutes of the oven pre-heating, remove the top tray and
+place your bread directly on it.  Be careful, as the tray will be as
+hot as your oven.  If you have a dutch oven, place the bread in it.
 
-Score the bread with 2 cm deep cuts at an angle.
-Consider these like tectonic plates, creating weaknesses in the surface to allow the bread to raise at the point of weakness.
-If the scores are vertical, the bread will block it.
-In comparison, if cut at an angle you can create the famed Bread Himalayas 😻.
+Take a knife and place a 1cm deep cut in the center of your loaf. Try doing
+the cut at a 45° angle. Later on you can upgrade your scoring game and
+attempt different techniques. They all change how the bread will rise
+and how your final bread looks like.
 
-![Bread cut at an angle (left) vs bread cut vertically](../images/angle-cut.jpg)
-
-Put the bread into the oven. Reduce the temperature to 230 degrees Celsius (450 Fahrenheit). Wait for 25 minutes.
+Put the bread into the oven. Reduce the temperature to 230 degrees
+Celsius (450 Fahrenheit). Wait for 25 minutes.
 
 ### Remove (the tray with water or lid)
 
 ![The bread should have grown nicely by now](../images/grow.jpg)
 
-After 25 minutes remove the tray of water or the lid of the dutch oven, to allow the crust of the bread to become super crisp.
-The bread no longer rises at this point. The yeast has been killed, the water evaporated. We use this time to really get it crispy.
+After 25 minutes remove the tray of water or the lid of the dutch oven,
+to allow the crust of the bread to become super crisp.
+The bread no longer rises at this point. The yeast has been killed,
+the water evaporated. We use this time to really get it crispy.
 
-After another 20 minutes in the oven your bread is ready to be enjoyed.
+After another 20 minutes in the oven your bread should have a good golden crust.
+If you like the bread to be crustier, bake it longer. This depends a lot on personal preference.
+
+This is how one of my first ever breads looked like. Yours is probably going to look way better.
 
 ![Final bread with no extras added](../images/final-basic-bread.jpg)
+
+And here a bread 3 years later:
+
+![Final bread with no extras added](../images/basic-bread-crumbshot.jpeg)
+
+Wait 30 minutes until your bread cooled down. It is hard, but - you will not
+tear the crumb apart. Enjoy with fresh salted butter or a little bit of olive oil. Congratulations, you mastered your first loaf!
+
+If you feel something can be improved in this recipe - please open up a pull request.
