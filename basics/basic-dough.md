@@ -16,7 +16,7 @@ but you can also skip them. The folds help but are not required.
 ## Ingredients
 
 - 500 grams of bread, or all-purpose flour, the higher the protein the better
-- 375 grams of water or 65%
+- 325 grams of water or 65%
 - 10 grams of salt or 2%
 - 1 gram of dry yeast or 0.5% or 3 grams of fresh yeast (1.5%)
 
