@@ -18,6 +18,7 @@ This recipe will make you around 8 burger buns. The inside is super fluffy as we
 **For the topping:**
 
 * 50 grams of butter
+* **OR**: Egg wash. Mix 1 egg with equal weight of water. If the egg is 100 gram, mix it with 100 gram of water.
 * Sesame seeds, around 50 grams.
 
 **Other requirements**
