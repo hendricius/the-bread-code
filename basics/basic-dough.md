@@ -94,7 +94,7 @@ Perform a stretch and fold before removing the the dough from your container.
 If you bake during the day, you can perform one stretch and fold every hour.
 This will give you a better gluten network, but don't worry it is not required.
 
-[A good video on how to properly fold is this one.](https://www.instagram.com/p/Bju7aazn27T/?hl=en)
+[A good video on how to properly fold is this one.](https://www.youtube.com/watch?v=6JQm2n4aVZc)
 The technique is called `coil folding`. Make sure you wet your hands with a
 little bit of water before performing them. This makes the dough non stick to your hands.
 
