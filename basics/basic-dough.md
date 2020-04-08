@@ -21,7 +21,7 @@ but you can also skip them. The folds help but are not required.
 - 1 gram of dry yeast or 0.5% or 3 grams of fresh yeast (1.5%)
 
 Sidenote - if you are interested in learning about why we use bread or all purpose flour,
-[have a look at this video](https://www.instagram.com/p/Bju7aazn27T/?hl=en),
+[have a look at this video](https://www.youtube.com/watch?v=zDEcvSc2UKA),
 explaining the gluten content in different flours.
 
 ## TLDR
