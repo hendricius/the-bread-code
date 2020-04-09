@@ -64,3 +64,22 @@ The moment your bread dough gets into contact with the stone a lot of heat energ
 This creates a yummy beautiful crust.
 
 ![Pizza stone](../images/pizza-stone.jpg)
+
+## Rubber spatula (optional)
+
+A rubber spatula can be used to cleanly scrape the dough off a bowl or other container.
+Due to the smooth surface of the silicon the dough doesn't stick as much as to your hands. It also can be used to transfer the dough to another container.
+
+![Rubber spatula](../images/rubber-spatula.jpg)
+
+## Bench scraper (optional)
+
+The bench scraper is a thin metal sheet with a handle. It can be used for splitting the dough, scraping it off of flat surfaces or lifting the dough. Wetting the bench scraper or using it with a little flour makes it even more non-stick.  
+
+![Bench scraper](../images/bench-scraper.jpg)
+
+## Pizza shovel (optional)
+
+The pizzal shovel is a (usually rounded) bigger metal sheet. It has various sizes and can be used to transfer the dough from flat surfaces into the oven or into a dutch oven. The pizza shovel or pizza peel is similar to the bench scraper but much bigger. Sprinkle it with flour so the dough slides off more easily.
+
+![Pizza shovel](../images/pizza-stone.jpg)
