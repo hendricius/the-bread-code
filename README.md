@@ -120,4 +120,6 @@ around the world to try and become better bakers.
 
 ## Links
 
-Follow us on Instagram: [https://instagram.com/the_bread_code](https://instagram.com/the_bread_code)
+* [YouTube Account](https://www.youtube.com/c/TheBreadCode)
+* [Reddit](https://www.reddit.com/user/the_bread_code)
+* [Instagram](https://instagram.com/the_bread_code)
