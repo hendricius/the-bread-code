@@ -14,6 +14,7 @@ This recipe will make you around 8 burger buns. The inside is super fluffy as we
 * 2% salt
 * 1% dry yeast or 3% fresh yeast
 * 1 large egg per 400 grams of flour
+* Optional - if you use Sourdough/Poolish, 80 grams of pre-ferment.
 
 **For the topping:**
 
