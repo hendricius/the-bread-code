@@ -51,6 +51,16 @@ wheat flour. Do not worry about this. If you would like to have an even
 rye-isher taste, you can decrease the strong wheat flour and increase the rye
 percentage.
 
+When kneading the rye dough you will notice it behaves a bit different than doughs 
+with higher wheat content - more like a thick, heavy paste. The dough will break apart 
+immediately after just a bit of kneading. This is totally fine and nothing to worry 
+about. In fact you do not even need to knead it much. In order to stop the dough
+from sticking too much you can coat your hands in any vegetable oil 
+(sunflower, rape-seed, olive, ...). You can also use some vegetable oil for the 
+bowl, so it slides out more easily.
+
+This type of bright also doesn't necessarily need an overnight fridge proof. If you start in the morning you might also make it in the afternoon. Although it will definitely benefit from a longer proof.
+
 This is how my first ever baked 80% rye bread looked like:
 ![80% rye bread crumb](../../images/first-sourdough.jpg)
 

@@ -1,26 +1,28 @@
 # Burger buns
 
-This recipe will make you around 8 burger buns. The inside is super fluffy as we are adding a little bit of sugar and butter. They are sprinkled with some Sesame for an extra-burger like look.
+This recipe will make you around 9 burger buns. The inside is super fluffy as we are adding a little bit of sugar and butter. They are sprinkled with some Sesame for an extra-burger like look.
 
 ![The final buns](../../images/burger-buns-6.jpg)
 
 
 ## Ingredients
 
-* 400 grams of flour
-* 45% hydration, use warm water
+* 600 grams of flour
+* 45% hydration - milk
+* 10% sourdough
 * 10% butter
 * 10% sugar
 * 2% salt
-* 1% dry yeast or 3% fresh yeast
-* 1 large egg per 400 grams of flour
-* Optional - if you use Sourdough/Poolish, 80 grams of pre-ferment.
+* 2% dry yeast or 6% fresh yeast
+* 1 large egg per 600 grams of flour
+* 1 egg yolk per 600 grams of flour
+* Optional - if you use Sourdough/Poolish, 60 grams of pre-ferment (10%)
+
 
 **For the topping:**
 
-* 50 grams of butter
-* **OR**: Egg wash. Mix 1 egg with equal weight of water. If the egg is 100 gram, mix it with 100 gram of water.
-* Sesame seeds, around 50 grams.
+* Egg wash. Mix 1 egg with equal weight of water. If the egg is 100 gram, mix it with 100 gram of water.
+* Sesame seeds, around 50 grams (optional)
 
 **Other requirements**
 
@@ -38,7 +40,7 @@ This recipe will make you around 8 burger buns. The inside is super fluffy as we
 
 ![The dough after bulk fermenting](../../images/burger-buns-1.jpg)
 
-1. Now we are going to start with shaping our buns. We need to split the dough into smaller pieces. You can take a scale, but I like to just cut the dough evenly with either a knife, or a dough scraper. I did not have too much time to do proper stretch and folds, regardless they turned out great. You can see that my dough overall looks rather unsymmetrical after bulk fermentation. Ideally you already have a smooth ball
+1. Now we are going to start with shaping our buns. We need to split the dough into smaller pieces. You can take a scale, but I like to just cut the dough evenly with either a knife, or a dough scraper. I did not have too much time to do proper stretch and folds, regardless they turned out great. You can see that my dough overall looks rather unsymmetrical after bulk fermentation. Ideally you already have a smooth ball. Each dough ball ways around 130 grams.
 2. Take out the dough from your bulk fermentation container and place it on a non floured surface
 3. Take a knife our dough scraper and divide the dough into equal size pieces
 4. Tuck each of the dough balls over the surface. You need tension at the bottom, that's why we did not flour the surface. This process is called pre-shaping. It takes a while to master it. See this video on how to do this: https://youtu.be/vEG1BjWroT0?t=279. If you are a bread baker you probably have done this before. It is a useful thing to learn, you need to do this for baking pizza as well. We are doing this because we want an already round dough to start our final shaping.
