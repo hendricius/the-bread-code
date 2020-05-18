@@ -16,6 +16,8 @@ This recipe will make you around 9 burger buns. The inside is super fluffy as we
 * 2% dry yeast or 6% fresh yeast
 * 1 large egg per 600 grams of flour
 * 1 egg yolk per 600 grams of flour
+* Optional - if you use Sourdough/Poolish, 60 grams of pre-ferment (10%)
+
 
 **For the topping:**
 
