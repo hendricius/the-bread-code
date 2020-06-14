@@ -15,28 +15,17 @@ recipes are welcome too! Happy baking.
 
 ![A nice and yummy sourdough bread](./images/golden-standard-german-bread-int.jpg)
 
-## Recipes with yeast
+## Yeast based bread
 
-The basic recipe is the source recipe from which the customized recipes inherit.
-I suggest starting baking the standard bread until you master it, and only then move on to further customizations.
+Yeast is the easiest way to get started baking bread. You can use either dry yeast or fresh yeast.
+Yeast ferments your dough by converting parts of the dough into gas. This gas inflates your dough.
 
-* [Basic bread](basics/basic-dough.md)
-
-Custom recipes:
-
-* [Standard bread](recipes/savory/standard-bread.md)
-* [French bread](recipes/savory/french-bread.md)
-* [Date walnut bread](recipes/sweet/date-walnut-bread.md)
-* [Linseed bread](recipes/savory/linseed-bread.md)
-* [Bacon bread](recipes/savory/bacon-bread.md)
-* [Salami bread](recipes/savory/salami-bread.md)
-* [Saffron Goat Cheese bread](recipes/savory/saffron-goat-cheese.md)
-* [Cocoa bread](recipes/sweet/cocoa-bread.md)
-* [Full milk Chocolate bread](recipes/sweet/full-milk-chocolate-bread.md)
+* [Basic bread](recipes/savory/basic-bread.md)
+* [French country bread](recipes/savory/french-bread.md)
 * [Banana bread](recipes/sweet/banana-bread.md)
 * [Burger buns](recipes/savory/burger-buns.md)
 
-## Recipes with sourdough
+## Sourdough based bread
 
 Sourdough bread is an all natural bread without any added yeast.
 The dough gives the bread an amazing, you guessed it, sour taste.
