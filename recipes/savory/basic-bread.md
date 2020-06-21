@@ -43,7 +43,7 @@ average 2 hours at room temperature or 24 hours in the fridge
 
 Mix together all the ingredients listed by the recipe, except the yeast.
 Mix everything with your hand until the ingredients have created a homongenous dough.
-Make sure no flour ist left on the edges of your container.
+Make sure no flour is left on the edges of your container.
 
 Let the dough rest for an hour. This helps to create a gluten network that will
 hold your dough together as well as allow your dough to become inflated
