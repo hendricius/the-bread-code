@@ -10,7 +10,7 @@ The recipe is aimed for people wanting to make the dough over night.
 The recipe calls for several folds of the dough during the whole process,
 but you can also skip them. The folds help but are not required.
 
-![Final result of the basic bread](../images/basic-bread-crumbshot.jpeg)
+![Final result of the basic bread](../../images/basic-bread-crumbshot.jpeg)
 
 
 ## Ingredients
@@ -87,7 +87,7 @@ I usually go to bed and resume the next morning.
 
 This is typically how a bread looks like after the first fermentation phase (bulk fermentation). Compare this with your own results.
 
-![Bulk fermentation picture](../images/basic-bread-bulk-fermentation.jpeg)
+![Bulk fermentation picture](../../images/basic-bread-bulk-fermentation.jpeg)
 
 Perform a stretch and fold before removing the the dough from your container.
 
@@ -131,7 +131,7 @@ You want the bottom part of the dough that you have created to face upwards. The
 currently lower side has a lot of tension after following this process.
 Flip the dough so the lower part is not facing you directly.
 
-![Previously bottom part now faces you](../images/basic-bread-shaped-bread.jpeg)
+![Previously bottom part now faces you](../../images/basic-bread-shaped-bread.jpeg)
 
 Gently stretch the edges of the dough downwards a little. I use my hands to do that, like in the figure above.
 The goal here is to create more tension on the surface.
@@ -183,7 +183,7 @@ Celsius (450 Fahrenheit). Wait for 25 minutes.
 
 ### Remove (the tray with water or lid)
 
-![The bread should have grown nicely by now](../images/grow.jpg)
+![The bread should have grown nicely by now](../../images/grow.jpg)
 
 After 25 minutes remove the tray of water or the lid of the dutch oven,
 to allow the crust of the bread to become super crisp.
@@ -195,11 +195,11 @@ If you like the bread to be crustier, bake it longer. This depends a lot on pers
 
 This is how one of my first ever breads looked like. Yours is probably going to look way better.
 
-![Final bread with no extras added](../images/final-basic-bread.jpg)
+![Final bread with no extras added](../../images/final-basic-bread.jpg)
 
 And here a bread 3 years later:
 
-![Final bread with no extras added](../images/basic-bread-crumbshot.jpeg)
+![Final bread with no extras added](../../images/basic-bread-crumbshot.jpeg)
 
 Wait 30 minutes until your bread cooled down. It is hard, but - you will not
 tear the crumb apart. Enjoy with fresh salted butter or a little bit of olive oil. Congratulations, you mastered your first loaf!
