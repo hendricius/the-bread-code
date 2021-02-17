@@ -1,7 +1,6 @@
-This is the best and most complete sourdough bread recipe you ever need, consistently rewarding you with world class beautiful and tasty sourdough bread every time.
-Everything is done from scratch, explained in detail, easy for you to follow leaving no questions unanswered.
-This masterclass looks at the recipe as well as the why behind it.
-That way you know how to adapt when things go sideways. The [original class can be found as a video on my YouTube channel](https://www.youtube.com/watch?v=NMglhwp2lNs).
+This sourdough recipe consistently rewards you with world class beautiful and tasty sourdough bread every time.
+
+The [original class can be found as a video on my YouTube channel](https://www.youtube.com/watch?v=NMglhwp2lNs).
 Please note this is only for wheat based breads with more than 80% wheat.
 
 [![The final sourdough bread](/images/last-sourdough-recipe-1.jpg)](/images/last-sourdough-recipe-1.jpg)
