@@ -1,5 +1,5 @@
 ![logotype b](./images/logo/logotype_b.png)
-# The Bread Code Manifesto
+# Cracking The Bread Code
 
 Learn how to master the art of baking the programmer way.
 If you love programming, you will also enjoy breaking some bread.
@@ -33,11 +33,11 @@ Any yeast bread can also be made with sourdough instead of yeast.
 All of those recipes assume that you have made your own sourdough starter. The
 process takes approximately 7 days to complete:
 
-* [Make your own sourdough](basics/sourdough.md)
+* [Make your own sourdough starter](recipes/sourdough/make-sourdough-starter.md)
 
 Once you have your sourdough starter you can proceed with the next recipes.
 
-* [Basic sourdough bread](basics/basic-sour-dough.md)
+* [Basic sourdough bread](recipes/sourdough/basic-sour-dough.md)
 * [Portuguese inspired Broa corn bread](recipes/sourdough/portuguese-broa-corn-bread.md)
 * [Mischbrot aka. Graubrot](recipes/sourdough/mischbrot-aka-graubrot.md)
 * [Franconian bread](recipes/sourdough/franconian-bread.md)

@@ -1,6 +1,6 @@
 # Make your own sourdough
 
-![Some yummy rye breads. But you can also bake every other bread with sourdough](../images/yummy-ryes.jpg)
+![Some yummy rye breads. But you can also bake every other bread with sourdough](/images//yummy-ryes.jpg)
 
 Sourdough is an excellent way to add air into your dough. At the same time the taste becomes a little sour adding excellent flavor to the bread. A welcome side effect is that you can eat your bread for a longer period of time as it does not catch mold as fast as yeast-only bread. [This is because of the antibiotic ingredients.](http://news.bbc.co.uk/2/hi/science/nature/881477.stm) Good news, it is really easy to make your own sourdough.
 
@@ -42,7 +42,7 @@ Place the bowl somewhere in your kitchen, cover it loosely with a lid, or
 using a piece foil. A kitchen towel isn't enough as your dough might dry out
 too much. 
 
-![Use full grain flour](../images/full-grain-flour.jpg)
+![Use full grain flour](/images//full-grain-flour.jpg)
 
 ### Day 2
 
@@ -54,7 +54,7 @@ starter will go that you don't need. Don't worry, we can still use that later.
 Some people like to toss it away, but [I personally enjoy baking a discard
 starter bread out of it.](TODO LINK)
 
-![Add together the water and flour](../images/add-water-and-flour.jpg)
+![Add together the water and flour](/images//add-water-and-flour.jpg)
 
 We likely already cultivated some of the wild yeast and we provide them with
 new food, the flour. Furthermore we add additional microorganisms by feeding
