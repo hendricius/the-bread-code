@@ -83,3 +83,8 @@ The bench scraper is a thin metal sheet with a handle. It can be used for splitt
 The pizzal shovel is a (usually rounded) bigger metal sheet. It has various sizes and can be used to transfer the dough from flat surfaces into the oven or into a dutch oven. The pizza shovel or pizza peel is similar to the bench scraper but much bigger. Sprinkle it with flour so the dough slides off more easily.
 
 ![Pizza shovel](../images/pizza-stone.jpg)
+
+## Baker's couche (optional)
+
+The baker's couche is a linen cloth of usually 120 x 60 cm size. It has the same functionality as the banneton and is used in cases where the bannetons' measurements do not fit, such as baking rolls or Baguettes.
+Linen is the material of choice as it sticks way less to the dough than other fabrics.
