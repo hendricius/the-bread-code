@@ -13,7 +13,7 @@ This repository is still work in progress and will be updated continuously.
 Feel free open up issues when facing problems. Pull-requests with custom
 recipes are welcome too! Happy baking.
 
-![A nice and yummy sourdough bread](./images/golden-standard-german-bread-int.jpg)
+[![A sourdough bread about to be inhaled 🤣](/images/last-sourdough-recipe-1.jpg)](/images/last-sourdough-recipe-1.jpg)
 
 ## Yeast based bread
 
