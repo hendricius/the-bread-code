@@ -1,5 +1,5 @@
-# Make your own sourdough
-
+# Make your own sourdough starter
+ 
 ![Some yummy rye breads. But you can also bake every other bread with sourdough](/images//yummy-ryes.jpg)
 
 Sourdough is an excellent way to add air into your dough. At the same time the taste becomes a little sour adding excellent flavor to the bread. A welcome side effect is that you can eat your bread for a longer period of time as it does not catch mold as fast as yeast-only bread. [This is because of the antibiotic ingredients.](http://news.bbc.co.uk/2/hi/science/nature/881477.stm) Good news, it is really easy to make your own sourdough.
@@ -24,7 +24,7 @@ That means you will spend only 14 minutes in total to have your own sourdough re
 
 * 1000 grams of full grain wheat flour (Look for flour with Whole in the word like Wholemeal or Wholegrain)
 * You can also take rye, spelt or whatever full grain flour you have available.
-  Don't worry too much, you can later on feed your mother dough with rye to make it more ryish.
+  Don't worry too much, you can later on feed change which flour you use for your starter.
   It's just about getting a nice and yummy place for the bacteria and yeast.
 * Ideally 3 large jars, but it can also be a glas
 
@@ -52,7 +52,7 @@ sourdough coming from the previous day.
 Take another jar, this will be your discard starter jar. This is where all the
 starter will go that you don't need. Don't worry, we can still use that later.
 Some people like to toss it away, but [I personally enjoy baking a discard
-starter bread out of it.](TODO LINK)
+starter bread out of it.](https://youtu.be/xmt3eXzOQLM)
 
 ![Add together the water and flour](/images//add-water-and-flour.jpg)
 
@@ -93,7 +93,7 @@ If it does not, just keep feeding your sourdough starter.
 
 ## My sourdough smells gross
 
-The vinegary taste comes over time from bacteria creating acid. This is
+The vinegary taste comes over time from bacteria creating lactic and acetic. This is
 normal. No need to panic.
 
 You can reset your starter, take 1 gram out of your starter and mix it with 50
@@ -110,9 +110,12 @@ I collect my discard starter and then once per week like to bake a bread out
 of it. Because of all the fermented flour you can not develop a gluten
 structure with a fluffy crumb.
 
+[See this video on making a discard starter bread](https://youtu.be/xmt3eXzOQLM)
+
 ## There is liquid gathering on top of my sourdough starter when making it
 
-That is no problem. This happens. Yeast and bacteria like a moist environment.
+That is normal. Some people like to call it "hooch". Just stir it back in your dough,
+don't discard it. It's a powerful yeast and bacteria cocktail.
 
 ## When making the starter parts in the bowl dry out
 
@@ -135,7 +138,7 @@ would use 100 grams of flour I would add 20 grams of sourdough. If I want the
 process to be slower, I go as low as 10%. This comes in handy when you want to
 make an overnight bread.
 
-## After a few weeks of not feeding, liquid starts to appear on top of the mother dough
+## After a few weeks of not feeding, liquid starts to appear on top of the sourdough
 
 This is natural.
 The yeast and bacteria have produced a lot of lactic acid and alcohol.
