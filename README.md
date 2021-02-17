@@ -49,6 +49,7 @@ Custom Recipes:
 * [Bavarian rye bread](recipes/sourdough/bavarian-rye-bread.md)
 * [Portuguese inspired Broa corn bread](recipes/savory/portuguese-broa-corn-bread.md)
 * [Mischbrot aka. Graubrot](recipes/savory/mischbrot-aka-graubrot.md)
+* [Franconian bread](recipes/sourdough/franconian-bread.md)
 * [Einkorn sourdough bread](recipes/sourdough/einkorn-sourdough-bread.md)
 * [Emmer sourdough bread](recipes/sourdough/emmer-sourdough-bread.md)
 * [The Crack Bread](recipes/sourdough/crack-bread-tomato-water.md)
