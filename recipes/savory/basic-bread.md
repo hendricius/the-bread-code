@@ -18,7 +18,7 @@ but you can also skip them. The folds help but are not required.
 - 500 grams of bread, or all-purpose flour, the higher the protein the better
 - 325 grams of water or 65%
 - 10 grams of salt or 2%
-- 1 gram of dry yeast or 0.5% or 3 grams of fresh yeast (1.5%)
+- 1 gram of dry yeast or 0.2% or 3 grams of fresh yeast (0.6%)
 
 Sidenote - if you are interested in learning about why we use bread or all purpose flour,
 [have a look at this video](https://www.youtube.com/watch?v=zDEcvSc2UKA),
