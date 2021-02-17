@@ -21,7 +21,6 @@ Yeast is the easiest way to get started baking bread. You can use either dry yea
 Yeast ferments your dough by converting parts of the dough into gas. This gas inflates your dough.
 
 * [Basic bread](recipes/savory/basic-bread.md)
-* [French country bread](recipes/savory/french-bread.md)
 * [Banana bread](recipes/sweet/banana-bread.md)
 * [Burger buns](recipes/savory/burger-buns.md)
 
@@ -36,23 +35,12 @@ process takes approximately 7 days to complete:
 
 * [Make your own sourdough](basics/sourdough.md)
 
-Once you have your sourdough starter you can proceed with the actual bake. The
-below recipe is the standard recipe. All the other sourdough recipes customize
-parts of this recipe.
+Once you have your sourdough starter you can proceed with the next recipes.
 
 * [Basic sourdough bread](basics/basic-sour-dough.md)
-
-Custom Recipes:
-
-* [Standard sourdough bread](recipes/sourdough/standard-sourdough-bread.md)
-* [Golden standard German bread](recipes/sourdough/golden-standard-german-bread.md)
-* [Bavarian rye bread](recipes/sourdough/bavarian-rye-bread.md)
-* [Portuguese inspired Broa corn bread](recipes/savory/portuguese-broa-corn-bread.md)
-* [Mischbrot aka. Graubrot](recipes/savory/mischbrot-aka-graubrot.md)
+* [Portuguese inspired Broa corn bread](recipes/sourdough/portuguese-broa-corn-bread.md)
+* [Mischbrot aka. Graubrot](recipes/sourdough/mischbrot-aka-graubrot.md)
 * [Franconian bread](recipes/sourdough/franconian-bread.md)
-* [Einkorn sourdough bread](recipes/sourdough/einkorn-sourdough-bread.md)
-* [Emmer sourdough bread](recipes/sourdough/emmer-sourdough-bread.md)
-* [The Crack Bread](recipes/sourdough/crack-bread-tomato-water.md)
 * [Sourdough Pizza](recipes/sourdough/sourdough-pizza.md)
 * [Sourdough Pasta](recipes/sourdough/sourdough-pasta.md)
 * [Sourdough Sandwich Loaf](recipes/sourdough/sourdough-sandwich.md)
@@ -69,10 +57,10 @@ parameter has on the final product. Feel free to submit your own experiments as 
 The more experiments there the merrier.
 
 * [Different hydration levels on yeast bread](experiments/different-hydration-levels.md)
-* [Einkorn vs. Emmer](experiments/einkorn-vs-emmer.md)
-* [Scoring vertically vs. at an angle](experiments/scoring-vertically-vs-angle.md)
 * [Proofing Sourdough at room temperature for 3 hours vs. 10 hours fridge](experiments/proofing-sourdough-3-hours-room-temperature-vs-10-hours-fridge.md)
 * [Oiled loaf pan vs. parchment papered loaf pan](experiments/parchment-paper-vs-oiled-loaf-pan.md)
+
+Ideas for custom experiments? Please make a PR and share them.
 
 ## Tools
 
