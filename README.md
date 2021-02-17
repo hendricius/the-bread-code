@@ -53,6 +53,7 @@ Custom Recipes:
 * [Einkorn sourdough bread](recipes/sourdough/einkorn-sourdough-bread.md)
 * [Emmer sourdough bread](recipes/sourdough/emmer-sourdough-bread.md)
 * [The Crack Bread](recipes/sourdough/crack-bread-tomato-water.md)
+* [Sourdough Pizza](recipes/sourdough/sourdough-pizza.md)
 * [Sourdough Pasta](recipes/sourdough/sourdough-pasta.md)
 * [Sourdough Sandwich Loaf](recipes/sourdough/sourdough-sandwich.md)
 
