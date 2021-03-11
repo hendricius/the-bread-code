@@ -125,7 +125,7 @@ every few hours. Typically when you see your dough has flattened out quite a lot
 However, the more you touch your dough, the more even your crumb is going to be in the end.
 
 
-Coil folding is a great way to stretch and fold and every gentle on the dough:
+Coil folding is a great way to stretch and fold and very gentle on the dough:
 - Slightly wet hands with cold water
 - Release dough from sides of container
   1. Use a very light touch; the less you touch the dough the better
