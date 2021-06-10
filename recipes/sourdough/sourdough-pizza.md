@@ -6,25 +6,31 @@ What if we go beyond and try do make a formula for sourdough? Most people would 
 
 This recipe is made for 2 dough balls of ~260g. You can change the quantities accordingly.
 
-### Prepare the starter
-Since we don't want an acid dough, we will start preparing our sourdough starter at 1:5:5 ratio.
+Recipe (total quantities) :
 
-**Preferment 1**:
-Mix 15g of your active starter with 80g flour and 80g water. Wait until it rises and doubles in size, it might take a couple of hours. A good practice is to leave it fermenting overnight.
+- 300g flour
+- 200g water (66.6%)
+- 8g salt (2%)
+
+### Prepare the starter
+Since we don't want an acid dough, we will start preparing our sourdough starter at 1:5:5 ratio. This starter will be part of the total amount of flour and water.
+
+**First refresh**:
+Mix 5-10g of your active starter with 40g flour and 30g water. Wait until it rises and doubles in size, it might take a couple of hours. A good practice is to leave it fermenting overnight. If it's summer, use 5g of starter, but for winter it should be fine to use a bit more.
 
 This part is key, as we are using only 1/5 part of starter to make sure we don't give much time to natural yeasts to produce alcoholic fermentation. In the contrary, if you are looking for a sour pizza dough, you can leave this resting the whole day.
 
-**Preferment 1**:
-Take the previous preferment and mix it again with 80g water and 80g flour.
+**Second refresh**:
+Take the previous starter and mix it again with 40g water and 30g flour.
 Let's give those microorganism some more food to make them very strong. Leave it rest for 3-5 hours depending on the room temperature.
 
 
 ### Prepare the main dough
-Once the previous preferment is on its peak, mix it together with the following ingredients :
+Once the previous starter is on its peak, mix it together with the following ingredients :
 
-- 290g flour
-- 130g water
-- 10g salt
+- 220g flour
+- 140g water
+- 8g salt
 - 12g olive oil (optional *)
 
 The recommendation is to mix or "dissolve" the preferment with the water and then slowly add the flour and finally the salt.
