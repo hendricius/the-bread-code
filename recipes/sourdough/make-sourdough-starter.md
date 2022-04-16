@@ -26,7 +26,7 @@ That means you will spend only 14 minutes in total to have your own sourdough re
 * You can also take rye, spelt or whatever full grain flour you have available.
   Don't worry too much, you can later on feed change which flour you use for your starter.
   It's just about getting a nice and yummy place for the bacteria and yeast.
-* Ideally 3 large jars, but it can also be a glas
+* Ideally 3 large jars, but it can also be a glass
 
 ## Instructions
 
