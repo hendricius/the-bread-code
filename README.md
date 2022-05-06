@@ -1,6 +1,9 @@
 ![logotype b](./images/logo/logotype_b.png)
 # Cracking The Bread Code
 
+DEPRECATED. Please see [the sourdough framework](https://github.com/hendricius/the-sourdough-framework) for
+a complete rewrite.
+
 Learn how to master the art of baking the programmer way.
 If you love programming, you will also enjoy breaking some bread.
 A/B test, iterate and ultimately become a self-taught baker.
