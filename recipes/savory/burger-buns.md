@@ -36,7 +36,7 @@ This recipe will make you around 9 burger buns. The inside is super fluffy as we
 2. Mix it all together
 3. Knead until the dough looks soft and silky
 4. Take a break after 5 minutes and wait 15 minutes up to 30 minutes. This will help autolysing the dough. You will have to knead less
-5. Do a stretch and fold every 30 minutes until your dough has doubled in size. Once it doubled we can proceed. Timings are really hard to give, because this This means you are ready for the next steps
+5. Do a stretch and fold every 30 minutes until your dough has doubled in size. Once it doubled we can proceed. Timings are really hard to give, because this means you are ready for the next steps
 
 ![The dough after bulk fermenting](../../images/burger-buns-1.jpg)
 
