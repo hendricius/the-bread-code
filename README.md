@@ -5,7 +5,7 @@ DEPRECATED. Please see [the sourdough framework](https://github.com/hendricius/t
 a complete rewrite.
 
 Learn how to master the art of baking the programmer way.
-If you love programming, you will also enjoy breaking some bread.
+If you love programming, you will also enjoy baking some bread.
 A/B test, iterate and ultimately become a self-taught baker.
 This repository is dedicated to becoming your bread manifesto with
 useful tricks and hacks. Furthermore, the goal is to illustrate
