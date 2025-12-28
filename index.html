@@ -4,7 +4,7 @@ title: Home
 ---
 
 <!-- Hero Section -->
-<section class="hero">
+<section class="hero hero--warm">
   <div class="hero__background">
     <img src="{{ '/images/last-sourdough-recipe-1.jpg' | relative_url }}" alt="" loading="eager">
   </div>
@@ -12,67 +12,151 @@ title: Home
     <div class="hero__content">
       <h1 class="hero__title">Cracking The Bread Code</h1>
       <p class="hero__subtitle">
-        Learn how to master the art of baking the programmer way.
-        A/B test, iterate, and become a self-taught baker.
+        My mission is simple: to teach people around the world how to make amazing bread at home.
+        No expensive equipment needed. Just flour, water, salt, and a little patience.
       </p>
       <div class="hero__actions">
-        <a href="#recipes" class="btn btn--primary btn--lg">Browse Recipes</a>
-        <a href="{{ '/recipes/sourdough/make-sourdough-starter/' | relative_url }}" class="btn btn--secondary btn--lg" style="background: rgba(255,255,255,0.1); border-color: white; color: white;">
-          Start with Sourdough
+        <a href="#start-baking" class="btn btn--primary btn--lg">Start Baking Today</a>
+        <a href="https://www.youtube.com/c/TheBreadCode" class="btn btn--lg" style="background: rgba(255,255,255,0.15); border: 2px solid white; color: white;" target="_blank" rel="noopener">
+          Watch on YouTube
         </a>
       </div>
     </div>
   </div>
 </section>
 
-<!-- Quick start notice -->
-<section class="section">
+<!-- Mission Section -->
+<section class="section section--warm-gradient">
+  <div class="container container--narrow text-center">
+    <h2 class="section__title">Why I Created The Bread Code</h2>
+    <p class="text-lg mb-6">
+      Have you ever relished the taste of a fresh, warm bread with a crispy crust?
+      Do you know the sound of the crispy crust when you take a bite?
+      Have you ever experienced the delicious, homey scent of bread coming right out of the oven?
+    </p>
+    <p class="text-lg mb-6">
+      When baking bread, you experience a whole variety of emotions and sensations.
+      You step into a world where simplicity can become beautifully complex.
+      The feeling of having crafted a perfect combination of all natural ingredients is unique and special.
+    </p>
+    <p class="text-lg text-accent font-semibold">
+      There is no such thing as "the perfect bread" — every bread you make is unique, and that's the beauty of it.
+    </p>
+  </div>
+</section>
+
+<!-- Getting Started -->
+<section class="section" id="start-baking">
   <div class="container">
-    <div class="notice notice--info">
-      <strong>New to baking?</strong> Start with our <a href="{{ '/basics/tools/' | relative_url }}">tools guide</a> to learn what you need (spoiler: just a bowl and heat source), then try the <a href="{{ '/recipes/savory/basic-bread/' | relative_url }}">basic bread recipe</a>.
+    <div class="start-box">
+      <div class="start-box__content">
+        <span class="badge badge--accent">New to baking?</span>
+        <h2 class="start-box__title">You Can Start Today!</h2>
+        <p class="start-box__text">
+          10,000 years ago, people baked bread without any fancy tools. All you really need is:
+        </p>
+        <ul class="start-box__list">
+          <li>A bowl</li>
+          <li>Flour, water, salt</li>
+          <li>A heat source (your oven works great!)</li>
+          <li>A bit of patience and curiosity</li>
+        </ul>
+        <div class="start-box__actions">
+          <a href="{{ '/recipes/savory/basic-bread/' | relative_url }}" class="btn btn--primary">Try Your First Bread</a>
+          <a href="{{ '/basics/tools/' | relative_url }}" class="btn btn--secondary">What Tools Do I Need?</a>
+        </div>
+      </div>
+      <div class="start-box__image">
+        <img src="{{ '/images/basic-bread-crumbshot.jpeg' | relative_url }}" alt="Beautiful homemade bread" loading="lazy">
+      </div>
     </div>
   </div>
 </section>
 
-<!-- Featured Sourdough Section -->
-<section class="section section--alt" id="recipes">
+<!-- The Programmer's Approach -->
+<section class="section section--alt">
   <div class="container">
-    <h2 class="mb-6">Sourdough Recipes</h2>
-    <p class="text-light mb-8" style="max-width: 600px;">
-      Sourdough is an all-natural bread without any added yeast. The dough gives the bread an amazing sour taste.
-      Start by <a href="{{ '/recipes/sourdough/make-sourdough-starter/' | relative_url }}">making your own starter</a>.
-    </p>
+    <div class="text-center mb-10">
+      <h2>The Programmer's Approach to Baking</h2>
+      <p class="text-light" style="max-width: 600px; margin: 0 auto;">
+        Being a programmer myself, I lacked scientific resources on bread baking.
+        In my daytime job, we use A/B testing for almost everything. Why not apply the same proven methodologies to baking?
+      </p>
+    </div>
+
+    <div class="grid grid--3">
+      <div class="feature-card">
+        <div class="feature-card__icon">🧪</div>
+        <h3 class="feature-card__title">A/B Test</h3>
+        <p class="feature-card__text">
+          Change one variable at a time. Document what works and what doesn't. Every experiment teaches you something new.
+        </p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-card__icon">🔄</div>
+        <h3 class="feature-card__title">Iterate</h3>
+        <p class="feature-card__text">
+          Each bread teaches you something. Apply your learnings to the next bake. You will fail sometimes — and that's okay!
+        </p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-card__icon">📝</div>
+        <h3 class="feature-card__title">Document</h3>
+        <p class="feature-card__text">
+          Keep notes. Share your experiments. Help others learn from your journey. That's what this community is all about.
+        </p>
+      </div>
+    </div>
+
+    <div class="text-center mt-8">
+      <a href="{{ '/experiments/' | relative_url }}" class="btn btn--secondary">See Baking Experiments</a>
+    </div>
+  </div>
+</section>
+
+<!-- Sourdough Section -->
+<section class="section" id="recipes">
+  <div class="container">
+    <div class="section-header">
+      <h2>Sourdough Recipes</h2>
+      <p class="text-light">
+        Sourdough is an all-natural bread without any added yeast — just wild fermentation magic.
+        Start by <a href="{{ '/recipes/sourdough/make-sourdough-starter/' | relative_url }}">making your own starter</a> (it only takes 7 days!).
+      </p>
+    </div>
 
     <div class="grid grid--auto">
-      {% assign sourdough_recipes = site.recipes | where: "category", "sourdough" %}
+      {% assign sourdough_recipes = site.recipes | where: "category", "sourdough" | sort: "order" %}
       {% for recipe in sourdough_recipes limit: 6 %}
         {% include recipe-card.html recipe=recipe %}
       {% endfor %}
     </div>
 
     <div class="text-center mt-8">
-      <a href="{{ '/recipes/sourdough/' | relative_url }}" class="btn btn--secondary">
-        View All Sourdough Recipes
-      </a>
+      <a href="{{ '/recipes/' | relative_url }}" class="btn btn--secondary">View All Recipes</a>
     </div>
   </div>
 </section>
 
 <!-- Yeast Breads Section -->
-<section class="section">
+<section class="section section--alt">
   <div class="container">
-    <h2 class="mb-6">Yeast Breads</h2>
-    <p class="text-light mb-8" style="max-width: 600px;">
-      Yeast is the easiest way to get started baking bread. Perfect for beginners who want quick results.
-    </p>
+    <div class="section-header">
+      <h2>Yeast Breads</h2>
+      <p class="text-light">
+        Yeast is the easiest way to get started. Perfect for beginners who want delicious results without waiting for a sourdough starter.
+      </p>
+    </div>
 
     <div class="grid grid--auto">
-      {% assign savory_recipes = site.recipes | where: "category", "savory" %}
+      {% assign savory_recipes = site.recipes | where: "category", "savory" | sort: "order" %}
       {% for recipe in savory_recipes limit: 3 %}
         {% include recipe-card.html recipe=recipe %}
       {% endfor %}
 
-      {% assign sweet_recipes = site.recipes | where: "category", "sweet" %}
+      {% assign sweet_recipes = site.recipes | where: "category", "sweet" | sort: "order" %}
       {% for recipe in sweet_recipes limit: 3 %}
         {% include recipe-card.html recipe=recipe %}
       {% endfor %}
@@ -80,98 +164,88 @@ title: Home
   </div>
 </section>
 
-<!-- Experiments Section -->
-<section class="section section--alt">
+<!-- Support Section -->
+<section class="section section--warm">
   <div class="container">
-    <h2 class="mb-6">Baking Experiments</h2>
-    <p class="text-light mb-8" style="max-width: 600px;">
-      Like a true programmer, we A/B test our bread. Each experiment changes one variable to see its impact on the final result.
-    </p>
+    <div class="support-section">
+      <div class="support-section__content">
+        <h2>Help Me Teach More People</h2>
+        <p class="text-lg mb-6">
+          I believe everyone should be able to bake delicious bread at home. All the recipes and knowledge here are completely free and always will be.
+        </p>
+        <p class="mb-6">
+          If you've found this helpful, here's how you can support the mission:
+        </p>
+        <div class="support-options">
+          <a href="https://www.youtube.com/c/TheBreadCode?sub_confirmation=1" class="support-option" target="_blank" rel="noopener">
+            <div class="support-option__icon support-option__icon--youtube">
+              <svg viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
+                <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+              </svg>
+            </div>
+            <div class="support-option__text">
+              <strong>Subscribe on YouTube</strong>
+              <span>Watch video tutorials and bake along with me</span>
+            </div>
+          </a>
 
-    <div class="grid grid--3">
-      {% for experiment in site.experiments limit: 3 %}
-      <article class="card">
-        <div class="card__body">
-          <span class="card__category">Experiment</span>
-          <h3 class="card__title">
-            <a href="{{ experiment.url | relative_url }}">{{ experiment.title }}</a>
-          </h3>
-          {% if experiment.description %}
-          <p class="card__excerpt">{{ experiment.description | truncate: 100 }}</p>
-          {% endif %}
+          <a href="https://instagram.com/the_bread_code" class="support-option" target="_blank" rel="noopener">
+            <div class="support-option__icon support-option__icon--instagram">
+              <svg viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
+                <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm6.406-11.845a1.44 1.44 0 1 0 0 2.881 1.44 1.44 0 0 0 0-2.881z"/>
+              </svg>
+            </div>
+            <div class="support-option__text">
+              <strong>Follow on Instagram</strong>
+              <span>Daily bread inspiration and tips</span>
+            </div>
+          </a>
+
+          <a href="https://github.com/hendricius/the-bread-code" class="support-option" target="_blank" rel="noopener">
+            <div class="support-option__icon support-option__icon--github">
+              <svg viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
+                <path d="M12 0C5.374 0 0 5.373 0 12c0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23A11.509 11.509 0 0 1 12 5.803c1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576C20.566 21.797 24 17.3 24 12c0-6.627-5.373-12-12-12z"/>
+              </svg>
+            </div>
+            <div class="support-option__text">
+              <strong>Contribute on GitHub</strong>
+              <span>Submit recipes, fixes, or improvements</span>
+            </div>
+          </a>
+
+          <a href="https://www.reddit.com/user/the_bread_code" class="support-option" target="_blank" rel="noopener">
+            <div class="support-option__icon support-option__icon--reddit">
+              <svg viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
+                <path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"/>
+              </svg>
+            </div>
+            <div class="support-option__text">
+              <strong>Join on Reddit</strong>
+              <span>Ask questions and share your bakes</span>
+            </div>
+          </a>
         </div>
-      </article>
-      {% endfor %}
-    </div>
-
-    <div class="text-center mt-8">
-      <a href="{{ '/experiments/' | relative_url }}" class="btn btn--secondary">
-        View All Experiments
-      </a>
+      </div>
     </div>
   </div>
 </section>
 
-<!-- Philosophy Section -->
-<section class="section">
-  <div class="container container--narrow">
-    <h2 class="text-center mb-6">The Bread Code Philosophy</h2>
-
-    <div class="text-center mb-8">
-      <p class="text-lg text-light">
-        Have you ever relished the taste of a fresh, warm bread with a crispy crust?
-        Do you know the sound of the crispy crust when you take a bite?
-      </p>
-    </div>
-
-    <div class="grid grid--3 mt-10">
-      <div class="text-center">
-        <div style="font-size: 2.5rem; margin-bottom: 1rem;">🧪</div>
-        <h3 style="font-size: 1.125rem; margin-bottom: 0.5rem; margin-top: 0;">A/B Test</h3>
-        <p class="text-sm text-muted">
-          Change one variable at a time. Document what works and what doesn't.
-        </p>
-      </div>
-
-      <div class="text-center">
-        <div style="font-size: 2.5rem; margin-bottom: 1rem;">🔄</div>
-        <h3 style="font-size: 1.125rem; margin-bottom: 0.5rem; margin-top: 0;">Iterate</h3>
-        <p class="text-sm text-muted">
-          Each bread teaches you something. Apply learnings to the next bake.
-        </p>
-      </div>
-
-      <div class="text-center">
-        <div style="font-size: 2.5rem; margin-bottom: 1rem;">📝</div>
-        <h3 style="font-size: 1.125rem; margin-bottom: 0.5rem; margin-top: 0;">Document</h3>
-        <p class="text-sm text-muted">
-          Keep notes. Share your experiments. Help others learn from your journey.
-        </p>
-      </div>
-    </div>
-
-    <blockquote class="mt-10" style="text-align: center; font-style: normal; border: none; padding: 0;">
-      <p class="text-lg">
-        "There is no such thing as the perfect bread. There are so many different possibilities,
-        combinations, ingredients, parameters — every bread is unique!"
-      </p>
-    </blockquote>
-  </div>
-</section>
-
-<!-- CTA Section -->
+<!-- Final CTA -->
 <section class="section section--primary">
   <div class="container text-center">
-    <h2 style="margin-top: 0;">Ready to Start Baking?</h2>
-    <p class="mb-8" style="opacity: 0.9; max-width: 500px; margin-left: auto; margin-right: auto;">
-      You don't need expensive tools. Just a bowl, some flour, water, salt, and a heat source.
+    <h2 style="margin-top: 0;">Ready to Bake Your First Loaf?</h2>
+    <p class="mb-8" style="opacity: 0.9; max-width: 550px; margin-left: auto; margin-right: auto;">
+      You will fail sometimes. In fact, you will fail often. But with every fail, ask yourself what you could have done better. That's how I've learned, and still learn, with every bread I bake.
+    </p>
+    <p class="mb-8" style="opacity: 0.9; font-size: 1.25rem;">
+      <strong>That's what I call The Bread Code.</strong>
     </p>
     <div class="hero__actions" style="justify-content: center;">
       <a href="{{ '/recipes/savory/basic-bread/' | relative_url }}" class="btn btn--lg" style="background: white; color: #3B9FD8;">
-        Try Basic Bread
+        Start with Basic Bread
       </a>
-      <a href="{{ '/basics/tools/' | relative_url }}" class="btn btn--lg" style="background: transparent; border: 2px solid white; color: white;">
-        What Tools Do I Need?
+      <a href="{{ '/recipes/sourdough/make-sourdough-starter/' | relative_url }}" class="btn btn--lg" style="background: transparent; border: 2px solid white; color: white;">
+        Or Make a Sourdough Starter
       </a>
     </div>
   </div>

@@ -949,3 +949,319 @@
     page-break-after: avoid;
   }
 }
+
+// ============================================
+// NEW HOMEPAGE COMPONENTS
+// Warmer, more inviting design
+// ============================================
+
+// --------------------------------------------
+// WARM SECTION VARIANTS
+// --------------------------------------------
+
+.section--warm {
+  background: linear-gradient(135deg, $color-accent-light 0%, lighten($color-accent-light, 3%) 100%);
+}
+
+.section--warm-gradient {
+  background: linear-gradient(180deg, $color-bg 0%, $color-accent-light 100%);
+}
+
+.hero--warm {
+  .hero__background img {
+    opacity: 0.35;
+  }
+
+  background: linear-gradient(135deg, darken($color-text, 5%) 0%, $color-text 100%);
+}
+
+// --------------------------------------------
+// SECTION HEADER
+// --------------------------------------------
+
+.section-header {
+  margin-bottom: $space-8;
+
+  h2 {
+    margin-bottom: $space-3;
+    margin-top: 0;
+  }
+
+  p {
+    max-width: 600px;
+    margin-bottom: 0;
+  }
+}
+
+.section__title {
+  margin-top: 0;
+}
+
+// --------------------------------------------
+// TEXT ACCENT COLOR
+// --------------------------------------------
+
+.text-accent {
+  color: $color-accent-dark;
+}
+
+// --------------------------------------------
+// BADGES
+// --------------------------------------------
+
+.badge {
+  display: inline-block;
+  padding: $space-2 $space-4;
+  font-size: $font-size-sm;
+  font-weight: $font-weight-semibold;
+  border-radius: $border-radius-full;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.badge--accent {
+  background-color: $color-accent;
+  color: white;
+}
+
+.badge--primary {
+  background-color: $color-primary;
+  color: white;
+}
+
+// --------------------------------------------
+// START BOX (Getting Started Section)
+// --------------------------------------------
+
+.start-box {
+  display: flex;
+  flex-direction: column;
+  gap: $space-8;
+  background: white;
+  border-radius: $border-radius-xl;
+  box-shadow: $shadow-lg;
+  overflow: hidden;
+
+  @include respond-to(md) {
+    flex-direction: row;
+    align-items: center;
+  }
+}
+
+.start-box__content {
+  padding: $space-8;
+  flex: 1;
+
+  @include respond-to(md) {
+    padding: $space-10;
+  }
+}
+
+.start-box__title {
+  margin-top: $space-4;
+  margin-bottom: $space-4;
+  color: $color-text;
+}
+
+.start-box__text {
+  color: $color-text-light;
+  margin-bottom: $space-4;
+}
+
+.start-box__list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 $space-6;
+
+  li {
+    position: relative;
+    padding-left: $space-6;
+    margin-bottom: $space-2;
+    color: $color-text;
+
+    &::before {
+      content: "✓";
+      position: absolute;
+      left: 0;
+      color: $color-success;
+      font-weight: $font-weight-bold;
+    }
+  }
+}
+
+.start-box__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $space-3;
+}
+
+.start-box__image {
+  flex: 1;
+  min-height: 250px;
+
+  @include respond-to(md) {
+    min-height: 400px;
+    max-width: 45%;
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 0;
+  }
+}
+
+// --------------------------------------------
+// FEATURE CARDS
+// --------------------------------------------
+
+.feature-card {
+  text-align: center;
+  padding: $space-6;
+  background: white;
+  border-radius: $border-radius-lg;
+  box-shadow: $shadow;
+  transition: transform $transition-base, box-shadow $transition-base;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: $shadow-md;
+  }
+}
+
+.feature-card__icon {
+  font-size: 3rem;
+  margin-bottom: $space-4;
+  line-height: 1;
+}
+
+.feature-card__title {
+  font-size: $font-size-lg;
+  margin-bottom: $space-2;
+  margin-top: 0;
+  color: $color-text;
+}
+
+.feature-card__text {
+  font-size: $font-size-sm;
+  color: $color-text-light;
+  margin-bottom: 0;
+  line-height: $line-height-loose;
+}
+
+// --------------------------------------------
+// SUPPORT SECTION
+// --------------------------------------------
+
+.support-section {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.support-section__content {
+  text-align: center;
+
+  h2 {
+    margin-top: 0;
+    color: $color-text;
+  }
+}
+
+.support-options {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: $space-4;
+  margin-top: $space-8;
+
+  @include respond-to(sm) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.support-option {
+  display: flex;
+  align-items: center;
+  gap: $space-4;
+  padding: $space-5;
+  background: white;
+  border-radius: $border-radius-lg;
+  text-decoration: none;
+  color: $color-text;
+  box-shadow: $shadow;
+  transition: transform $transition-fast, box-shadow $transition-fast;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: $shadow-md;
+    text-decoration: none;
+  }
+}
+
+.support-option__icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: $border-radius;
+  flex-shrink: 0;
+
+  svg {
+    width: 24px;
+    height: 24px;
+  }
+}
+
+.support-option__icon--youtube {
+  background-color: #FF0000;
+  color: white;
+}
+
+.support-option__icon--instagram {
+  background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+  color: white;
+}
+
+.support-option__icon--github {
+  background-color: #24292e;
+  color: white;
+}
+
+.support-option__icon--reddit {
+  background-color: #FF4500;
+  color: white;
+}
+
+.support-option__text {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+
+  strong {
+    font-weight: $font-weight-semibold;
+    color: $color-text;
+    margin-bottom: $space-1;
+  }
+
+  span {
+    font-size: $font-size-sm;
+    color: $color-text-muted;
+  }
+}
+
+// --------------------------------------------
+// ENHANCED BUTTONS
+// --------------------------------------------
+
+.btn--accent {
+  background-color: $color-accent;
+  border-color: $color-accent;
+  color: white;
+
+  &:hover {
+    background-color: $color-accent-dark;
+    border-color: $color-accent-dark;
+    color: white;
+  }
+}

@@ -10,8 +10,13 @@
           loading="lazy"
         >
         <p class="site-footer__tagline">
-          Learn how to master the art of baking the programmer way. A/B test, iterate, and become a self-taught baker.
+          My mission is to teach people around the world how to make amazing bread at home. All recipes are free, forever.
         </p>
+        <div class="site-footer__support-cta">
+          <a href="https://www.youtube.com/c/TheBreadCode?sub_confirmation=1" class="btn btn--sm" style="background: #FF0000; border-color: #FF0000; color: white;" target="_blank" rel="noopener">
+            Subscribe on YouTube
+          </a>
+        </div>
       </div>
 
       <!-- Navigation sections -->
@@ -23,13 +28,13 @@
               <a href="{{ '/recipes/' | relative_url }}" class="site-footer__nav-link">All Recipes</a>
             </li>
             <li class="site-footer__nav-item">
-              <a href="{{ '/recipes/sourdough/' | relative_url }}" class="site-footer__nav-link">Sourdough</a>
+              <a href="{{ '/recipes/sourdough/make-sourdough-starter/' | relative_url }}" class="site-footer__nav-link">Make a Starter</a>
             </li>
             <li class="site-footer__nav-item">
-              <a href="{{ '/recipes/savory/' | relative_url }}" class="site-footer__nav-link">Savory Breads</a>
+              <a href="{{ '/recipes/savory/basic-bread/' | relative_url }}" class="site-footer__nav-link">Basic Bread</a>
             </li>
             <li class="site-footer__nav-item">
-              <a href="{{ '/recipes/sweet/' | relative_url }}" class="site-footer__nav-link">Sweet Breads</a>
+              <a href="{{ '/recipes/sourdough/basic-sourdough/' | relative_url }}" class="site-footer__nav-link">Basic Sourdough</a>
             </li>
           </ul>
         </div>
@@ -41,10 +46,10 @@
               <a href="{{ '/basics/' | relative_url }}" class="site-footer__nav-link">Getting Started</a>
             </li>
             <li class="site-footer__nav-item">
-              <a href="{{ '/basics/tools/' | relative_url }}" class="site-footer__nav-link">Tools</a>
+              <a href="{{ '/basics/tools/' | relative_url }}" class="site-footer__nav-link">Tools Guide</a>
             </li>
             <li class="site-footer__nav-item">
-              <a href="{{ '/faq/' | relative_url }}" class="site-footer__nav-link">FAQ</a>
+              <a href="{{ '/faq/' | relative_url }}" class="site-footer__nav-link">Troubleshooting</a>
             </li>
             <li class="site-footer__nav-item">
               <a href="{{ '/experiments/' | relative_url }}" class="site-footer__nav-link">Experiments</a>
@@ -53,16 +58,16 @@
         </div>
 
         <div class="site-footer__nav-section">
-          <h4 class="site-footer__nav-title">Connect</h4>
+          <h4 class="site-footer__nav-title">Community</h4>
           <ul class="site-footer__nav-list">
             <li class="site-footer__nav-item">
               <a href="https://www.youtube.com/c/TheBreadCode" class="site-footer__nav-link" target="_blank" rel="noopener">YouTube</a>
             </li>
             <li class="site-footer__nav-item">
-              <a href="https://www.reddit.com/user/the_bread_code" class="site-footer__nav-link" target="_blank" rel="noopener">Reddit</a>
+              <a href="https://instagram.com/the_bread_code" class="site-footer__nav-link" target="_blank" rel="noopener">Instagram</a>
             </li>
             <li class="site-footer__nav-item">
-              <a href="https://instagram.com/the_bread_code" class="site-footer__nav-link" target="_blank" rel="noopener">Instagram</a>
+              <a href="https://www.reddit.com/user/the_bread_code" class="site-footer__nav-link" target="_blank" rel="noopener">Reddit</a>
             </li>
             <li class="site-footer__nav-item">
               <a href="https://github.com/hendricius/the-bread-code" class="site-footer__nav-link" target="_blank" rel="noopener">GitHub</a>
@@ -75,7 +80,9 @@
     <!-- Bottom bar -->
     <div class="site-footer__bottom">
       <p class="site-footer__copyright">
-        &copy; {{ 'now' | date: '%Y' }} The Bread Code. Released under the MIT License.
+        &copy; {{ 'now' | date: '%Y' }} The Bread Code by Hendrik Kleinwaechter. Released under the MIT License.
+        <br>
+        <span style="opacity: 0.7;">Made with love for bakers everywhere.</span>
       </p>
       <div class="site-footer__social">
         <a href="https://www.youtube.com/c/TheBreadCode" class="site-footer__social-link" target="_blank" rel="noopener" aria-label="YouTube">
@@ -97,3 +104,9 @@
     </div>
   </div>
 </footer>
+
+<style>
+  .site-footer__support-cta {
+    margin-top: 1rem;
+  }
+</style>
