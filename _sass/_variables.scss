@@ -1,0 +1,169 @@
+// ============================================
+// THE BREAD CODE - Design System Variables
+// Mobile-first, accessible, warm & inviting
+// ============================================
+
+// --------------------------------------------
+// COLOR PALETTE
+// Based on logo blue + warm bread tones
+// --------------------------------------------
+
+// Primary brand colors
+$color-primary: #3B9FD8;           // Logo blue
+$color-primary-dark: #2A7AB8;      // Hover/active states
+$color-primary-light: #E8F4FC;     // Light blue backgrounds
+
+// Warm accent colors (bread-inspired)
+$color-accent: #D4A574;            // Warm bread crust
+$color-accent-dark: #B8956A;       // Darker crust
+$color-accent-light: #F5EDE4;      // Light warm background
+
+// Neutral palette
+$color-text: #2C3E50;              // Primary text - warm dark blue
+$color-text-light: #5D6D7E;        // Secondary text
+$color-text-muted: #8E99A4;        // Muted/caption text
+
+// Backgrounds
+$color-bg: #FEFEFE;                // Main background
+$color-bg-alt: #F8F9FA;            // Alternate sections
+$color-bg-card: #FFFFFF;           // Card backgrounds
+$color-bg-code: #F4F4F4;           // Code block background
+
+// Borders & dividers
+$color-border: #E5E8EB;            // Light borders
+$color-border-dark: #CED4DA;       // Emphasized borders
+
+// Semantic colors
+$color-success: #27AE60;
+$color-warning: #F39C12;
+$color-error: #E74C3C;
+
+// --------------------------------------------
+// TYPOGRAPHY
+// System fonts for performance, clear hierarchy
+// --------------------------------------------
+
+// Font families
+$font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                   "Helvetica Neue", Arial, sans-serif;
+$font-family-heading: $font-family-base;
+$font-family-mono: "SF Mono", "Monaco", "Inconsolata", "Fira Code",
+                   "Droid Sans Mono", monospace;
+
+// Font sizes (mobile-first, rem-based)
+$font-size-base: 1rem;             // 16px
+$font-size-sm: 0.875rem;           // 14px
+$font-size-xs: 0.75rem;            // 12px
+$font-size-lg: 1.125rem;           // 18px
+$font-size-xl: 1.25rem;            // 20px
+
+// Heading sizes (mobile)
+$font-size-h1: 1.75rem;            // 28px
+$font-size-h2: 1.5rem;             // 24px
+$font-size-h3: 1.25rem;            // 20px
+$font-size-h4: 1.125rem;           // 18px
+
+// Heading sizes (desktop)
+$font-size-h1-lg: 2.5rem;          // 40px
+$font-size-h2-lg: 2rem;            // 32px
+$font-size-h3-lg: 1.5rem;          // 24px
+$font-size-h4-lg: 1.25rem;         // 20px
+
+// Line heights
+$line-height-tight: 1.25;
+$line-height-base: 1.6;
+$line-height-loose: 1.8;
+
+// Font weights
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-semibold: 600;
+$font-weight-bold: 700;
+
+// --------------------------------------------
+// SPACING SYSTEM
+// Consistent 4px base unit
+// --------------------------------------------
+
+$space-unit: 0.25rem;              // 4px base
+
+$space-1: $space-unit;             // 4px
+$space-2: $space-unit * 2;         // 8px
+$space-3: $space-unit * 3;         // 12px
+$space-4: $space-unit * 4;         // 16px
+$space-5: $space-unit * 5;         // 20px
+$space-6: $space-unit * 6;         // 24px
+$space-8: $space-unit * 8;         // 32px
+$space-10: $space-unit * 10;       // 40px
+$space-12: $space-unit * 12;       // 48px
+$space-16: $space-unit * 16;       // 64px
+$space-20: $space-unit * 20;       // 80px
+$space-24: $space-unit * 24;       // 96px
+
+// --------------------------------------------
+// BREAKPOINTS
+// Mobile-first: min-width queries
+// --------------------------------------------
+
+$breakpoint-sm: 576px;             // Large phones
+$breakpoint-md: 768px;             // Tablets
+$breakpoint-lg: 992px;             // Laptops
+$breakpoint-xl: 1200px;            // Desktops
+
+// Mixin for responsive design
+@mixin respond-to($breakpoint) {
+  @if $breakpoint == sm {
+    @media (min-width: $breakpoint-sm) { @content; }
+  } @else if $breakpoint == md {
+    @media (min-width: $breakpoint-md) { @content; }
+  } @else if $breakpoint == lg {
+    @media (min-width: $breakpoint-lg) { @content; }
+  } @else if $breakpoint == xl {
+    @media (min-width: $breakpoint-xl) { @content; }
+  }
+}
+
+// --------------------------------------------
+// LAYOUT
+// --------------------------------------------
+
+$container-max-width: 1200px;
+$container-padding: $space-4;
+$container-padding-lg: $space-8;
+
+$content-max-width: 720px;         // Optimal reading width
+$sidebar-width: 280px;
+
+// --------------------------------------------
+// BORDERS & SHADOWS
+// --------------------------------------------
+
+$border-radius-sm: 4px;
+$border-radius: 8px;
+$border-radius-lg: 12px;
+$border-radius-xl: 16px;
+$border-radius-full: 9999px;
+
+$shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+$shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+$shadow-md: 0 4px 16px rgba(0, 0, 0, 0.1);
+$shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.12);
+
+// --------------------------------------------
+// TRANSITIONS
+// --------------------------------------------
+
+$transition-fast: 150ms ease;
+$transition-base: 250ms ease;
+$transition-slow: 350ms ease;
+
+// --------------------------------------------
+// Z-INDEX SCALE
+// --------------------------------------------
+
+$z-dropdown: 100;
+$z-sticky: 200;
+$z-fixed: 300;
+$z-modal-backdrop: 400;
+$z-modal: 500;
+$z-tooltip: 600;

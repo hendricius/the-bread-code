@@ -1,0 +1,178 @@
+---
+layout: default
+title: Home
+---
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="hero__background">
+    <img src="{{ '/images/last-sourdough-recipe-1.jpg' | relative_url }}" alt="" loading="eager">
+  </div>
+  <div class="container">
+    <div class="hero__content">
+      <h1 class="hero__title">Cracking The Bread Code</h1>
+      <p class="hero__subtitle">
+        Learn how to master the art of baking the programmer way.
+        A/B test, iterate, and become a self-taught baker.
+      </p>
+      <div class="hero__actions">
+        <a href="#recipes" class="btn btn--primary btn--lg">Browse Recipes</a>
+        <a href="{{ '/recipes/sourdough/make-sourdough-starter/' | relative_url }}" class="btn btn--secondary btn--lg" style="background: rgba(255,255,255,0.1); border-color: white; color: white;">
+          Start with Sourdough
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Quick start notice -->
+<section class="section">
+  <div class="container">
+    <div class="notice notice--info">
+      <strong>New to baking?</strong> Start with our <a href="{{ '/basics/tools/' | relative_url }}">tools guide</a> to learn what you need (spoiler: just a bowl and heat source), then try the <a href="{{ '/recipes/savory/basic-bread/' | relative_url }}">basic bread recipe</a>.
+    </div>
+  </div>
+</section>
+
+<!-- Featured Sourdough Section -->
+<section class="section section--alt" id="recipes">
+  <div class="container">
+    <h2 class="mb-6">Sourdough Recipes</h2>
+    <p class="text-light mb-8" style="max-width: 600px;">
+      Sourdough is an all-natural bread without any added yeast. The dough gives the bread an amazing sour taste.
+      Start by <a href="{{ '/recipes/sourdough/make-sourdough-starter/' | relative_url }}">making your own starter</a>.
+    </p>
+
+    <div class="grid grid--auto">
+      {% assign sourdough_recipes = site.recipes | where: "category", "sourdough" %}
+      {% for recipe in sourdough_recipes limit: 6 %}
+        {% include recipe-card.html recipe=recipe %}
+      {% endfor %}
+    </div>
+
+    <div class="text-center mt-8">
+      <a href="{{ '/recipes/sourdough/' | relative_url }}" class="btn btn--secondary">
+        View All Sourdough Recipes
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- Yeast Breads Section -->
+<section class="section">
+  <div class="container">
+    <h2 class="mb-6">Yeast Breads</h2>
+    <p class="text-light mb-8" style="max-width: 600px;">
+      Yeast is the easiest way to get started baking bread. Perfect for beginners who want quick results.
+    </p>
+
+    <div class="grid grid--auto">
+      {% assign savory_recipes = site.recipes | where: "category", "savory" %}
+      {% for recipe in savory_recipes limit: 3 %}
+        {% include recipe-card.html recipe=recipe %}
+      {% endfor %}
+
+      {% assign sweet_recipes = site.recipes | where: "category", "sweet" %}
+      {% for recipe in sweet_recipes limit: 3 %}
+        {% include recipe-card.html recipe=recipe %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- Experiments Section -->
+<section class="section section--alt">
+  <div class="container">
+    <h2 class="mb-6">Baking Experiments</h2>
+    <p class="text-light mb-8" style="max-width: 600px;">
+      Like a true programmer, we A/B test our bread. Each experiment changes one variable to see its impact on the final result.
+    </p>
+
+    <div class="grid grid--3">
+      {% for experiment in site.experiments limit: 3 %}
+      <article class="card">
+        <div class="card__body">
+          <span class="card__category">Experiment</span>
+          <h3 class="card__title">
+            <a href="{{ experiment.url | relative_url }}">{{ experiment.title }}</a>
+          </h3>
+          {% if experiment.description %}
+          <p class="card__excerpt">{{ experiment.description | truncate: 100 }}</p>
+          {% endif %}
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+
+    <div class="text-center mt-8">
+      <a href="{{ '/experiments/' | relative_url }}" class="btn btn--secondary">
+        View All Experiments
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- Philosophy Section -->
+<section class="section">
+  <div class="container container--narrow">
+    <h2 class="text-center mb-6">The Bread Code Philosophy</h2>
+
+    <div class="text-center mb-8">
+      <p class="text-lg text-light">
+        Have you ever relished the taste of a fresh, warm bread with a crispy crust?
+        Do you know the sound of the crispy crust when you take a bite?
+      </p>
+    </div>
+
+    <div class="grid grid--3 mt-10">
+      <div class="text-center">
+        <div style="font-size: 2.5rem; margin-bottom: 1rem;">🧪</div>
+        <h3 style="font-size: 1.125rem; margin-bottom: 0.5rem; margin-top: 0;">A/B Test</h3>
+        <p class="text-sm text-muted">
+          Change one variable at a time. Document what works and what doesn't.
+        </p>
+      </div>
+
+      <div class="text-center">
+        <div style="font-size: 2.5rem; margin-bottom: 1rem;">🔄</div>
+        <h3 style="font-size: 1.125rem; margin-bottom: 0.5rem; margin-top: 0;">Iterate</h3>
+        <p class="text-sm text-muted">
+          Each bread teaches you something. Apply learnings to the next bake.
+        </p>
+      </div>
+
+      <div class="text-center">
+        <div style="font-size: 2.5rem; margin-bottom: 1rem;">📝</div>
+        <h3 style="font-size: 1.125rem; margin-bottom: 0.5rem; margin-top: 0;">Document</h3>
+        <p class="text-sm text-muted">
+          Keep notes. Share your experiments. Help others learn from your journey.
+        </p>
+      </div>
+    </div>
+
+    <blockquote class="mt-10" style="text-align: center; font-style: normal; border: none; padding: 0;">
+      <p class="text-lg">
+        "There is no such thing as the perfect bread. There are so many different possibilities,
+        combinations, ingredients, parameters — every bread is unique!"
+      </p>
+    </blockquote>
+  </div>
+</section>
+
+<!-- CTA Section -->
+<section class="section section--primary">
+  <div class="container text-center">
+    <h2 style="margin-top: 0;">Ready to Start Baking?</h2>
+    <p class="mb-8" style="opacity: 0.9; max-width: 500px; margin-left: auto; margin-right: auto;">
+      You don't need expensive tools. Just a bowl, some flour, water, salt, and a heat source.
+    </p>
+    <div class="hero__actions" style="justify-content: center;">
+      <a href="{{ '/recipes/savory/basic-bread/' | relative_url }}" class="btn btn--lg" style="background: white; color: #3B9FD8;">
+        Try Basic Bread
+      </a>
+      <a href="{{ '/basics/tools/' | relative_url }}" class="btn btn--lg" style="background: transparent; border: 2px solid white; color: white;">
+        What Tools Do I Need?
+      </a>
+    </div>
+  </div>
+</section>

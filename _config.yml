@@ -1,0 +1,55 @@
+# Site settings
+title: The Bread Code
+description: >-
+  Learn how to master the art of baking the programmer way.
+  A/B test, iterate and ultimately become a self-taught baker.
+baseurl: "" # subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Sass settings
+sass:
+  style: compressed
+  sass_dir: _sass
+
+# Collections for organizing content
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:path/
+  experiments:
+    output: true
+    permalink: /experiments/:path/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: "recipe"
+  - scope:
+      path: ""
+      type: "experiments"
+    values:
+      layout: "experiment"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Exclude from build
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+  - "*.sh"
+  - .aspell*

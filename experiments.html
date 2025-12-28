@@ -1,0 +1,58 @@
+---
+layout: default
+title: Experiments
+description: A/B testing our bread. Each experiment changes one variable to see its impact on the final result.
+permalink: /experiments/
+---
+
+<div class="container">
+  <header class="page-header">
+    <h1 class="page-header__title">Baking Experiments</h1>
+    <p class="page-header__subtitle">
+      Like a true programmer, we A/B test our bread. Each experiment changes one variable
+      to see its impact on the final result.
+    </p>
+  </header>
+
+  <div class="notice notice--info mb-8">
+    <strong>The scientific approach:</strong> Always change only one parameter at a time.
+    That way you can iterate and learn how each variable influences the final product.
+  </div>
+
+  <div class="grid grid--2">
+    {% for experiment in site.experiments %}
+    <article class="card">
+      {% if experiment.image %}
+      <div class="card__image">
+        <a href="{{ experiment.url | relative_url }}">
+          <img src="{{ experiment.image | relative_url }}" alt="{{ experiment.title }}" loading="lazy">
+        </a>
+      </div>
+      {% endif %}
+      <div class="card__body">
+        <span class="card__category">Experiment</span>
+        <h3 class="card__title">
+          <a href="{{ experiment.url | relative_url }}">{{ experiment.title }}</a>
+        </h3>
+        {% if experiment.description %}
+        <p class="card__excerpt">{{ experiment.description }}</p>
+        {% endif %}
+        {% if experiment.variables %}
+        <div class="card__meta">
+          <span class="tag tag--accent">{{ experiment.variables }}</span>
+        </div>
+        {% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+
+  <section class="section mt-10">
+    <h2>Want to Contribute?</h2>
+    <p>
+      Have you conducted your own baking experiments? We'd love to include them!
+      Please <a href="https://github.com/hendricius/the-bread-code/pulls">submit a pull request</a>
+      with your findings.
+    </p>
+  </section>
+</div>

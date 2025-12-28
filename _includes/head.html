@@ -1,0 +1,31 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{{ page.description | default: site.description | strip_html | truncate: 160 }}">
+
+<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+
+<!-- Preload critical assets -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="{{ '/images/logo/icon_blue_transparent.png' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/images/logo/icon_blue_transparent.png' | relative_url }}">
+
+<!-- Stylesheets -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+<!-- Open Graph / Social -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ page.title | default: site.title }}">
+<meta property="og:description" content="{{ page.description | default: site.description | strip_html | truncate: 160 }}">
+<meta property="og:image" content="{{ page.image | default: '/images/logo/logotype_b.png' | absolute_url }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title | default: site.title }}">
+<meta name="twitter:description" content="{{ page.description | default: site.description | strip_html | truncate: 160 }}">
+<meta name="twitter:image" content="{{ page.image | default: '/images/logo/logotype_b.png' | absolute_url }}">
+
+<!-- Theme color for mobile browsers -->
+<meta name="theme-color" content="#3B9FD8">

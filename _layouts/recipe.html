@@ -1,0 +1,169 @@
+---
+layout: default
+---
+
+<article class="recipe" itemscope itemtype="https://schema.org/Recipe">
+  <div class="container">
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <span class="breadcrumb__separator" aria-hidden="true">/</span>
+      <a href="{{ '/recipes/' | relative_url }}">Recipes</a>
+      {% if page.category %}
+      <span class="breadcrumb__separator" aria-hidden="true">/</span>
+      <a href="{{ '/recipes/' | append: page.category | downcase | relative_url }}">{{ page.category }}</a>
+      {% endif %}
+      <span class="breadcrumb__separator" aria-hidden="true">/</span>
+      <span aria-current="page">{{ page.title }}</span>
+    </nav>
+
+    <!-- Recipe Header -->
+    <header class="page-header">
+      <h1 class="page-header__title" itemprop="name">{{ page.title }}</h1>
+
+      {% if page.description %}
+      <p class="page-header__subtitle" itemprop="description">{{ page.description }}</p>
+      {% endif %}
+
+      <!-- Meta information -->
+      <div class="meta-pills">
+        {% if page.prep_time %}
+        <span class="meta-pill" itemprop="prepTime" content="{{ page.prep_time_iso | default: page.prep_time }}">
+          <svg class="meta-pill__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="10"></circle>
+            <polyline points="12 6 12 12 16 14"></polyline>
+          </svg>
+          Prep: {{ page.prep_time }}
+        </span>
+        {% endif %}
+
+        {% if page.cook_time %}
+        <span class="meta-pill" itemprop="cookTime" content="{{ page.cook_time_iso | default: page.cook_time }}">
+          <svg class="meta-pill__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+            <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+          </svg>
+          Cook: {{ page.cook_time }}
+        </span>
+        {% endif %}
+
+        {% if page.total_time %}
+        <span class="meta-pill" itemprop="totalTime" content="{{ page.total_time_iso | default: page.total_time }}">
+          <svg class="meta-pill__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"></path>
+          </svg>
+          Total: {{ page.total_time }}
+        </span>
+        {% endif %}
+
+        {% if page.difficulty %}
+        <span class="meta-pill">
+          <svg class="meta-pill__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+          </svg>
+          {{ page.difficulty }}
+        </span>
+        {% endif %}
+
+        {% if page.yield %}
+        <span class="meta-pill" itemprop="recipeYield">
+          <svg class="meta-pill__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+            <circle cx="9" cy="7" r="4"></circle>
+            <path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"></path>
+          </svg>
+          {{ page.yield }}
+        </span>
+        {% endif %}
+      </div>
+    </header>
+
+    <!-- Hero image -->
+    {% if page.image %}
+    <figure class="recipe__hero">
+      <img
+        src="{{ page.image | relative_url }}"
+        alt="{{ page.title }}"
+        itemprop="image"
+        loading="eager"
+      >
+    </figure>
+    {% endif %}
+
+    <!-- Recipe content with sidebar -->
+    <div class="recipe-layout">
+      <!-- Sidebar with ingredients -->
+      <aside class="recipe-sidebar">
+        <div class="recipe-sidebar__inner">
+          {% if page.ingredients %}
+          <div class="ingredient-box">
+            <h2 class="ingredient-box__title">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path>
+                <line x1="3" y1="6" x2="21" y2="6"></line>
+                <path d="M16 10a4 4 0 0 1-8 0"></path>
+              </svg>
+              Ingredients
+            </h2>
+            <ul class="ingredient-box__list" itemprop="recipeIngredient">
+              {% for ingredient in page.ingredients %}
+              <li class="ingredient-box__item">
+                {% if ingredient.amount %}
+                <span class="ingredient-box__amount">{{ ingredient.amount }}</span>
+                {% endif %}
+                {{ ingredient.name | default: ingredient }}
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+
+          <!-- Print button -->
+          <button class="btn btn--secondary btn--sm mt-4" onclick="window.print()" style="width: 100%;">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="6 9 6 2 18 2 18 9"></polyline>
+              <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path>
+              <rect x="6" y="14" width="12" height="8"></rect>
+            </svg>
+            Print Recipe
+          </button>
+        </div>
+      </aside>
+
+      <!-- Main content -->
+      <div class="recipe-content" itemprop="recipeInstructions">
+        {{ content }}
+      </div>
+    </div>
+
+    <!-- Author info -->
+    {% if page.author %}
+    <footer class="recipe__footer mt-10">
+      <p class="text-muted">
+        <span itemprop="author">Recipe by {{ page.author }}</span>
+      </p>
+    </footer>
+    {% endif %}
+  </div>
+</article>
+
+<style>
+  .recipe__hero {
+    margin: 0 0 2rem;
+    border-radius: 12px;
+    overflow: hidden;
+  }
+
+  .recipe__hero img {
+    width: 100%;
+    max-height: 500px;
+    object-fit: cover;
+    border-radius: 0;
+  }
+
+  @media (min-width: 768px) {
+    .recipe__hero img {
+      max-height: 600px;
+    }
+  }
+</style>

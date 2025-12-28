@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="container container--narrow">
+  {% if page.breadcrumb != false %}
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    {% if page.parent %}
+    <span class="breadcrumb__separator" aria-hidden="true">/</span>
+    <a href="{{ page.parent_url | relative_url }}">{{ page.parent }}</a>
+    {% endif %}
+    <span class="breadcrumb__separator" aria-hidden="true">/</span>
+    <span aria-current="page">{{ page.title }}</span>
+  </nav>
+  {% endif %}
+
+  <header class="page-header">
+    <h1 class="page-header__title">{{ page.title }}</h1>
+
+    {% if page.description %}
+    <p class="page-header__subtitle">{{ page.description }}</p>
+    {% endif %}
+  </header>
+
+  <div class="page__content">
+    {{ content }}
+  </div>
+</div>
+
+<style>
+  .page__content img {
+    margin: 1.5rem 0;
+  }
+
+  .page__content h2 {
+    margin-top: 3rem;
+  }
+
+  .page__content h3 {
+    margin-top: 2rem;
+  }
+</style>

@@ -1,0 +1,55 @@
+{% comment %}
+Recipe Card Component
+Usage: {% include recipe-card.html recipe=recipe %}
+{% endcomment %}
+
+<article class="card recipe-card">
+  {% if include.recipe.image %}
+  <div class="recipe-card__image">
+    {% if include.recipe.category %}
+    <span class="recipe-card__badge">{{ include.recipe.category }}</span>
+    {% endif %}
+    <a href="{{ include.recipe.url | relative_url }}">
+      <img
+        src="{{ include.recipe.image | relative_url }}"
+        alt="{{ include.recipe.title }}"
+        loading="lazy"
+        width="400"
+        height="250"
+      >
+    </a>
+  </div>
+  {% endif %}
+
+  <div class="card__body">
+    {% if include.recipe.category and include.recipe.image == nil %}
+    <span class="card__category">{{ include.recipe.category }}</span>
+    {% endif %}
+
+    <h3 class="card__title">
+      <a href="{{ include.recipe.url | relative_url }}">{{ include.recipe.title }}</a>
+    </h3>
+
+    {% if include.recipe.description %}
+    <p class="card__excerpt">{{ include.recipe.description | strip_html | truncate: 120 }}</p>
+    {% endif %}
+
+    {% if include.recipe.prep_time or include.recipe.cook_time or include.recipe.difficulty %}
+    <div class="card__meta">
+      {% if include.recipe.prep_time %}
+      <span class="meta-item">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="12" r="10"></circle>
+          <polyline points="12 6 12 12 16 14"></polyline>
+        </svg>
+        {{ include.recipe.prep_time }}
+      </span>
+      {% endif %}
+
+      {% if include.recipe.difficulty %}
+      <span class="meta-item">{{ include.recipe.difficulty }}</span>
+      {% endif %}
+    </div>
+    {% endif %}
+  </div>
+</article>

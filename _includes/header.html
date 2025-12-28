@@ -1,0 +1,100 @@
+<header class="site-header" id="site-header">
+  <div class="container">
+    <div class="site-header__inner">
+      <!-- Logo -->
+      <a href="{{ '/' | relative_url }}" class="logo" aria-label="{{ site.title }} - Home">
+        <img
+          src="{{ '/images/logo/icon_blue_transparent.png' | relative_url }}"
+          alt=""
+          class="logo__image"
+          width="40"
+          height="40"
+        >
+        <span class="logo__text">The Bread Code</span>
+      </a>
+
+      <!-- Mobile menu toggle -->
+      <button
+        class="nav-toggle"
+        id="nav-toggle"
+        aria-label="Toggle navigation menu"
+        aria-expanded="false"
+        aria-controls="site-nav"
+      >
+        <svg class="nav-toggle__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="3" y1="6" x2="21" y2="6" class="nav-toggle__line nav-toggle__line--top"></line>
+          <line x1="3" y1="12" x2="21" y2="12" class="nav-toggle__line nav-toggle__line--middle"></line>
+          <line x1="3" y1="18" x2="21" y2="18" class="nav-toggle__line nav-toggle__line--bottom"></line>
+        </svg>
+      </button>
+
+      <!-- Navigation -->
+      <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+        <ul class="site-nav__list">
+          <li class="site-nav__item">
+            <a href="{{ '/' | relative_url }}" class="site-nav__link{% if page.url == '/' %} is-active{% endif %}">
+              Home
+            </a>
+          </li>
+          <li class="site-nav__item">
+            <a href="{{ '/recipes/' | relative_url }}" class="site-nav__link{% if page.url contains '/recipes' %} is-active{% endif %}">
+              Recipes
+            </a>
+          </li>
+          <li class="site-nav__item">
+            <a href="{{ '/basics/' | relative_url }}" class="site-nav__link{% if page.url contains '/basics' %} is-active{% endif %}">
+              Basics
+            </a>
+          </li>
+          <li class="site-nav__item">
+            <a href="{{ '/experiments/' | relative_url }}" class="site-nav__link{% if page.url contains '/experiments' %} is-active{% endif %}">
+              Experiments
+            </a>
+          </li>
+          <li class="site-nav__item">
+            <a href="{{ '/faq/' | relative_url }}" class="site-nav__link{% if page.url contains '/faq' %} is-active{% endif %}">
+              FAQ
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<script>
+// Mobile navigation toggle
+(function() {
+  const toggle = document.getElementById('nav-toggle');
+  const nav = document.getElementById('site-nav');
+  const header = document.getElementById('site-header');
+
+  if (toggle && nav) {
+    toggle.addEventListener('click', function() {
+      const isOpen = nav.classList.toggle('is-open');
+      toggle.setAttribute('aria-expanded', isOpen);
+      document.body.style.overflow = isOpen ? 'hidden' : '';
+    });
+
+    // Close menu when clicking a link
+    nav.querySelectorAll('.site-nav__link').forEach(function(link) {
+      link.addEventListener('click', function() {
+        nav.classList.remove('is-open');
+        toggle.setAttribute('aria-expanded', 'false');
+        document.body.style.overflow = '';
+      });
+    });
+  }
+
+  // Add shadow to header on scroll
+  if (header) {
+    window.addEventListener('scroll', function() {
+      if (window.scrollY > 10) {
+        header.classList.add('is-scrolled');
+      } else {
+        header.classList.remove('is-scrolled');
+      }
+    });
+  }
+})();
+</script>

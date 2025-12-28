@@ -1,0 +1,334 @@
+// ============================================
+// BASE STYLES
+// Reset, typography, and foundational elements
+// ============================================
+
+// --------------------------------------------
+// CSS RESET & BOX SIZING
+// --------------------------------------------
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+
+  @media (prefers-reduced-motion: reduce) {
+    scroll-behavior: auto;
+  }
+}
+
+body {
+  font-family: $font-family-base;
+  font-size: $font-size-base;
+  font-weight: $font-weight-normal;
+  line-height: $line-height-base;
+  color: $color-text;
+  background-color: $color-bg;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+// --------------------------------------------
+// TYPOGRAPHY
+// --------------------------------------------
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-heading;
+  font-weight: $font-weight-bold;
+  line-height: $line-height-tight;
+  color: $color-text;
+  margin-bottom: $space-4;
+}
+
+h1 {
+  font-size: $font-size-h1;
+  letter-spacing: -0.02em;
+
+  @include respond-to(md) {
+    font-size: $font-size-h1-lg;
+  }
+}
+
+h2 {
+  font-size: $font-size-h2;
+  letter-spacing: -0.01em;
+  margin-top: $space-10;
+
+  @include respond-to(md) {
+    font-size: $font-size-h2-lg;
+  }
+}
+
+h3 {
+  font-size: $font-size-h3;
+  margin-top: $space-8;
+
+  @include respond-to(md) {
+    font-size: $font-size-h3-lg;
+  }
+}
+
+h4 {
+  font-size: $font-size-h4;
+  margin-top: $space-6;
+
+  @include respond-to(md) {
+    font-size: $font-size-h4-lg;
+  }
+}
+
+p {
+  margin-bottom: $space-4;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// Links
+a {
+  color: $color-primary;
+  text-decoration: none;
+  transition: color $transition-fast;
+
+  &:hover,
+  &:focus {
+    color: $color-primary-dark;
+    text-decoration: underline;
+  }
+
+  &:focus {
+    outline: 2px solid $color-primary;
+    outline-offset: 2px;
+  }
+}
+
+// Strong & emphasis
+strong, b {
+  font-weight: $font-weight-semibold;
+}
+
+em, i {
+  font-style: italic;
+}
+
+// Small text
+small {
+  font-size: $font-size-sm;
+}
+
+// --------------------------------------------
+// LISTS
+// --------------------------------------------
+
+ul, ol {
+  margin-bottom: $space-4;
+  padding-left: $space-6;
+}
+
+li {
+  margin-bottom: $space-2;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+ul {
+  list-style-type: disc;
+
+  ul {
+    list-style-type: circle;
+    margin-top: $space-2;
+    margin-bottom: 0;
+  }
+}
+
+ol {
+  list-style-type: decimal;
+
+  ol {
+    list-style-type: lower-alpha;
+    margin-top: $space-2;
+    margin-bottom: 0;
+  }
+}
+
+// --------------------------------------------
+// IMAGES
+// --------------------------------------------
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: $border-radius;
+}
+
+figure {
+  margin: $space-6 0;
+
+  img {
+    width: 100%;
+  }
+
+  figcaption {
+    margin-top: $space-2;
+    font-size: $font-size-sm;
+    color: $color-text-light;
+    text-align: center;
+  }
+}
+
+// --------------------------------------------
+// CODE
+// --------------------------------------------
+
+code {
+  font-family: $font-family-mono;
+  font-size: 0.9em;
+  background-color: $color-bg-code;
+  padding: 0.15em 0.4em;
+  border-radius: $border-radius-sm;
+}
+
+pre {
+  font-family: $font-family-mono;
+  font-size: $font-size-sm;
+  background-color: $color-bg-code;
+  padding: $space-4;
+  border-radius: $border-radius;
+  overflow-x: auto;
+  margin-bottom: $space-4;
+
+  code {
+    background: none;
+    padding: 0;
+    font-size: inherit;
+  }
+}
+
+// --------------------------------------------
+// BLOCKQUOTES
+// --------------------------------------------
+
+blockquote {
+  border-left: 4px solid $color-primary;
+  padding-left: $space-4;
+  margin: $space-6 0;
+  font-style: italic;
+  color: $color-text-light;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// --------------------------------------------
+// HORIZONTAL RULE
+// --------------------------------------------
+
+hr {
+  border: none;
+  border-top: 1px solid $color-border;
+  margin: $space-8 0;
+}
+
+// --------------------------------------------
+// TABLES
+// --------------------------------------------
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: $space-6;
+  font-size: $font-size-sm;
+
+  @include respond-to(md) {
+    font-size: $font-size-base;
+  }
+}
+
+th, td {
+  padding: $space-3 $space-4;
+  text-align: left;
+  border-bottom: 1px solid $color-border;
+}
+
+th {
+  font-weight: $font-weight-semibold;
+  background-color: $color-bg-alt;
+}
+
+tr:hover {
+  background-color: $color-bg-alt;
+}
+
+// --------------------------------------------
+// FORMS & INPUTS (for future use)
+// --------------------------------------------
+
+input,
+textarea,
+select,
+button {
+  font-family: inherit;
+  font-size: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+// --------------------------------------------
+// SELECTION
+// --------------------------------------------
+
+::selection {
+  background-color: $color-primary-light;
+  color: $color-text;
+}
+
+// --------------------------------------------
+// FOCUS VISIBLE
+// Better focus states for keyboard navigation
+// --------------------------------------------
+
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+:focus-visible {
+  outline: 2px solid $color-primary;
+  outline-offset: 2px;
+}
+
+// --------------------------------------------
+// SKIP LINK (Accessibility)
+// --------------------------------------------
+
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: $space-4;
+  padding: $space-3 $space-4;
+  background-color: $color-primary;
+  color: white;
+  border-radius: $border-radius;
+  z-index: $z-tooltip;
+
+  &:focus {
+    top: $space-4;
+  }
+}

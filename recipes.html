@@ -1,0 +1,70 @@
+---
+layout: default
+title: All Recipes
+description: Browse our collection of bread recipes, from simple yeast breads to artisan sourdough.
+permalink: /recipes/
+---
+
+<div class="container">
+  <header class="page-header">
+    <h1 class="page-header__title">All Recipes</h1>
+    <p class="page-header__subtitle">
+      From simple yeast breads to artisan sourdough, find your next baking project.
+    </p>
+  </header>
+
+  <!-- Filter by category -->
+  <div class="mb-8">
+    <div class="flex flex-wrap gap-2">
+      <a href="#sourdough" class="tag tag--primary">Sourdough</a>
+      <a href="#savory" class="tag">Savory</a>
+      <a href="#sweet" class="tag">Sweet</a>
+    </div>
+  </div>
+
+  <!-- Sourdough Section -->
+  <section id="sourdough" class="mb-10">
+    <h2>Sourdough Recipes</h2>
+    <p class="text-light mb-6">
+      All-natural breads fermented with wild yeast.
+      <a href="{{ '/recipes/sourdough/make-sourdough-starter/' | relative_url }}">Make your starter first</a>.
+    </p>
+
+    <div class="grid grid--auto">
+      {% assign sourdough = site.recipes | where: "category", "sourdough" | sort: "order" %}
+      {% for recipe in sourdough %}
+        {% include recipe-card.html recipe=recipe %}
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- Savory Section -->
+  <section id="savory" class="mb-10">
+    <h2>Savory Breads</h2>
+    <p class="text-light mb-6">
+      Classic yeast-based breads perfect for sandwiches, burgers, and everyday eating.
+    </p>
+
+    <div class="grid grid--auto">
+      {% assign savory = site.recipes | where: "category", "savory" | sort: "order" %}
+      {% for recipe in savory %}
+        {% include recipe-card.html recipe=recipe %}
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- Sweet Section -->
+  <section id="sweet" class="mb-10">
+    <h2>Sweet Breads</h2>
+    <p class="text-light mb-6">
+      Delicious sweet treats and enriched doughs for special occasions.
+    </p>
+
+    <div class="grid grid--auto">
+      {% assign sweet = site.recipes | where: "category", "sweet" | sort: "order" %}
+      {% for recipe in sweet %}
+        {% include recipe-card.html recipe=recipe %}
+      {% endfor %}
+    </div>
+  </section>
+</div>

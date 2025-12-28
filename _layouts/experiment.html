@@ -1,0 +1,93 @@
+---
+layout: default
+---
+
+<article class="experiment">
+  <div class="container container--narrow">
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <span class="breadcrumb__separator" aria-hidden="true">/</span>
+      <a href="{{ '/experiments/' | relative_url }}">Experiments</a>
+      <span class="breadcrumb__separator" aria-hidden="true">/</span>
+      <span aria-current="page">{{ page.title }}</span>
+    </nav>
+
+    <!-- Header -->
+    <header class="page-header">
+      <span class="tag tag--primary mb-4">Experiment</span>
+      <h1 class="page-header__title">{{ page.title }}</h1>
+
+      {% if page.description %}
+      <p class="page-header__subtitle">{{ page.description }}</p>
+      {% endif %}
+
+      {% if page.variables %}
+      <div class="meta-pills mt-4">
+        <span class="meta-pill">
+          <svg class="meta-pill__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>
+          </svg>
+          Variable: {{ page.variables }}
+        </span>
+      </div>
+      {% endif %}
+    </header>
+
+    <!-- Hero image -->
+    {% if page.image %}
+    <figure class="experiment__hero">
+      <img
+        src="{{ page.image | relative_url }}"
+        alt="{{ page.title }}"
+        loading="eager"
+      >
+    </figure>
+    {% endif %}
+
+    <!-- Content -->
+    <div class="experiment__content">
+      {{ content }}
+    </div>
+
+    <!-- Navigation -->
+    <nav class="experiment__nav mt-10">
+      <a href="{{ '/experiments/' | relative_url }}" class="btn btn--secondary">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="19" y1="12" x2="5" y2="12"></line>
+          <polyline points="12 19 5 12 12 5"></polyline>
+        </svg>
+        All Experiments
+      </a>
+    </nav>
+  </div>
+</article>
+
+<style>
+  .experiment__hero {
+    margin: 0 0 2rem;
+    border-radius: 12px;
+    overflow: hidden;
+  }
+
+  .experiment__hero img {
+    width: 100%;
+    border-radius: 0;
+  }
+
+  .experiment__content img {
+    margin: 1.5rem 0;
+  }
+
+  .experiment__content h2 {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid #e5e8eb;
+  }
+
+  .experiment__content h2:first-child {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: none;
+  }
+</style>

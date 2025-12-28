@@ -1,0 +1,370 @@
+// ============================================
+// LAYOUT STYLES
+// Container, grid, and structural elements
+// Mobile-first responsive design
+// ============================================
+
+// --------------------------------------------
+// CONTAINER
+// --------------------------------------------
+
+.container {
+  width: 100%;
+  max-width: $container-max-width;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: $container-padding;
+  padding-right: $container-padding;
+
+  @include respond-to(lg) {
+    padding-left: $container-padding-lg;
+    padding-right: $container-padding-lg;
+  }
+}
+
+.container--narrow {
+  max-width: $content-max-width;
+}
+
+// --------------------------------------------
+// MAIN CONTENT AREA
+// --------------------------------------------
+
+.site-main {
+  flex: 1;
+  padding-top: $space-6;
+  padding-bottom: $space-12;
+
+  @include respond-to(md) {
+    padding-top: $space-10;
+    padding-bottom: $space-16;
+  }
+}
+
+// --------------------------------------------
+// SECTION SPACING
+// --------------------------------------------
+
+.section {
+  padding-top: $space-10;
+  padding-bottom: $space-10;
+
+  @include respond-to(md) {
+    padding-top: $space-16;
+    padding-bottom: $space-16;
+  }
+}
+
+.section--alt {
+  background-color: $color-bg-alt;
+}
+
+.section--primary {
+  background-color: $color-primary;
+  color: white;
+
+  h1, h2, h3, h4, h5, h6 {
+    color: white;
+  }
+
+  a {
+    color: white;
+    text-decoration: underline;
+
+    &:hover {
+      opacity: 0.9;
+    }
+  }
+}
+
+// --------------------------------------------
+// GRID SYSTEM
+// Flexible grid using CSS Grid
+// --------------------------------------------
+
+.grid {
+  display: grid;
+  gap: $space-6;
+
+  @include respond-to(md) {
+    gap: $space-8;
+  }
+}
+
+// Auto-fit grid for cards
+.grid--auto {
+  grid-template-columns: 1fr;
+
+  @include respond-to(sm) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @include respond-to(lg) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+// Two column grid
+.grid--2 {
+  grid-template-columns: 1fr;
+
+  @include respond-to(md) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+// Three column grid
+.grid--3 {
+  grid-template-columns: 1fr;
+
+  @include respond-to(sm) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @include respond-to(lg) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+// --------------------------------------------
+// FLEXBOX UTILITIES
+// --------------------------------------------
+
+.flex {
+  display: flex;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.items-start {
+  align-items: flex-start;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.gap-2 { gap: $space-2; }
+.gap-4 { gap: $space-4; }
+.gap-6 { gap: $space-6; }
+.gap-8 { gap: $space-8; }
+
+// --------------------------------------------
+// RECIPE PAGE LAYOUT
+// Responsive sidebar layout
+// --------------------------------------------
+
+.recipe-layout {
+  display: flex;
+  flex-direction: column;
+  gap: $space-8;
+
+  @include respond-to(lg) {
+    flex-direction: row;
+    gap: $space-10;
+  }
+}
+
+.recipe-content {
+  flex: 1;
+  min-width: 0; // Prevents overflow issues
+
+  // Improve readability for long-form content
+  > p,
+  > ul,
+  > ol {
+    max-width: 65ch; // Optimal line length
+  }
+}
+
+.recipe-sidebar {
+  @include respond-to(lg) {
+    width: $sidebar-width;
+    flex-shrink: 0;
+  }
+}
+
+// Sticky sidebar on desktop
+.recipe-sidebar__inner {
+  @include respond-to(lg) {
+    position: sticky;
+    top: $space-6;
+  }
+}
+
+// --------------------------------------------
+// PAGE HEADER
+// --------------------------------------------
+
+.page-header {
+  margin-bottom: $space-8;
+  padding-bottom: $space-6;
+  border-bottom: 1px solid $color-border;
+
+  @include respond-to(md) {
+    margin-bottom: $space-10;
+    padding-bottom: $space-8;
+  }
+}
+
+.page-header__title {
+  margin-bottom: $space-2;
+  margin-top: 0;
+}
+
+.page-header__subtitle {
+  font-size: $font-size-lg;
+  color: $color-text-light;
+  margin-bottom: 0;
+
+  @include respond-to(md) {
+    font-size: $font-size-xl;
+  }
+}
+
+.page-header__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $space-4;
+  margin-top: $space-4;
+  font-size: $font-size-sm;
+  color: $color-text-muted;
+}
+
+// --------------------------------------------
+// BREADCRUMB
+// --------------------------------------------
+
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: $space-2;
+  font-size: $font-size-sm;
+  color: $color-text-muted;
+  margin-bottom: $space-4;
+
+  a {
+    color: $color-text-muted;
+
+    &:hover {
+      color: $color-primary;
+    }
+  }
+
+  .breadcrumb__separator {
+    color: $color-border-dark;
+  }
+}
+
+// --------------------------------------------
+// TWO-COLUMN CONTENT + SIDEBAR
+// --------------------------------------------
+
+.content-with-sidebar {
+  @include respond-to(lg) {
+    display: grid;
+    grid-template-columns: 1fr $sidebar-width;
+    gap: $space-10;
+  }
+}
+
+.content-area {
+  min-width: 0;
+}
+
+.sidebar {
+  display: none;
+
+  @include respond-to(lg) {
+    display: block;
+  }
+}
+
+// --------------------------------------------
+// SPACING UTILITIES
+// --------------------------------------------
+
+.mt-0 { margin-top: 0; }
+.mt-4 { margin-top: $space-4; }
+.mt-6 { margin-top: $space-6; }
+.mt-8 { margin-top: $space-8; }
+.mt-10 { margin-top: $space-10; }
+
+.mb-0 { margin-bottom: 0; }
+.mb-4 { margin-bottom: $space-4; }
+.mb-6 { margin-bottom: $space-6; }
+.mb-8 { margin-bottom: $space-8; }
+.mb-10 { margin-bottom: $space-10; }
+
+.py-4 { padding-top: $space-4; padding-bottom: $space-4; }
+.py-6 { padding-top: $space-6; padding-bottom: $space-6; }
+.py-8 { padding-top: $space-8; padding-bottom: $space-8; }
+
+// --------------------------------------------
+// TEXT UTILITIES
+// --------------------------------------------
+
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+
+.text-sm { font-size: $font-size-sm; }
+.text-lg { font-size: $font-size-lg; }
+.text-xl { font-size: $font-size-xl; }
+
+.text-muted { color: $color-text-muted; }
+.text-light { color: $color-text-light; }
+
+.font-medium { font-weight: $font-weight-medium; }
+.font-semibold { font-weight: $font-weight-semibold; }
+.font-bold { font-weight: $font-weight-bold; }
+
+// --------------------------------------------
+// VISIBILITY UTILITIES
+// --------------------------------------------
+
+.hidden {
+  display: none !important;
+}
+
+.hidden-mobile {
+  display: none;
+
+  @include respond-to(md) {
+    display: block;
+  }
+}
+
+.hidden-desktop {
+  @include respond-to(md) {
+    display: none;
+  }
+}
+
+// Screen reader only
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
